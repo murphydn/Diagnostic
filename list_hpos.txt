@@ -1,0 +1,5657 @@
+1	1-5 finger syndactyly
+2	11 pairs of ribs
+3	2-3 finger syndactyly
+4	2-3 toe cutaneous syndactyly
+5	2-3 toe syndactyly
+6	2-4 toe syndactyly
+7	2nd-5th toe middle phalangeal hypoplasia
+8	3-4 finger cutaneous syndactyly
+9	3-4 finger syndactyly
+10	3-4 toe syndactyly
+11	3-Methylglutaconic aciduria
+12	4-Hydroxyphenylacetic aciduria
+13	4-Hydroxyphenylpyruvic aciduria
+14	6 metacarpals
+15	Abdominal aortic aneurysm
+16	Abdominal colic
+17	Abdominal distention
+18	Abdominal obesity
+19	Abdominal pain
+20	Abdominal situs inversus
+21	Abdominal symptom
+22	Abdominal wall defect
+23	Abdominal wall muscle weakness
+24	Abducens palsy
+25	Abetalipoproteinemia
+26	Ablepharon
+27	Abnormal B-type natriuretic peptide level
+28	Abnormal C-peptide level
+29	Abnormal CNS myelination
+30	Abnormal CSF protein level
+31	Abnormal EKG
+32	Abnormal T-wave
+33	Abnormal aggressive, impulsive or violent behavior
+34	Abnormal aldolase level
+35	Abnormal anatomic location of the heart
+36	Abnormal aortic morphology
+37	Abnormal apolipoprotein level
+38	Abnormal appendicular skeleton morphology
+39	Abnormal atrioventricular conduction
+40	Abnormal atrioventricular connection
+41	Abnormal auditory evoked potentials
+42	Abnormal autonomic nervous system physiology
+43	Abnormal axial skeleton morphology
+44	Abnormal basal ganglia MRI signal intensity
+45	Abnormal best corrected visual acuity test
+46	Abnormal biliary tract morphology
+47	Abnormal bleeding
+48	Abnormal blistering of the skin
+49	Abnormal bone ossification
+50	Abnormal bone structure
+51	Abnormal bowel sounds
+52	Abnormal brain FDG positron emission tomography
+53	Abnormal brainstem MRI signal intensity
+54	Abnormal breath sound
+55	Abnormal calcification of the carpal bones
+56	Abnormal cardiac ventricular function
+57	Abnormal cartilage matrix
+58	Abnormal cartilage morphology
+59	Abnormal cell morphology
+60	Abnormal cellular phenotype
+61	Abnormal circulating aldosterone
+62	Abnormal circulating follicle-stimulating hormone level
+63	Abnormal circulating insulin level
+64	Abnormal circulating renin
+65	Abnormal concentration of calcium in blood
+66	Abnormal conjugate eye movement
+67	Abnormal coronary artery morphology
+68	Abnormal cortical bone morphology
+69	Abnormal cortical gyration
+70	Abnormal delivery
+71	Abnormal dermatoglyphics
+72	Abnormal diaphysis morphology
+73	Abnormal eating behavior
+74	Abnormal echocardiogram
+75	Abnormal elasticity of skin
+76	Abnormal electrophysiology of sinoatrial node origin
+77	Abnormal electroretinogram
+78	Abnormal emotion/affect behavior
+79	Abnormal enchondral ossification
+80	Abnormal enzyme/coenzyme activity
+81	Abnormal epiphyseal ossification
+82	Abnormal external genitalia
+83	Abnormal eye morphology
+84	Abnormal eye physiology
+85	Abnormal facial shape
+86	Abnormal fear/anxiety-related behavior
+87	Abnormal finger flexion creases
+88	Abnormal flash visual evoked potentials
+89	Abnormal form of the vertebral bodies
+90	Abnormal foveal morphology on macular OCT
+91	Abnormal fundus autofluorescence imaging
+92	Abnormal fundus fluorescein angiography
+93	Abnormal gastrointestinal motility
+94	Abnormal genital system morphology
+95	Abnormal glucose tolerance
+96	Abnormal glycosylation
+97	Abnormal hair laboratory examination
+98	Abnormal hair pattern
+99	Abnormal hair quantity
+100	Abnormal hair whorl
+101	Abnormal hand morphology
+102	Abnormal head movements
+103	Abnormal heart morphology
+104	Abnormal hemoglobin
+105	Abnormal hypothalamus morphology
+106	Abnormal hypothalamus physiology
+107	Abnormal immunoglobulin level
+108	Abnormal inflammatory response
+109	Abnormal internal genitalia
+110	Abnormal involuntary eye movements
+111	Abnormal iris pigmentation
+112	Abnormal isoelectric focusing of serum transferrin
+113	Abnormal joint morphology
+114	Abnormal kinetic perimetry test
+115	Abnormal lactate dehydrogenase activity
+116	Abnormal large intestine physiology
+117	Abnormal levels of creatine kinase in blood
+118	Abnormal liver lobulation
+119	Abnormal liver parenchyma morphology
+120	Abnormal localization of kidney
+121	Abnormal lower motor neuron morphology
+122	Abnormal lower-limb motor evoked potentials
+123	Abnormal lung lobation
+124	Abnormal metabolic brain imaging by MRS
+125	Abnormal metacarpal morphology
+126	Abnormal mitochondria in muscle tissue
+127	Abnormal mitochondrial morphology
+128	Abnormal mitochondrial shape
+129	Abnormal morphology of forearm bone
+130	Abnormal morphology of the cerebellar cortex
+131	Abnormal morphology of the hippocampus
+132	Abnormal morphology of the radius
+133	Abnormal motor evoked potentials
+134	Abnormal motor nerve conduction velocity
+135	Abnormal motor neuron morphology
+136	Abnormal muscle tone
+137	Abnormal myelination
+138	Abnormal myocardium morphology
+139	Abnormal nasal morphology
+140	Abnormal nerve conduction velocity
+141	Abnormal neuron morphology
+142	Abnormal neutrophil cell number
+143	Abnormal number of permanent teeth
+144	Abnormal oral glucose tolerance
+145	Abnormal ossification involving the femoral head and neck
+146	Abnormal palmar dermatoglyphics
+147	Abnormal pattern of respiration
+148	Abnormal pelvis bone morphology
+149	Abnormal pelvis bone ossification
+150	Abnormal pericardium morphology
+151	Abnormal peripheral myelination
+152	Abnormal peripheral nervous system synaptic transmission
+153	Abnormal pigmentation of the oral mucosa
+154	Abnormal placental size
+155	Abnormal plantar dermatoglyphics
+156	Abnormal platelet aggregation
+157	Abnormal platelet function
+158	Abnormal platelet granules
+159	Abnormal platelet morphology
+160	Abnormal posturing
+161	Abnormal proerythroblast morphology
+162	Abnormal prolactin level
+163	Abnormal protein N-linked glycosylation
+164	Abnormal protein O-linked glycosylation
+165	Abnormal pulmonary valve cusp morphology
+166	Abnormal pulse pressure
+167	Abnormal pupillary function
+168	Abnormal pupillary light reflex
+169	Abnormal pyramidal signs
+170	Abnormal rapid eye movement sleep
+171	Abnormal renal morphology
+172	Abnormal renal physiology
+173	Abnormal respiratory motile cilium morphology
+174	Abnormal respiratory system morphology
+175	Abnormal retinal morphology
+176	Abnormal retinal morphology on macular OCT
+177	Abnormal scrotal rugation
+178	Abnormal sensory nerve conduction velocity
+179	Abnormal serum dehydroepiandrosterone level
+180	Abnormal serum interferon-gamma level
+181	Abnormal serum iron
+182	Abnormal sex determination
+183	Abnormal size of pituitary gland
+184	Abnormal size of the palpebral fissures
+185	Abnormal social behavior
+186	Abnormal sperm morphology
+187	Abnormal spermatogenesis
+188	Abnormal spleen morphology
+189	Abnormal static automated perimetry test
+190	Abnormal subcutaneous fat tissue distribution
+191	Abnormal synaptic transmission
+192	Abnormal synaptic transmission at the neuromuscular junction
+193	Abnormal tendon morphology
+194	Abnormal test result
+195	Abnormal testosterone level
+196	Abnormal thalamic MRI signal intensity
+197	Abnormal thrombosis
+198	Abnormal tongue morphology
+199	Abnormal trabecular bone morphology
+200	Abnormal transferrin saturation
+201	Abnormal umbilical cord blood vessels
+202	Abnormal umbilical stump bleeding
+203	Abnormal upper motor neuron morphology
+204	Abnormal urinary color
+205	Abnormal urinary odor
+206	Abnormal urine alpha-ketoglutarate concentration
+207	Abnormal urine potassium concentration
+208	Abnormal vas deferens morphology
+209	Abnormal vascular morphology
+210	Abnormal vertebral morphology
+211	Abnormal vertebral ossification
+212	Abnormal vertebral segmentation and fusion
+213	Abnormal vestibulo-ocular reflex
+214	Abnormal visual accommodation
+215	Abnormal visual field test
+216	Abnormal visual fixation
+217	Abnormality of B cell number
+218	Abnormality of Krebs cycle metabolism
+219	Abnormality of T cell physiology
+220	Abnormality of T cells
+221	Abnormality of abdominal situs
+222	Abnormality of acetylcarnitine metabolism
+223	Abnormality of acid-base homeostasis
+224	Abnormality of adipose tissue
+225	Abnormality of adrenal physiology
+226	Abnormality of amino acid metabolism
+227	Abnormality of basophils
+228	Abnormality of blood and blood-forming tissues
+229	Abnormality of body height
+230	Abnormality of body weight
+231	Abnormality of bone marrow cell morphology
+232	Abnormality of bone mineral density
+233	Abnormality of brain morphology
+234	Abnormality of brainstem morphology
+235	Abnormality of buccal mucosa
+236	Abnormality of calcium-phosphate metabolism
+237	Abnormality of calvarial morphology
+238	Abnormality of canine
+239	Abnormality of carbohydrate metabolism/homeostasis
+240	Abnormality of carboxylic acid metabolism
+241	Abnormality of cardiac atrium
+242	Abnormality of cardiac ventricle
+243	Abnormality of cardiovascular system morphology
+244	Abnormality of cardiovascular system physiology
+245	Abnormality of carnitine metabolism
+246	Abnormality of cartilage of external ear
+247	Abnormality of cells of the erythroid lineage
+248	Abnormality of cells of the lymphoid lineage
+249	Abnormality of cells of the megakaryocyte lineage
+250	Abnormality of cellular immune system
+251	Abnormality of central motor conduction
+252	Abnormality of central motor function
+253	Abnormality of central retinal artery
+254	Abnormality of central sensory function
+255	Abnormality of cerebral artery
+256	Abnormality of cerebral veins
+257	Abnormality of cholesterol metabolism
+258	Abnormality of chromosome segregation
+259	Abnormality of chromosome stability
+260	Abnormality of circle of Willis
+261	Abnormality of circulating adrenocorticotropin level
+262	Abnormality of circulating catecholamine level
+263	Abnormality of circulating enzyme level
+264	Abnormality of circulating hormone level
+265	Abnormality of circulating leptin level
+266	Abnormality of circulating protein level
+267	Abnormality of coagulation
+268	Abnormality of cochlea
+269	Abnormality of color vision
+270	Abnormality of complement system
+271	Abnormality of connective tissue
+272	Abnormality of coordination
+273	Abnormality of corneal endothelium
+274	Abnormality of corneal epithelium
+275	Abnormality of corneal size
+276	Abnormality of cranial sutures
+277	Abnormality of creatine metabolism
+278	Abnormality of dental color
+279	Abnormality of dental enamel
+280	Abnormality of dental eruption
+281	Abnormality of dental morphology
+282	Abnormality of dental structure
+283	Abnormality of dentin
+284	Abnormality of digit
+285	Abnormality of divalent inorganic cation homeostasis
+286	Abnormality of earlobe
+287	Abnormality of endocrine pancreas physiology
+288	Abnormality of eosinophils
+289	Abnormality of epidermal morphology
+290	Abnormality of epiphysis morphology
+291	Abnormality of erythrocytes
+292	Abnormality of esophagus morphology
+293	Abnormality of esophagus physiology
+294	Abnormality of ethmoid bone
+295	Abnormality of ethmoid sinus
+296	Abnormality of exocrine pancreas physiology
+297	Abnormality of extrapyramidal motor function
+298	Abnormality of eye movement
+299	Abnormality of facial musculature
+300	Abnormality of fatty-acid metabolism
+301	Abnormality of female external genitalia
+302	Abnormality of female internal genitalia
+303	Abnormality of femoral epiphysis
+304	Abnormality of femur morphology
+305	Abnormality of fibular epiphyses
+306	Abnormality of finger
+307	Abnormality of fontanelles
+308	Abnormality of ganglioside metabolism
+309	Abnormality of gastrointestinal vasculature
+310	Abnormality of globe location
+311	Abnormality of glutamine metabolism
+312	Abnormality of glycoprotein metabolism
+313	Abnormality of glycosphingolipid metabolism
+314	Abnormality of granulocytes
+315	Abnormality of hair density
+316	Abnormality of hair growth rate
+317	Abnormality of hair pigmentation
+318	Abnormality of hair texture
+319	Abnormality of hand joint mobility
+320	Abnormality of higher mental function
+321	Abnormality of histidine metabolism
+322	Abnormality of humoral immunity
+323	Abnormality of immune system physiology
+324	Abnormality of internal carotid artery
+325	Abnormality of ion homeostasis
+326	Abnormality of iron homeostasis
+327	Abnormality of jaw muscles
+328	Abnormality of joint mobility
+329	Abnormality of jugular vein
+330	Abnormality of lateral ventricle
+331	Abnormality of leucine metabolism
+332	Abnormality of leukocytes
+333	Abnormality of limb bone morphology
+334	Abnormality of limb epiphysis morphology
+335	Abnormality of lipid metabolism
+336	Abnormality of long bone morphology
+337	Abnormality of long-chain fatty-acid metabolism
+338	Abnormality of lower limb joint
+339	Abnormality of lower lip
+340	Abnormality of lung morphology
+341	Abnormality of lymphocytes
+342	Abnormality of macrophages
+343	Abnormality of macular pigmentation
+344	Abnormality of male external genitalia
+345	Abnormality of male internal genitalia
+346	Abnormality of mandible condylar process
+347	Abnormality of masseter muscle
+348	Abnormality of mast cells
+349	Abnormality of masticatory muscle
+350	Abnormality of metabolism/homeostasis
+351	Abnormality of midbrain morphology
+352	Abnormality of mitochondrial metabolism
+353	Abnormality of molar morphology
+354	Abnormality of mouth shape
+355	Abnormality of movement
+356	Abnormality of mucopolysaccharide metabolism
+357	Abnormality of multiple cell lineages in the bone marrow
+358	Abnormality of muscle fibers
+359	Abnormality of muscle morphology
+360	Abnormality of muscle physiology
+361	Abnormality of nail color
+362	Abnormality of neck blood vessel
+363	Abnormality of nervous system morphology
+364	Abnormality of nervous system physiology
+365	Abnormality of neuronal migration
+366	Abnormality of neutrophil physiology
+367	Abnormality of neutrophils
+368	Abnormality of ocular abduction
+369	Abnormality of ocular smooth pursuit
+370	Abnormality of oral frenula
+371	Abnormality of oral mucosa
+372	Abnormality of orbicularis oris muscle
+373	Abnormality of pain sensation
+374	Abnormality of pancreas morphology
+375	Abnormality of pancreas physiology
+376	Abnormality of parotid gland
+377	Abnormality of pelvic girdle bone morphology
+378	Abnormality of periauricular region
+379	Abnormality of peripheral nerve conduction
+380	Abnormality of peripheral nerves
+381	Abnormality of peripheral nervous system electrophysiology
+382	Abnormality of phytanic acid metabolism
+383	Abnormality of polysaccharide metabolism
+384	Abnormality of potassium homeostasis
+385	Abnormality of prenatal development or birth
+386	Abnormality of primary teeth
+387	Abnormality of proteoglycan metabolism
+388	Abnormality of pulmonary situs
+389	Abnormality of refraction
+390	Abnormality of renal excretion
+391	Abnormality of renal resorption
+392	Abnormality of reproductive system physiology
+393	Abnormality of reticulocytes
+394	Abnormality of retinal arteries
+395	Abnormality of retinal pigmentation
+396	Abnormality of saccadic eye movements
+397	Abnormality of salivation
+398	Abnormality of secondary sexual hair
+399	Abnormality of skeletal morphology
+400	Abnormality of skeletal muscle fiber size
+401	Abnormality of skeletal muscles
+402	Abnormality of skeletal physiology
+403	Abnormality of skin morphology
+404	Abnormality of skin physiology
+405	Abnormality of skin pigmentation
+406	Abnormality of skull ossification
+407	Abnormality of small intestinal villus morphology
+408	Abnormality of somatosensory evoked potentials
+409	Abnormality of subcutaneous fat tissue
+410	Abnormality of temperature regulation
+411	Abnormality of thalamus morphology
+412	Abnormality of the 5th finger
+413	Abnormality of the 5th metacarpal
+414	Abnormality of the 5th toe
+415	Abnormality of the Achilles tendon
+416	Abnormality of the Leydig cells
+417	Abnormality of the abdomen
+418	Abnormality of the abdominal wall
+419	Abnormality of the acetabulum
+420	Abnormality of the adrenal glands
+421	Abnormality of the amniotic fluid
+422	Abnormality of the ankles
+423	Abnormality of the anterior chamber
+424	Abnormality of the anterior pituitary
+425	Abnormality of the antihelix
+426	Abnormality of the antitragus
+427	Abnormality of the anus
+428	Abnormality of the aortic arch
+429	Abnormality of the aortic valve
+430	Abnormality of the astrocytes
+431	Abnormality of the auditory canal
+432	Abnormality of the autonomic nervous system
+433	Abnormality of the basal ganglia
+434	Abnormality of the bladder
+435	Abnormality of the breast
+436	Abnormality of the bronchi
+437	Abnormality of the calcaneus
+438	Abnormality of the calf musculature
+439	Abnormality of the cardiac septa
+440	Abnormality of the cardiovascular system
+441	Abnormality of the carotid arteries
+442	Abnormality of the carpal bones
+443	Abnormality of the caudate nucleus
+444	Abnormality of the cerebellar peduncle
+445	Abnormality of the cerebellar vermis
+446	Abnormality of the cerebellum
+447	Abnormality of the cerebral cortex
+448	Abnormality of the cerebral vasculature
+449	Abnormality of the cerebral white matter
+450	Abnormality of the cerebrospinal fluid
+451	Abnormality of the cerebrum
+452	Abnormality of the cervical spine
+453	Abnormality of the cheek
+454	Abnormality of the chin
+455	Abnormality of the choroid
+456	Abnormality of the clavicle
+457	Abnormality of the clitoris
+458	Abnormality of the clivus
+459	Abnormality of the coagulation cascade
+460	Abnormality of the coccyx
+461	Abnormality of the columella
+462	Abnormality of the conjunctiva
+463	Abnormality of the cornea
+464	Abnormality of the corpus callosum
+465	Abnormality of the corticospinal tract
+466	Abnormality of the cranial nerves
+467	Abnormality of the dental pulp
+468	Abnormality of the dentate nucleus
+469	Abnormality of the dentition
+470	Abnormality of the diaphragm
+471	Abnormality of the diencephalon
+472	Abnormality of the distal phalanges of the toes
+473	Abnormality of the distal phalanx of finger
+474	Abnormality of the distal phalanx of the thumb
+475	Abnormality of the dorsal column of the spinal cord
+476	Abnormality of the ductus choledochus
+477	Abnormality of the ear
+478	Abnormality of the elbow
+479	Abnormality of the eleventh cranial nerve
+480	Abnormality of the endocardium
+481	Abnormality of the endocrine system
+482	Abnormality of the endometrium
+483	Abnormality of the epiglottis
+484	Abnormality of the epiphyses of the elbow
+485	Abnormality of the epiphysis of the distal phalanx of the thumb
+486	Abnormality of the epiphysis of the femoral head
+487	Abnormality of the extraocular muscles
+488	Abnormality of the eye
+489	Abnormality of the eyebrow
+490	Abnormality of the eyelashes
+491	Abnormality of the eyelid
+492	Abnormality of the face
+493	Abnormality of the fallopian tube
+494	Abnormality of the falx cerebri
+495	Abnormality of the female genitalia
+496	Abnormality of the femoral metaphysis
+497	Abnormality of the femoral neck
+498	Abnormality of the femoral neck or head region
+499	Abnormality of the fibula
+500	Abnormality of the fingernails
+501	Abnormality of the fingertips
+502	Abnormality of the first metatarsal bone
+503	Abnormality of the fontanelles or cranial sutures
+504	Abnormality of the foot
+505	Abnormality of the foot musculature
+506	Abnormality of the forehead
+507	Abnormality of the fovea
+508	Abnormality of the frontal bone
+509	Abnormality of the frontal sinuses
+510	Abnormality of the fundus
+511	Abnormality of the gallbladder
+512	Abnormality of the gastric mucosa
+513	Abnormality of the gastrointestinal tract
+514	Abnormality of the genital system
+515	Abnormality of the genitourinary system
+516	Abnormality of the gingiva
+517	Abnormality of the glenoid fossa
+518	Abnormality of the globe
+519	Abnormality of the globus pallidus
+520	Abnormality of the hair
+521	Abnormality of the hallux
+522	Abnormality of the hand
+523	Abnormality of the head
+524	Abnormality of the heart valves
+525	Abnormality of the helix
+526	Abnormality of the heme biosynthetic pathway
+527	Abnormality of the hepatic vasculature
+528	Abnormality of the hip bone
+529	Abnormality of the humeroulnar joint
+530	Abnormality of the humerus
+531	Abnormality of the hypothalamus-pituitary axis
+532	Abnormality of the hypothenar eminence
+533	Abnormality of the ilium
+534	Abnormality of the immune system
+535	Abnormality of the incisor
+536	Abnormality of the incus
+537	Abnormality of the inner ear
+538	Abnormality of the internal auditory canal
+539	Abnormality of the intervertebral disk
+540	Abnormality of the intestine
+541	Abnormality of the intrahepatic bile duct
+542	Abnormality of the intrinsic pathway
+543	Abnormality of the iris
+544	Abnormality of the ischium
+545	Abnormality of the joint spaces of the elbow
+546	Abnormality of the kidney
+547	Abnormality of the knee
+548	Abnormality of the labia
+549	Abnormality of the labia majora
+550	Abnormality of the lacrimal duct
+551	Abnormality of the large intestine
+552	Abnormality of the larynx
+553	Abnormality of the left ventricle
+554	Abnormality of the left ventricular outflow tract
+555	Abnormality of the lip
+556	Abnormality of the liver
+557	Abnormality of the lower limb
+558	Abnormality of the lower urinary tract
+559	Abnormality of the lumbar spine
+560	Abnormality of the lymph nodes
+561	Abnormality of the lymphatic system
+562	Abnormality of the macula
+563	Abnormality of the male genitalia
+564	Abnormality of the malleus
+565	Abnormality of the mandible
+566	Abnormality of the maxilla
+567	Abnormality of the mediastinum
+568	Abnormality of the menstrual cycle
+569	Abnormality of the mesentery
+570	Abnormality of the metacarpal bones
+571	Abnormality of the metaphysis
+572	Abnormality of the metatarsal bones
+573	Abnormality of the middle ear
+574	Abnormality of the middle ear ossicles
+575	Abnormality of the midface
+576	Abnormality of the mitochondrion
+577	Abnormality of the mitral valve
+578	Abnormality of the mouth
+579	Abnormality of the musculature
+580	Abnormality of the musculature of the limbs
+581	Abnormality of the musculature of the lower limbs
+582	Abnormality of the musculature of the upper limbs
+583	Abnormality of the nail
+584	Abnormality of the nares
+585	Abnormality of the nasal bone
+586	Abnormality of the nasal mucosa
+587	Abnormality of the nasolacrimal system
+588	Abnormality of the neck
+589	Abnormality of the nervous system
+590	Abnormality of the nipple
+591	Abnormality of the nose
+592	Abnormality of the occipital bone
+593	Abnormality of the ocular region
+594	Abnormality of the odontoid process
+595	Abnormality of the optic disc
+596	Abnormality of the optic nerve
+597	Abnormality of the oral cavity
+598	Abnormality of the orbital region
+599	Abnormality of the outer ear
+600	Abnormality of the ovary
+601	Abnormality of the palate
+602	Abnormality of the palpebral fissures
+603	Abnormality of the pancreas
+604	Abnormality of the pancreatic islet cells
+605	Abnormality of the paranasal sinuses
+606	Abnormality of the parathyroid gland
+607	Abnormality of the parathyroid morphology
+608	Abnormality of the parietal bone
+609	Abnormality of the patella
+610	Abnormality of the penis
+611	Abnormality of the periorbital region
+612	Abnormality of the periosteum
+613	Abnormality of the peritoneum
+614	Abnormality of the periungual region
+615	Abnormality of the periventricular white matter
+616	Abnormality of the pharynx
+617	Abnormality of the philtrum
+618	Abnormality of the pineal gland
+619	Abnormality of the pinna
+620	Abnormality of the pituitary gland
+621	Abnormality of the placenta
+622	Abnormality of the plantar skin of foot
+623	Abnormality of the pleura
+624	Abnormality of the pons
+625	Abnormality of the posterior cranial fossa
+626	Abnormality of the posterior pituitary
+627	Abnormality of the posterior segment of the globe
+628	Abnormality of the preputium
+629	Abnormality of the prostate
+630	Abnormality of the proximal phalanges of the hand
+631	Abnormality of the proximal phalanx of the hallux
+632	Abnormality of the proximal phalanx of the thumb
+633	Abnormality of the pubic bone
+634	Abnormality of the pubic hair
+635	Abnormality of the pulmonary artery
+636	Abnormality of the pulmonary valve
+637	Abnormality of the pulmonary vasculature
+638	Abnormality of the pulmonary veins
+639	Abnormality of the pupil
+640	Abnormality of the radius
+641	Abnormality of the rectum
+642	Abnormality of the renal tubule
+643	Abnormality of the respiratory system
+644	Abnormality of the retinal vasculature
+645	Abnormality of the ribs
+646	Abnormality of the right hemidiaphragm
+647	Abnormality of the sacroiliac joint
+648	Abnormality of the sacrum
+649	Abnormality of the salivary glands
+650	Abnormality of the scalp
+651	Abnormality of the scalp hair
+652	Abnormality of the scapula
+653	Abnormality of the sclera
+654	Abnormality of the scrotum
+655	Abnormality of the sella turcica
+656	Abnormality of the sense of smell
+657	Abnormality of the septum pellucidum
+658	Abnormality of the shape of the midface
+659	Abnormality of the shoulder
+660	Abnormality of the shoulder girdle musculature
+661	Abnormality of the skeletal system
+662	Abnormality of the skin
+663	Abnormality of the skin of the palm
+664	Abnormality of the skull
+665	Abnormality of the skull base
+666	Abnormality of the small intestine
+667	Abnormality of the soft palate
+668	Abnormality of the sphenoid sinus
+669	Abnormality of the spinal cord
+670	Abnormality of the spinocerebellar tracts
+671	Abnormality of the spleen
+672	Abnormality of the stapes
+673	Abnormality of the sternum
+674	Abnormality of the stomach
+675	Abnormality of the striatum
+676	Abnormality of the submandibular glands
+677	Abnormality of the substantia nigra
+678	Abnormality of the subungual region
+679	Abnormality of the sweat gland
+680	Abnormality of the systemic arterial tree
+681	Abnormality of the tarsal bones
+682	Abnormality of the temporal bone
+683	Abnormality of the temporomandibular joint
+684	Abnormality of the testis
+685	Abnormality of the testis size
+686	Abnormality of the thenar eminence
+687	Abnormality of the thoracic spine
+688	Abnormality of the thorax
+689	Abnormality of the thumb
+690	Abnormality of the thymus
+691	Abnormality of the thyroid gland
+692	Abnormality of the tibial metaphysis
+693	Abnormality of the toenails
+694	Abnormality of the tongue
+695	Abnormality of the tonsils
+696	Abnormality of the trachea
+697	Abnormality of the tracheobronchial system
+698	Abnormality of the tragus
+699	Abnormality of the tricuspid valve
+700	Abnormality of the twelfth cranial nerve
+701	Abnormality of the tympanic membrane
+702	Abnormality of the ulna
+703	Abnormality of the umbilical cord
+704	Abnormality of the upper limb
+705	Abnormality of the upper respiratory tract
+706	Abnormality of the upper urinary tract
+707	Abnormality of the ureter
+708	Abnormality of the urethra
+709	Abnormality of the urinary system
+710	Abnormality of the uterine cervix
+711	Abnormality of the uterus
+712	Abnormality of the uvea
+713	Abnormality of the uvula
+714	Abnormality of the vagina
+715	Abnormality of the vasculature
+716	Abnormality of the vena cava
+717	Abnormality of the vertebral column
+718	Abnormality of the vertebral endplates
+719	Abnormality of the vertebral spinous processes
+720	Abnormality of the vestibulocochlear nerve
+721	Abnormality of the vitreous humor
+722	Abnormality of the vocal cords
+723	Abnormality of the voice
+724	Abnormality of the wing of the ilium
+725	Abnormality of the wrist
+726	Abnormality of the zygomatic bone
+727	Abnormality of thrombocytes
+728	Abnormality of thumb phalanx
+729	Abnormality of thyroid physiology
+730	Abnormality of tibia morphology
+731	Abnormality of tumor necrosis factor secretion
+732	Abnormality of tyrosine metabolism
+733	Abnormality of ulnar metaphysis
+734	Abnormality of upper lip
+735	Abnormality of upper lip vermillion
+736	Abnormality of urine homeostasis
+737	Abnormality of vertebral epiphysis morphology
+738	Abnormality of vision
+739	Abnormality of visual evoked potentials
+740	Abnormality of vitamin A metabolism
+741	Abnormality of vitamin B12 metabolism
+742	Abnormality of vitamin D metabolism
+743	Abnormality of vitamin E metabolism
+744	Abnormality of vitamin metabolism
+745	Abnormality on pulmonary function testing
+746	Abnormally folded helix
+747	Abnormally low-pitched voice
+748	Abnormally shaped carpal bones
+749	Abnormally straight spine
+750	Abolished vibration sense
+751	Absence of labia majora
+752	Absence of lymph node germinal center
+753	Absence of pubertal development
+754	Absence of secondary sex characteristics
+755	Absence of subcutaneous fat
+756	Absence of subcutaneous fat over entire body except buttocks, hips, and thighs
+757	Absence of the pulmonary valve
+758	Absence of the sacrum
+759	Absence seizures
+760	Absent Achilles reflex
+761	Absent antihelix
+762	Absent axillary hair
+763	Absent cellular immunity
+764	Absent crus of helix
+765	Absent distal interphalangeal creases
+766	Absent distal phalanges
+767	Absent earlobe
+768	Absent external genitalia
+769	Absent eyebrow
+770	Absent eyelashes
+771	Absent facial hair
+772	Absent fingernail
+773	Absent foot
+774	Absent frontal sinuses
+775	Absent gallbladder
+776	Absent gonadal tissue
+777	Absent hand
+778	Absent inner eyelashes
+779	Absent lacrimal punctum
+780	Absent left hemidiaphragm
+781	Absent lower eyelashes
+782	Absent muscle fiber emerin
+783	Absent muscle fiber merosin
+784	Absent nares
+785	Absent nasal bridge
+786	Absent nasal septal cartilage
+787	Absent nipple
+788	Absent or minimally ossified vertebral bodies
+789	Absent palmar crease
+790	Absent patellar reflexes
+791	Absent penis
+792	Absent proximal finger flexion creases
+793	Absent pubic hair
+794	Absent radius
+795	Absent retinal pigment epithelium
+796	Absent septum pellucidum
+797	Absent smooth pursuit
+798	Absent speech
+799	Absent sternal ossification
+800	Absent testis
+801	Absent thumb
+802	Absent tibia
+803	Absent toe
+804	Absent toenail
+805	Absent tonsils
+806	Absent tragus
+807	Absent ulna
+808	Absent vas deferens
+809	Absent vertebrae
+810	Absent/hypoplastic paranasal sinuses
+811	Abulia
+812	Acanthocytosis
+813	Acantholysis
+814	Acanthosis nigricans
+815	Accelerated atherosclerosis
+816	Accelerated bone age after puberty
+817	Accelerated skeletal maturation
+818	Accessory carpal bones
+819	Accessory oral frenulum
+820	Accessory spleen
+821	Acetabular dysplasia
+822	Acetylcholine receptor antibody positivity
+823	Achalasia
+824	Achilles tendon contracture
+825	Acholic stools
+826	Achromatic retinal patches
+827	Acidosis
+828	Acne
+829	Acral lentiginous melanoma
+830	Acral ulceration and osteomyelitis leading to autoamputation of the digits (feet)
+831	Acrobrachycephaly
+832	Acrocyanosis
+833	Acrokeratosis
+834	Acromelia of the lower limbs
+835	Acromesomelia
+836	Acroosteolysis (feet)
+837	Acroosteolysis of distal phalanges (feet)
+838	Action tremor
+839	Activating thyroid-stimulating hormone receptor (TSHR) defect
+840	Acute constipation
+841	Acute demyelinating polyneuropathy
+842	Acute encephalopathy
+843	Acute episodes of neuropathic symptoms
+844	Acute hepatic failure
+845	Acute hepatic steatosis
+846	Acute hepatitis
+847	Acute infectious pneumonia
+848	Acute kidney injury
+849	Acute leukemia
+850	Acute lymphatic leukemia
+851	Acute megakaryocytic leukemia
+852	Acute myeloid leukemia
+853	Acute myelomonocytic leukemia
+854	Acute pancreatitis
+855	Acute respiratory tract infection
+856	Acute rhabdomyolysis
+857	Adactyly
+858	Adducted thumb
+859	Adenocarcinoma of the colon
+860	Adenocarcinoma of the large intestine
+861	Adenoma sebaceum
+862	Adenomatous colonic polyposis
+863	Adermatoglyphia
+864	Adrenal calcification
+865	Adrenal hyperplasia
+866	Adrenal hypoplasia
+867	Adrenal insufficiency
+868	Adrenal medullary hypoplasia
+869	Adrenal overactivity
+870	Adrenal pheochromocytoma
+871	Adrenocortical adenoma
+872	Adrenocortical carcinoma
+873	Adrenocortical cytomegaly
+874	Adrenocortical hypoplasia
+875	Adrenocorticotropic hormone deficiency
+876	Adrenocorticotropic hormone excess
+877	Adrenocorticotropin deficient adrenal insufficiency
+878	Adrenogenital syndrome
+879	Adult onset sensorineural hearing impairment
+880	Advanced eruption of teeth
+881	Advanced pneumatization of cranial sinuses
+882	Advanced pneumatization of the mastoid process
+883	Advanced tarsal ossification
+884	Agammaglobulinemia
+885	Aganglionic megacolon
+886	Agenesis of cerebellar vermis
+887	Agenesis of corpus callosum
+888	Agenesis of maxillary central incisor
+889	Agenesis of permanent teeth
+890	Agenesis of premolar
+891	Aggressive behavior
+892	Agitation
+893	Agnosia
+894	Agoraphobia
+895	Akinesia
+896	Akinetic mutism
+897	Alacrima
+898	Albinism
+899	Alexia
+900	Allergic rhinitis
+901	Allergy
+902	Allodynia
+903	Almond-shaped palpebral fissure
+904	Alopecia
+905	Alopecia areata
+906	Alopecia of scalp
+907	Alopecia totalis
+908	Alopecia universalis
+909	Alternating esotropia
+910	Altitudinal visual field defect
+911	Alveolar process hypoplasia
+912	Alveolar proteinosis
+913	Alveolar rhabdomyosarcoma
+914	Alveolar ridge overgrowth
+915	Alzheimer disease
+916	Amaurosis fugax
+917	Ambiguous genitalia
+918	Ambiguous genitalia, female
+919	Ambiguous genitalia, male
+920	Amblyopia
+921	Amegakaryocytic thrombocytopenia
+922	Amelia
+923	Amelia involving the lower limbs
+924	Amelia involving the upper limbs
+925	Amelogenesis imperfecta
+926	Amenorrhea
+927	Aminoaciduria
+928	Amniotic constriction ring
+929	Amyloidosis
+930	Amyloidosis of peripheral nerves
+931	Amyotrophic lateral sclerosis
+932	Amyotrophy of ankle musculature
+933	Anal atresia
+934	Anal canal adenocarcinoma
+935	Anal canal squamous carcinoma
+936	Anal canal squamous cell carcinoma
+937	Anal mucosal leukoplakia
+938	Anal stenosis
+939	Anaphylactic shock
+940	Anaplastic thyroid carcinoma
+941	Anarthria
+942	Anasarca
+943	Androgen insufficiency
+944	Anemia
+945	Anemia of inadequate production
+946	Anencephaly
+947	Aneurysm
+948	Aneurysm of an abdominal artery
+949	Angina pectoris
+950	Angioedema
+951	Angiofibromas
+952	Angioid streaks of the retina
+953	Angiokeratoma
+954	Angiokeratoma corporis diffusum
+955	Anhidrosis
+956	Aniridia
+957	Anisocytosis
+958	Anisopoikilocytosis
+959	Anisospondyly
+960	Ankle clonus
+961	Ankle contracture
+962	Ankle swelling
+963	Ankle weakness
+964	Ankyloblepharon
+965	Ankyloglossia
+966	Ankylosis
+967	Annular pancreas
+968	Anodontia
+969	Anomalous origin of left coronary artery from the pulmonary artery
+970	Anomalous pulmonary venous return
+971	Anomia
+972	Anonychia
+973	Anophthalmia
+974	Anorectal anomaly
+975	Anorexia
+976	Anosmia
+977	Anotia
+978	Antecubital pterygium
+979	Anterior beaking of lower thoracic vertebrae
+980	Anterior beaking of lumbar vertebrae
+981	Anterior chamber synechiae
+982	Anterior cortical cataract
+983	Anterior creases of earlobe
+984	Anterior hypopituitarism
+985	Anterior pituitary agenesis
+986	Anterior pituitary dysgenesis
+987	Anterior pituitary hypoplasia
+988	Anterior plagiocephaly
+989	Anterior rib cupping
+990	Anterior rib punctate calcifications
+991	Anterior segment dysgenesis
+992	Anterior subcapsular cataract
+993	Anterior synechiae of the anterior chamber
+994	Anterior uveitis
+995	Anteriorly displaced urethral meatus
+996	Anteriorly placed anus
+997	Anteriorly placed odontoid process
+998	Anteroposteriorly shortened larynx
+999	Anteverted nares
+1000	Anti-thyroid peroxidase antibody positivity
+1001	Antinuclear antibody positivity
+1002	Antiphospholipid antibody positivity
+1003	Anxiety
+1004	Aortic aneurysm
+1005	Aortic atherosclerosis
+1006	Aortic dilatation
+1007	Aortic dissection
+1008	Aortic regurgitation
+1009	Aortic root dilatation
+1010	Aortic tortuosity
+1011	Aortic valve atresia
+1012	Aortic valve calcification
+1013	Aortic valve stenosis
+1014	Aorto-ventricular tunnel
+1015	Apathy
+1016	Aphasia
+1017	Aplasia cutis congenita
+1018	Aplasia cutis congenita of scalp
+1019	Aplasia cutis congenita over the scalp vertex
+1020	Aplasia of the 1st metacarpal
+1021	Aplasia of the abdominal wall musculature
+1022	Aplasia of the bladder
+1023	Aplasia of the distal phalanges of the hand
+1024	Aplasia of the distal phalanx of the hallux
+1025	Aplasia of the inner ear
+1026	Aplasia of the middle phalanges of the toes
+1027	Aplasia of the middle phalanx of the hand
+1028	Aplasia of the nose
+1029	Aplasia of the ovary
+1030	Aplasia of the pectoralis major muscle
+1031	Aplasia of the phalanges of the 3rd toe
+1032	Aplasia of the proximal phalanges of the hand
+1033	Aplasia of the semicircular canal
+1034	Aplasia of the thymus
+1035	Aplasia of the uterus
+1036	Aplasia/Hypoplasia affecting the anterior segment of the eye
+1037	Aplasia/Hypoplasia affecting the eye
+1038	Aplasia/Hypoplasia involving bones of the thorax
+1039	Aplasia/Hypoplasia involving the metacarpal bones
+1040	Aplasia/Hypoplasia involving the nose
+1041	Aplasia/Hypoplasia involving the pelvis
+1042	Aplasia/Hypoplasia involving the skeletal musculature
+1043	Aplasia/Hypoplasia of fingers
+1044	Aplasia/Hypoplasia of the 1st metacarpal
+1045	Aplasia/Hypoplasia of the 3rd toe
+1046	Aplasia/Hypoplasia of the Epiglottis
+1047	Aplasia/Hypoplasia of the abdominal wall musculature
+1048	Aplasia/Hypoplasia of the breasts
+1049	Aplasia/Hypoplasia of the cerebellar vermis
+1050	Aplasia/Hypoplasia of the cerebellum
+1051	Aplasia/Hypoplasia of the clavicles
+1052	Aplasia/Hypoplasia of the colon
+1053	Aplasia/Hypoplasia of the corpus callosum
+1054	Aplasia/Hypoplasia of the distal phalanges of the hand
+1055	Aplasia/Hypoplasia of the distal phalanges of the toes
+1056	Aplasia/Hypoplasia of the distal phalanx of the 5th finger
+1057	Aplasia/Hypoplasia of the distal phalanx of the 5th toe
+1058	Aplasia/Hypoplasia of the distal phalanx of the hallux
+1059	Aplasia/Hypoplasia of the ear
+1060	Aplasia/Hypoplasia of the earlobes
+1061	Aplasia/Hypoplasia of the eyebrow
+1062	Aplasia/Hypoplasia of the fallopian tube
+1063	Aplasia/Hypoplasia of the fibula
+1064	Aplasia/Hypoplasia of the fovea
+1065	Aplasia/Hypoplasia of the gallbladder
+1066	Aplasia/Hypoplasia of the hallux
+1067	Aplasia/Hypoplasia of the inner ear
+1068	Aplasia/Hypoplasia of the iris
+1069	Aplasia/Hypoplasia of the lens
+1070	Aplasia/Hypoplasia of the lungs
+1071	Aplasia/Hypoplasia of the macula
+1072	Aplasia/Hypoplasia of the mandible
+1073	Aplasia/Hypoplasia of the maxilla
+1074	Aplasia/Hypoplasia of the middle ear
+1075	Aplasia/Hypoplasia of the middle phalanges of the hand
+1076	Aplasia/Hypoplasia of the middle phalanx of the 2nd finger
+1077	Aplasia/Hypoplasia of the nails
+1078	Aplasia/Hypoplasia of the nasal bone
+1079	Aplasia/Hypoplasia of the nasal septum
+1080	Aplasia/Hypoplasia of the nipples
+1081	Aplasia/Hypoplasia of the optic nerve
+1082	Aplasia/Hypoplasia of the pancreas
+1083	Aplasia/Hypoplasia of the patella
+1084	Aplasia/Hypoplasia of the phalanges of the hallux
+1085	Aplasia/Hypoplasia of the phalanges of the hand
+1086	Aplasia/Hypoplasia of the phalanges of the toes
+1087	Aplasia/Hypoplasia of the quadriceps
+1088	Aplasia/Hypoplasia of the radius
+1089	Aplasia/Hypoplasia of the ribs
+1090	Aplasia/Hypoplasia of the sacrum
+1091	Aplasia/Hypoplasia of the scapulae
+1092	Aplasia/Hypoplasia of the skin
+1093	Aplasia/Hypoplasia of the spleen
+1094	Aplasia/Hypoplasia of the sternum
+1095	Aplasia/Hypoplasia of the testes
+1096	Aplasia/Hypoplasia of the thumb
+1097	Aplasia/Hypoplasia of the thymus
+1098	Aplasia/Hypoplasia of the tibia
+1099	Aplasia/Hypoplasia of the tongue
+1100	Aplasia/Hypoplasia of the tragus
+1101	Aplasia/Hypoplasia of the ulna
+1102	Aplasia/Hypoplasia of the uvula
+1103	Aplasia/Hypoplasia of the vagina
+1104	Aplasia/Hypoplasia of toe
+1105	Aplasia/Hypoplastia of the eccrine sweat glands
+1106	Aplasia/hypoplasia involving bones of the hand
+1107	Aplasia/hypoplasia involving bones of the lower limbs
+1108	Aplasia/hypoplasia involving bones of the upper limbs
+1109	Aplasia/hypoplasia of the 1st metatarsal
+1110	Aplasia/hypoplasia of the femur
+1111	Aplasia/hypoplasia of the humerus
+1112	Aplasia/hypoplasia of the uterus
+1113	Aplastic anemia
+1114	Aplastic clavicles
+1115	Aplastic/hypoplastic toenail
+1116	Apnea
+1117	Apneic episodes in infancy
+1118	Apneic episodes precipitated by illness, fatigue, stress
+1119	Appendiceal mucinous neoplasm
+1120	Apraxia
+1121	Aqueductal stenosis
+1122	Arachnodactyly
+1123	Arachnoid cyst
+1124	Arachnoid hemangiomatosis
+1125	Arcuate scotoma
+1126	Areflexia
+1127	Areflexia of lower limbs
+1128	Areflexia of upper limbs
+1129	Arnold-Chiari malformation
+1130	Arnold-Chiari type I malformation
+1131	Arrhinencephaly
+1132	Arrhythmia
+1133	Arterial calcification
+1134	Arterial dissection
+1135	Arterial fibromuscular dysplasia
+1136	Arterial occlusion
+1137	Arterial rupture
+1138	Arterial stenosis
+1139	Arterial thrombosis
+1140	Arterial tortuosity
+1141	Arteriosclerosis
+1142	Arteriosclerosis of small cerebral arteries
+1143	Arteriovenous fistula
+1144	Arteriovenous fistulas of celiac and mesenteric vessels
+1145	Arteriovenous malformation
+1146	Arteritis
+1147	Arthralgia
+1148	Arthralgia of the hip
+1149	Arthralgia/arthritis
+1150	Arthritis
+1151	Arthrogryposis multiplex congenita
+1152	Arthropathy
+1153	Ascending aortic dilation
+1154	Ascending aortic dissection
+1155	Ascites
+1156	Aseptic leukocyturia
+1157	Aseptic necrosis
+1158	Aspartylglucosaminuria
+1159	Aspiration
+1160	Aspiration pneumonia
+1161	Asplenia
+1162	Asthma
+1163	Astigmatism
+1164	Astrocytoma
+1165	Astrocytosis
+1166	Asymmetric crying face
+1167	Asymmetric growth
+1168	Asymmetric radial dysplasia
+1169	Asymmetry of iris pigmentation
+1170	Asymmetry of the breasts
+1171	Asymmetry of the thorax
+1172	Ataxia
+1173	Atelectasis
+1174	Atheromatosis
+1175	Atherosclerosis
+1176	Athetosis
+1177	Atlantoaxial abnormality
+1178	Atlantoaxial dislocation
+1179	Atonic seizures
+1180	Atopic dermatitis
+1181	Atresia of the external auditory canal
+1182	Atretic lacrimal punctum
+1183	Atrial fibrillation
+1184	Atrial flutter
+1185	Atrial septal aneurysm
+1186	Atrial septal defect
+1187	Atrioventricular block
+1188	Atrioventricular canal defect
+1189	Atrophic muscularis propria
+1190	Atrophic scars
+1191	Atrophy of alveolar ridges
+1192	Atrophy of the spinal cord
+1193	Atrophy/Degeneration affecting the brainstem
+1194	Atrophy/Degeneration involving the corticospinal tracts
+1195	Attached earlobe
+1196	Attention deficit hyperactivity disorder
+1197	Attenuation of retinal blood vessels
+1198	Atypical absence seizures
+1199	Atypical neurofibromatosis
+1200	Atypical pulmonary carcinoid tumor
+1201	Atypical scarring of skin
+1202	Auditory hallucinations
+1203	Auras
+1204	Auricular tag
+1205	Autism
+1206	Autism with high cognitive abilities
+1207	Autistic behavior
+1208	Autoamputation of digits
+1209	Autoimmune antibody positivity
+1210	Autoimmune hemolytic anemia
+1211	Autoimmune hypoparathyroidism
+1212	Autoimmune neutropenia
+1213	Autoimmune thrombocytopenia
+1214	Autoimmunity
+1215	Autonomic bladder dysfunction
+1216	Autonomic dysregulation
+1217	Autonomic erectile dysfunction
+1218	Autophagic vacuoles
+1219	Avascular necrosis of the capital femoral epiphysis
+1220	Axial dystonia
+1221	Axial malrotation of the kidney
+1222	Axial muscle weakness
+1223	Axillary and groin hyperpigmentation and hypopigmentation
+1224	Axillary pterygia
+1225	Axonal degeneration
+1226	Axonal loss
+1227	Azoospermia
+1228	B lymphocytopenia
+1229	B-cell lymphoma
+1230	Babinski sign
+1231	Back pain
+1232	Bacterial endocarditis
+1233	Band keratopathy
+1234	Barrel-shaped chest
+1235	Barrett esophagus
+1236	Basal cell carcinoma
+1237	Basal encephalocele
+1238	Basal ganglia calcification
+1239	Basal lamina 'onion bulb' formation
+1240	Basilar impression
+1241	Basilar invagination
+1242	Beaking of vertebral bodies
+1243	Beevor's sign
+1244	Behavioral abnormality
+1245	Bell-shaped thorax
+1246	Bence Jones Proteinuria
+1247	Benign gastrointestinal tract tumors
+1248	Benign neoplasm of the central nervous system
+1249	Biconcave vertebral bodies
+1250	Biconvex vertebral bodies
+1251	Bicornuate uterus
+1252	Bicoronal synostosis
+1253	Bicuspid aortic valve
+1254	Bifid clitoris
+1255	Bifid distal phalanx of the thumb
+1256	Bifid epiglottis
+1257	Bifid femur
+1258	Bifid nasal tip
+1259	Bifid nose
+1260	Bifid penis
+1261	Bifid ribs
+1262	Bifid sacrum
+1263	Bifid scrotum
+1264	Bifid sternum
+1265	Bifid thoracic vertebrae
+1266	Bifid tongue
+1267	Bifid ureter
+1268	Bifid uterus
+1269	Bifid uvula
+1270	Bilateral basal ganglia lesions
+1271	Bilateral breast hypoplasia
+1272	Bilateral choanal atresia
+1273	Bilateral cleft lip
+1274	Bilateral cleft lip and palate
+1275	Bilateral conductive hearing impairment
+1276	Bilateral convulsive seizures
+1277	Bilateral coxa valga
+1278	Bilateral cryptorchidism
+1279	Bilateral external ear deformity
+1280	Bilateral lung agenesis
+1281	Bilateral microphthalmos
+1282	Bilateral postaxial polydactyly
+1283	Bilateral ptosis
+1284	Bilateral renal agenesis
+1285	Bilateral renal hypoplasia
+1286	Bilateral sensorineural hearing impairment
+1287	Bilateral single transverse palmar creases
+1288	Bilateral talipes equinovarus
+1289	Biliary atresia
+1290	Biliary cirrhosis
+1291	Biliary tract abnormality
+1292	Biliary tract neoplasm
+1293	Biliary tract obstruction
+1294	Bimanual synkinesia
+1295	Biparietal narrowing
+1296	Bipolar affective disorder
+1297	Bird-like facies
+1298	Birth length less than 3rd percentile
+1299	Bitemporal forceps marks
+1300	Bitemporal hemianopia
+1301	Biventricular hypertrophy
+1302	Bladder diverticulum
+1303	Bladder exstrophy
+1304	Bladder neoplasm
+1305	Bleeding with minor or no trauma
+1306	Blepharitis
+1307	Blepharochalasis
+1308	Blepharophimosis
+1309	Blepharospasm
+1310	Blind-spot enlargment
+1311	Blindness
+1312	Block vertebrae
+1313	Blood group antigen abnormality
+1314	Bloody diarrhea
+1315	Blue cone monochromacy
+1316	Blue irides
+1317	Blue nevus
+1318	Blue sclerae
+1319	Blurred vision
+1320	Bone cyst
+1321	Bone marrow hypocellularity
+1322	Bone pain
+1323	Bone spicule pigmentation of the retina
+1324	Bone-marrow foam cells
+1325	Bowel diverticulosis
+1326	Bowel incontinence
+1327	Bowel urgency
+1328	Bowing of the legs
+1329	Bowing of the long bones
+1330	Brachycephaly
+1331	Brachydactyly
+1332	Brachytelomesophalangy
+1333	Brachyturricephaly
+1334	Bradycardia
+1335	Bradykinesia
+1336	Bradyopsia
+1337	Brain abscess
+1338	Brain atrophy
+1339	Brain neoplasm
+1340	Brain stem compression
+1341	Brain very small
+1342	Brainstem dysplasia
+1343	Branchial anomaly
+1344	Branchial cyst
+1345	Branchial fistula
+1346	Breast aplasia
+1347	Breast carcinoma
+1348	Breast hypoplasia
+1349	Breathing dysregulation
+1350	Breech presentation
+1351	Bridged palmar crease
+1352	Brisk reflexes
+1353	Brittle hair
+1354	Broad 1st metacarpal
+1355	Broad alveolar ridges
+1356	Broad chin
+1357	Broad clavicles
+1358	Broad columella
+1359	Broad distal phalanx of finger
+1360	Broad distal phalanx of the thumb
+1361	Broad eyebrow
+1362	Broad femoral neck
+1363	Broad finger
+1364	Broad fingertip
+1365	Broad foot
+1366	Broad forehead
+1367	Broad hallux
+1368	Broad hallux phalanx
+1369	Broad jaw
+1370	Broad long bones
+1371	Broad metacarpals
+1372	Broad metatarsal
+1373	Broad nail
+1374	Broad nasal tip
+1375	Broad neck
+1376	Broad palm
+1377	Broad philtrum
+1378	Broad ribs
+1379	Broad secondary alveolar ridge
+1380	Broad thumb
+1381	Broad tibial metaphyses
+1382	Broad toe
+1383	Broad uvula
+1384	Broad-based gait
+1385	Bronchiectasis
+1386	Bronchiolitis obliterans
+1387	Bronchitis
+1388	Bronchogenic cyst
+1389	Bronchospasm
+1390	Bruising susceptibility
+1391	Brushfield spots
+1392	Bruxism
+1393	Budd-Chiari syndrome
+1394	Bulbar palsy
+1395	Bulbar signs
+1396	Bulbous nose
+1397	Bulbous tips of toes
+1398	Bulging epiphyses
+1399	Bulimia
+1400	Bullet-shaped distal phalanx of the hallux
+1401	Bundle branch block
+1402	Buphthalmos
+1403	Butterfly vertebrae
+1404	Butterfly vertebral arch
+1405	C1-C2 vertebral abnormality
+1406	CNS demyelination
+1407	CNS hypomyelination
+1408	CSF lymphocytic pleiocytosis
+1409	CSF pleocytosis
+1410	Cachexia
+1411	Caesarian section
+1412	Cafe-au-lait spot
+1413	Calcific aortic valve stenosis
+1414	Calcific mitral stenosis
+1415	Calcification of cartilage
+1416	Calcification of falx cerebri
+1417	Calcification of muscles
+1418	Calcification of the aorta
+1419	Calcification of the auricular cartilage
+1420	Calcinosis
+1421	Calcium channel antibody positivity
+1422	Calcium nephrolithiasis
+1423	Calcium oxalate nephrolithiasis
+1424	Calf muscle hypertrophy
+1425	Calf muscle pseudohypertrophy
+1426	Calvarial hyperostosis
+1427	Calvarial osteosclerosis
+1428	Camptocormia
+1429	Camptodactyly
+1430	Camptodactyly of 2nd-5th fingers
+1431	Camptodactyly of finger
+1432	Camptodactyly of toe
+1433	Capillary hemangiomas
+1434	Capillary leak
+1435	Capillary malformation
+1436	Capitate-hamate fusion
+1437	Carcinoid tumor
+1438	Cardiac arrest
+1439	Cardiac conduction abnormality
+1440	Cardiac diverticulum
+1441	Cardiac fibroma
+1442	Cardiac myxoma
+1443	Cardiac rhabdomyoma
+1444	Cardiogenic shock
+1445	Cardiomegaly
+1446	Cardiomyocyte hypertrophy
+1447	Cardiomyocyte mitochondrial proliferation
+1448	Cardiomyopathy
+1449	Cardiorespiratory arrest
+1450	Carious teeth
+1451	Carnosinuria
+1452	Carotid artery aneurysm
+1453	Carotid artery dissection
+1454	Carotid artery stenosis
+1455	Carotid artery tortuosity
+1456	Carpal bone hypoplasia
+1457	Carpal osteolysis
+1458	Carpal synostosis
+1459	Cartilage destruction
+1460	Cat cry
+1461	Cataplexy
+1462	Cataract
+1463	Caudal appendage
+1464	Caudate atrophy
+1465	Cavernous hemangioma
+1466	Cavernous hemangioma of the face
+1467	Celiac disease
+1468	Cellular immunodeficiency
+1469	Cellulitis
+1470	Celosomia
+1471	Central Y-shaped metacarpal
+1472	Central adrenal insufficiency
+1473	Central apnea
+1474	Central core regions in muscle fibers
+1475	Central diabetes insipidus
+1476	Central heterochromia
+1477	Central hypothyroidism
+1478	Central hypotonia
+1479	Central hypoventilation
+1480	Central nervous system degeneration
+1481	Central opacification of the cornea
+1482	Central scotoma
+1483	Central sleep apnea
+1484	Centrally nucleated skeletal muscle fibers
+1485	Centrocecal scotoma
+1486	Cephalohematoma
+1487	Cerebellar Purkinje layer atrophy
+1488	Cerebellar agenesis
+1489	Cerebellar ataxia associated with quadrupedal gait
+1490	Cerebellar atrophy
+1491	Cerebellar calcifications
+1492	Cerebellar cortical atrophy
+1493	Cerebellar cyst
+1494	Cerebellar dysplasia
+1495	Cerebellar edema
+1496	Cerebellar hemangioblastoma
+1497	Cerebellar hemorrhage
+1498	Cerebellar hypoplasia
+1499	Cerebellar malformation
+1500	Cerebellar medulloblastoma
+1501	Cerebellar vermis atrophy
+1502	Cerebellar vermis hypoplasia
+1503	Cerebral amyloid angiopathy
+1504	Cerebral aneurysm
+1505	Cerebral arteriovenous malformation
+1506	Cerebral artery atherosclerosis
+1507	Cerebral artery stenosis
+1508	Cerebral atrophy
+1509	Cerebral berry aneurysm
+1510	Cerebral calcification
+1511	Cerebral cortical atrophy
+1512	Cerebral cortical hemiatrophy
+1513	Cerebral dysmyelination
+1514	Cerebral edema
+1515	Cerebral hemorrhage
+1516	Cerebral hypomyelination
+1517	Cerebral hypoplasia
+1518	Cerebral ischemia
+1519	Cerebral palsy
+1520	Cerebral vasculitis
+1521	Cerebral venous thrombosis
+1522	Cerebral white matter atrophy
+1523	Cerebral white matter hypoplasia
+1524	Cerulean cataract
+1525	Cervical C2/C3 vertebral fusion
+1526	Cervical lymphadenopathy
+1527	Cervical ribs
+1528	Cervical spina bifida
+1529	Cervical spinal canal stenosis
+1530	Cervical spinal cord atrophy
+1531	Cervical spondylosis
+1532	Cervical vertebrae fusion (C5/C6)
+1533	Cervical vertebral dysplasia
+1534	Cervicitis
+1535	Cervix cancer
+1536	Chaddock reflex
+1537	Cheekbone underdevelopment
+1538	Cheilitis
+1539	Chemosis
+1540	Cherry red spot of the macula
+1541	Chess-pawn distal phalanges
+1542	Chest pain
+1543	Chewing difficulties
+1544	Childhood onset short-limb short stature
+1545	Childhood-onset truncal obesity
+1546	Chills
+1547	Chin dimple
+1548	Chin myoclonus
+1549	Choanal atresia
+1550	Choanal stenosis
+1551	Choking episodes
+1552	Cholangiocarcinoma
+1553	Cholecystitis
+1554	Cholelithiasis
+1555	Cholestasis
+1556	Cholestatic liver disease
+1557	Cholesterol gallstones
+1558	Chondritis
+1559	Chondritis of pinna
+1560	Chondrocalcinosis
+1561	Chondrosarcoma
+1562	Chordee
+1563	Chorea
+1564	Choreoathetosis
+1565	Chorioretinal abnormality
+1566	Chorioretinal atrophy
+1567	Chorioretinal coloboma
+1568	Chorioretinal dysplasia
+1569	Chorioretinal dystrophy
+1570	Chorioretinitis
+1571	Choroid plexus calcification
+1572	Choroid plexus papilloma
+1573	Choroidal degeneration
+1574	Choroidal hemangioma
+1575	Choroidal melanoma
+1576	Choroidal neovascularization of the macula
+1577	Choroideremia
+1578	Chromosomal breakage induced by ionizing radiation
+1579	Chronic atrophic gastritis
+1580	Chronic axonal neuropathy
+1581	Chronic constipation
+1582	Chronic diarrhea
+1583	Chronic fatigue
+1584	Chronic furunculosis
+1585	Chronic hemolytic anemia
+1586	Chronic hepatic failure
+1587	Chronic irritative conjunctivitis
+1588	Chronic kidney disease
+1589	Chronic leukemia
+1590	Chronic lung disease
+1591	Chronic lymphatic leukemia
+1592	Chronic lymphocytic meningitis
+1593	Chronic metabolic acidosis
+1594	Chronic mucocutaneous candidiasis
+1595	Chronic myelogenous leukemia
+1596	Chronic myelomonocytic leukemia
+1597	Chronic noninfectious lymphadenopathy
+1598	Chronic obstructive pulmonary disease
+1599	Chronic otitis media
+1600	Chronic pain
+1601	Chronic recurrent multifocal osteomyelitis
+1602	Chronic rhinitis
+1603	Chronic sinusitis
+1604	Chylopericardium
+1605	Chylothorax
+1606	Chylous ascites
+1607	Cigarette-paper scars
+1608	Ciliary body melanoma
+1609	Ciliary dyskinesia
+1610	Circulating immune complexes
+1611	Circumungual hyperkeratosis
+1612	Cirrhosis
+1613	Claustrophobia
+1614	Clavicular sclerosis
+1615	Clear cell renal cell carcinoma
+1616	Cleft ala nasi
+1617	Cleft earlobe
+1618	Cleft eyelid
+1619	Cleft lip
+1620	Cleft lower lip
+1621	Cleft palate
+1622	Cleft soft palate
+1623	Cleft upper lip
+1624	Clinodactyly
+1625	Clinodactyly of hallux
+1626	Clinodactyly of the 2nd finger
+1627	Clinodactyly of the 4th finger
+1628	Clinodactyly of the 4th toe
+1629	Clinodactyly of the 5th finger
+1630	Clinodactyly of the 5th toe
+1631	Clitoral hypertrophy
+1632	Clitoral hypoplasia
+1633	Clitoromegaly
+1634	Cloacal abnormality
+1635	Cloacal exstrophy
+1636	Clonus
+1637	Cloverleaf skull
+1638	Clubbing
+1639	Clubbing of fingers
+1640	Clubbing of toes
+1641	Clumsiness
+1642	Cluster headache
+1643	Coarctation of aorta
+1644	Coarctation of the descending aortic arch
+1645	Coarse facial features
+1646	Coarse hair
+1647	Cochlear degeneration
+1648	Cognitive impairment
+1649	Cogwheel rigidity
+1650	Cold paresis
+1651	Cold-sensitive myotonia
+1652	Colitis
+1653	Collectionism
+1654	Coloboma
+1655	Colon cancer
+1656	Colonic atresia
+1657	Colonic diverticula
+1658	Colorectal polyposis
+1659	Colpocephaly
+1660	Coma
+1661	Combined hyperlipidemia
+1662	Comedo
+1663	Common atrium
+1664	Communicating hydrocephalus
+1665	Complement deficiency
+1666	Complete duplication of distal phalanx of the thumb
+1667	Complete duplication of the distal phalanges of the hand
+1668	Complete duplication of thumb phalanx
+1669	Complex febrile seizures
+1670	Concave nail
+1671	Concave nasal ridge
+1672	Concentric narrowing of visual fields
+1673	Conductive hearing impairment
+1674	Cone-shaped epiphyses of the phalanges of the hand
+1675	Cone-shaped epiphysis
+1676	Cone-shaped metacarpal epiphyses
+1677	Cone/cone-rod dystrophy
+1678	Confetti-like hypopigmented macules
+1679	Confusion
+1680	Congenital absence of skin of limbs
+1681	Congenital adrenal hyperplasia
+1682	Congenital adrenal hypoplasia
+1683	Congenital alopecia totalis
+1684	Congenital bilateral ptosis
+1685	Congenital blindness
+1686	Congenital bullous ichthyosiform erythroderma
+1687	Congenital cataract
+1688	Congenital chorioretinal dystrophy
+1689	Congenital contracture
+1690	Congenital craniofacial dysostosis
+1691	Congenital cystic adenomatoid malformation of the lung
+1692	Congenital defect of the pericardium
+1693	Congenital diaphragmatic hernia
+1694	Congenital exfoliative erythroderma
+1695	Congenital finger flexion contractures
+1696	Congenital foot contraction deformities
+1697	Congenital foot contractures
+1698	Congenital generalized lipodystrophy
+1699	Congenital giant melanocytic nevus
+1700	Congenital glaucoma
+1701	Congenital hemolytic anemia
+1702	Congenital hepatic fibrosis
+1703	Congenital hip dislocation
+1704	Congenital hypoparathyroidism
+1705	Congenital hypoplastic anemia
+1706	Congenital hypothyroidism
+1707	Congenital ichthyosiform erythroderma
+1708	Congenital kyphoscoliosis
+1709	Congenital localized absence of skin
+1710	Congenital malformation of the great arteries
+1711	Congenital malformation of the left heart
+1712	Congenital megaureter
+1713	Congenital microcephaly
+1714	Congenital miosis
+1715	Congenital muscular dystrophy
+1716	Congenital muscular torticollis
+1717	Congenital nonbullous ichthyosiform erythroderma
+1718	Congenital nystagmus
+1719	Congenital onychodystrophy
+1720	Congenital posterior urethral valve
+1721	Congenital primary aphakia
+1722	Congenital pseudoarthrosis of the clavicle
+1723	Congenital pyloric atresia
+1724	Congenital sensorineural hearing impairment
+1725	Congenital septal defect
+1726	Congenital stationary night blindness
+1727	Congenital strabismus
+1728	Congenital visual impairment
+1729	Congenital, generalized hypertrichosis
+1730	Congestive heart failure
+1731	Conical incisor
+1732	Conical tooth
+1733	Conjugated hyperbilirubinemia
+1734	Conjunctival hamartoma
+1735	Conjunctival hyperemia
+1736	Conjunctival telangiectasia
+1737	Conjunctivitis
+1738	Connective tissue nevi
+1739	Conotruncal defect
+1740	Conspicuously happy disposition
+1741	Constipation
+1742	Constitutional symptom
+1743	Constriction of peripheral visual field
+1744	Constrictive median neuropathy
+1745	Constrictive pericarditis
+1746	Contracture of the proximal interphalangeal joint of the 2nd finger
+1747	Contracture of the proximal interphalangeal joint of the 3rd finger
+1748	Contracture of the proximal interphalangeal joint of the 5th finger
+1749	Contractures involving the joints of the feet
+1750	Contractures of the interphalangeal joint of the thumb
+1751	Contractures of the joints of the lower limbs
+1752	Contractures of the large joints
+1753	Convex nasal ridge
+1754	Coombs-positive hemolytic anemia
+1755	Copper accumulation in liver
+1756	Corneal arcus
+1757	Corneal crystals
+1758	Corneal dystrophy
+1759	Corneal erosion
+1760	Corneal neovascularization
+1761	Corneal opacity
+1762	Corneal perforation
+1763	Corneal scarring
+1764	Corneal stromal edema
+1765	Corneal ulceration
+1766	Coronal cleft vertebrae
+1767	Coronal craniosynostosis
+1768	Coronal hypospadias
+1769	Coronary artery calcification
+1770	Coronary artery dilation
+1771	Coronary artery disease
+1772	Coronary artery stenosis
+1773	Coronary atherosclerosis
+1774	Corpus callosum atrophy
+1775	Cortical diaphyseal thickening of the upper limbs
+1776	Cortical dysplasia
+1777	Cortical gyral simplification
+1778	Cortical irregularity
+1779	Cortical myoclonus
+1780	Cortical subperiosteal resorption of humeral metaphyses
+1781	Cortical thickening of long bone diaphyses
+1782	Cortical visual impairment
+1783	Corticospinal tract atrophy
+1784	Corticospinal tract hypoplasia
+1785	Cough
+1786	Coxa magna
+1787	Coxa valga
+1788	Coxa vara
+1789	Cranial asymmetry
+1790	Cranial hyperostosis
+1791	Cranial nerve VI palsy
+1792	Cranial nerve compression
+1793	Cranial nerve paralysis
+1794	Craniofacial disproportion
+1795	Craniofacial dysostosis
+1796	Craniofacial dystonia
+1797	Craniofacial hyperostosis
+1798	Craniofacial osteosclerosis
+1799	Craniosynostosis
+1800	Cranium bifidum occultum
+1801	Crazy paving pattern on pulmonary HRCT
+1802	Crohn's disease
+1803	Crossed fused renal ectopia
+1804	Crowded maxillary incisors
+1805	Crumpled ear
+1806	Crumpled long bones
+1807	Crusting erythematous dermatitis
+1808	Cryoglobulinemia
+1809	Cryptophthalmos
+1810	Cryptorchidism
+1811	Cubitus valgus
+1812	Cuboid-shaped thoracolumbar vertebral bodies
+1813	Cuboid-shaped vertebral bodies
+1814	Cuboidal metacarpal
+1815	Cupped ear
+1816	Cupped ribs
+1817	Curly eyelashes
+1818	Curly hair
+1819	Curved distal phalanges of the hand
+1820	Curved linear dimple below the lower lip
+1821	Curved middle phalanx of the 4th toe
+1822	Cutaneous T-cell lymphoma
+1823	Cutaneous angiolipomas
+1824	Cutaneous finger syndactyly
+1825	Cutaneous hamartoma
+1826	Cutaneous leiomyoma
+1827	Cutaneous mastocytosis
+1828	Cutaneous melanoma
+1829	Cutaneous photosensitivity
+1830	Cutaneous syndactyly
+1831	Cutaneous syndactyly between fingers 2 and 5
+1832	Cutaneous syndactyly of toes
+1833	Cutis gyrata of scalp
+1834	Cutis laxa
+1835	Cutis marmorata
+1836	Cyanosis
+1837	Cyclopia
+1838	Cystic hygroma
+1839	Cystic liver disease
+1840	Cystic medial necrosis of the aorta
+1841	Cystic renal dysplasia
+1842	Cystinuria
+1843	Cystocele
+1844	Cystoid macular degeneration
+1845	Cystoid macular edema
+1846	Cytochrome C oxidase-negative muscle fibers
+1847	Dacryocystitis
+1848	Dandy-Walker malformation
+1849	Death in early adulthood
+1850	Death in infancy
+1851	Decerebrate rigidity
+1852	Decrease in T cell count
+1853	Decreased Achilles reflex
+1854	Decreased CSF homovanillic acid
+1855	Decreased DLCO
+1856	Decreased T cell activation
+1857	Decreased T3/T4 ratio
+1858	Decreased activity of 3-hydroxyacyl-CoA dehydrogenase
+1859	Decreased activity of NADPH oxidase
+1860	Decreased activity of mitochondrial complex I
+1861	Decreased activity of mitochondrial respiratory chain
+1862	Decreased activity of the pyruvate dehydrogenase complex
+1863	Decreased adiponectin level
+1864	Decreased amplitude of sensory action potentials
+1865	Decreased antibody level in blood
+1866	Decreased body weight
+1867	Decreased calvarial ossification
+1868	Decreased cervical spine flexion due to contractures of posterior cervical muscles
+1869	Decreased cervical spine mobility
+1870	Decreased circulating ACTH level
+1871	Decreased circulating aldosterone level
+1872	Decreased circulating androgen level
+1873	Decreased circulating cortisol level
+1874	Decreased circulating follicle stimulating hormone level
+1875	Decreased circulating luteinizing hormone level
+1876	Decreased circulating renin level
+1877	Decreased corneal reflex
+1878	Decreased corneal sensation
+1879	Decreased corneal thickness
+1880	Decreased facial expression
+1881	Decreased female libido
+1882	Decreased fertility
+1883	Decreased fertility in females
+1884	Decreased fertility in males
+1885	Decreased fetal movement
+1886	Decreased finger mobility
+1887	Decreased glomerular filtration rate
+1888	Decreased hip abduction
+1889	Decreased lacrimation
+1890	Decreased level of plasminogen
+1891	Decreased level of thrombomodulin
+1892	Decreased liver function
+1893	Decreased male libido
+1894	Decreased mean corpuscular volume
+1895	Decreased methylcobalamin
+1896	Decreased miniature endplate potentials
+1897	Decreased motor nerve conduction velocity
+1898	Decreased muscle glycogen content
+1899	Decreased muscle mass
+1900	Decreased nerve conduction velocity
+1901	Decreased number of CD4+ T cells
+1902	Decreased number of large peripheral myelinated nerve fibers
+1903	Decreased number of peripheral myelinated nerve fibers
+1904	Decreased number of small peripheral myelinated nerve fibers
+1905	Decreased palmar creases
+1906	Decreased patellar reflex
+1907	Decreased plasma carnitine
+1908	Decreased scrotal rugation
+1909	Decreased sensory nerve conduction velocity
+1910	Decreased serum ceruloplasmin
+1911	Decreased serum complement C3
+1912	Decreased serum complement C4
+1913	Decreased serum complement factor B
+1914	Decreased serum complement factor I
+1915	Decreased serum creatinine
+1916	Decreased serum estradiol
+1917	Decreased serum ferritin
+1918	Decreased serum insulin-like growth factor 1
+1919	Decreased serum leptin
+1920	Decreased serum testosterone level
+1921	Decreased sialylation of O-linked protein glycosylation
+1922	Decreased size of nerve terminals
+1923	Decreased skull ossification
+1924	Decreased subcutaneous fat
+1925	Decreased taste sensation
+1926	Decreased testicular size
+1927	Decreased testosterone in males
+1928	Decreased transferrin saturation
+1929	Decreased urinary potassium
+1930	Decreased/absent ankle reflexes
+1931	Deep anterior chamber
+1932	Deep cerebral white matter hyperdensities
+1933	Deep palmar crease
+1934	Deep philtrum
+1935	Deep plantar creases
+1936	Deep venous thrombosis
+1937	Deep-set nails
+1938	Deeply set eye
+1939	Deficit in phonologic short-term memory
+1940	Deformed humeral heads
+1941	Deformed humerus
+1942	Degeneration of anterior horn cells
+1943	Degeneration of the lateral corticospinal tracts
+1944	Degenerative joint disease
+1945	Dehydration
+1946	Delayed CNS myelination
+1947	Delayed closure of the anterior fontanelle
+1948	Delayed cranial suture closure
+1949	Delayed epiphyseal ossification
+1950	Delayed eruption of permanent teeth
+1951	Delayed eruption of primary teeth
+1952	Delayed eruption of teeth
+1953	Delayed fine motor development
+1954	Delayed gross motor development
+1955	Delayed menarche
+1956	Delayed myelination
+1957	Delayed onset bleeding
+1958	Delayed patellar ossification
+1959	Delayed puberty
+1960	Delayed pubic bone ossification
+1961	Delayed skeletal maturation
+1962	Delayed social development
+1963	Delayed speech and language development
+1964	Delusions
+1965	Dementia
+1966	Demyelinating motor neuropathy
+1967	Demyelinating peripheral neuropathy
+1968	Demyelinating sensory neuropathy
+1969	Dense calvaria
+1970	Dense metaphyseal bands
+1971	Dental crowding
+1972	Dental enamel pits
+1973	Dental malocclusion
+1974	Dentinogenesis imperfecta
+1975	Depigmentation/hyperpigmentation of skin
+1976	Deposits immunoreactive to beta-amyloid protein
+1977	Depressed nasal bridge
+1978	Depressed nasal ridge
+1979	Depressed nasal tip
+1980	Depressivity
+1981	Dermal atrophy
+1982	Dermal translucency
+1983	Dermatoglyphic ridges abnormal
+1984	Dermatographic urticaria
+1985	Dermatological manifestations of systemic disorders
+1986	Descemet Membrane Folds
+1987	Descending aortic aneurysm
+1988	Descending aortic dissection
+1989	Desmoid tumors
+1990	Desquamation of skin soon after birth
+1991	Developmental regression
+1992	Developmental stagnation
+1993	Deviated nasal septum
+1994	Deviation of finger
+1995	Deviation of the 2nd finger
+1996	Deviation of the thumb
+1997	Dexamethasone-suppresible primary hyperaldosteronism
+1998	Dextrocardia
+1999	Diabetes insipidus
+2000	Diabetes mellitus
+2001	Diabetic ketoacidosis
+2002	Diaminoaciduria
+2003	Diaphragmatic paralysis
+2004	Diaphragmatic weakness
+2005	Diaphyseal dysplasia
+2006	Diaphyseal sclerosis
+2007	Diaphyseal thickening
+2008	Diarrhea
+2009	Diastasis recti
+2010	Diastema
+2011	Diastomatomyelia
+2012	Dicarboxylic aciduria
+2013	Difficulty adjusting from light to dark
+2014	Difficulty climbing stairs
+2015	Difficulty in tongue movements
+2016	Difficulty running
+2017	Difficulty standing
+2018	Difficulty walking
+2019	Diffuse axonal swelling
+2020	Diffuse cerebellar atrophy
+2021	Diffuse cerebral atrophy
+2022	Diffuse hepatic steatosis
+2023	Diffuse leiomyomatosis
+2024	Diffuse palmoplantar hyperkeratosis
+2025	Diffuse palmoplantar keratoderma
+2026	Diffuse reticular or finely nodular infiltrations
+2027	Diffuse skin atrophy
+2028	Diffuse spongiform leukoencephalopathy
+2029	Diffuse telangiectasia
+2030	Diffuse white matter abnormalities
+2031	Dilatation of ascending aorta
+2032	Dilatation of renal calices
+2033	Dilatation of the aortic arch
+2034	Dilatation of the ascending aorta
+2035	Dilatation of the bladder
+2036	Dilatation of the ventricular cavity
+2037	Dilated cardiomyopathy
+2038	Dilated fourth ventricle
+2039	Dilated superficial abdominal veins
+2040	Dilated third ventricle
+2041	Dilation of lateral ventricles
+2042	Diminished movement
+2043	Dimple on nasal tip
+2044	Diplopia
+2045	Disinhibition
+2046	Dislocated radial head
+2047	Disorganization of the anterior cerebellar vermis
+2048	Displacement of the external urethral meatus
+2049	Disproportionate short stature
+2050	Disproportionate short-limb short stature
+2051	Disproportionate short-trunk short stature
+2052	Disproportionate tall stature
+2053	Disseminated intravascular coagulation
+2054	Distal amyotrophy
+2055	Distal arthrogryposis
+2056	Distal femoral bowing
+2057	Distal lower limb amyotrophy
+2058	Distal lower limb muscle weakness
+2059	Distal muscle weakness
+2060	Distal peripheral sensory neuropathy
+2061	Distal renal tubular acidosis
+2062	Distal sensory impairment
+2063	Distal sensory loss of all modalities
+2064	Distal shortening of limbs
+2065	Distal symphalangism (hands)
+2066	Distal upper limb amyotrophy
+2067	Distal upper limb muscle weakness
+2068	Distal urethral duplication
+2069	Distichiasis
+2070	Dolichocephaly
+2071	Dorsal column degeneration
+2072	Dorsal subluxation of ulna
+2073	Double outlet left ventricle
+2074	Double outlet right ventricle
+2075	Double outlet right ventricle with doubly committed ventricular septal defect and pulmonary stenosis
+2076	Double outlet right ventricle with subpulmonary ventricular septal defect without pulmonary stenosis
+2077	Down-sloping shoulders
+2078	Downbeat nystagmus
+2079	Downslanted palpebral fissures
+2080	Downturned corners of mouth
+2081	Drooling
+2082	Drowsiness
+2083	Dry hair
+2084	Dry skin
+2085	Duane anomaly
+2086	Dumbbell-shaped humerus
+2087	Dumbbell-shaped long bone
+2088	Duodenal atresia
+2089	Duodenal polyposis
+2090	Duodenal stenosis
+2091	Duodenal ulcer
+2092	Duplicated collecting system
+2093	Duplicated colon
+2094	Duplication of renal pelvis
+2095	Duplication of the distal phalanx of the 5th finger
+2096	Duplication of thumb phalanx
+2097	Dupuytren contracture
+2098	Dural ectasia
+2099	Dysarthria
+2100	Dysautonomia
+2101	Dyscalculia
+2102	Dyschromatopsia
+2103	Dysdiadochokinesis
+2104	Dysesthesia
+2105	Dysfunction of lateral corticospinal tracts
+2106	Dysgammaglobulinemia
+2107	Dysgenesis of the cerebellar vermis
+2108	Dysgenesis of the hippocampus
+2109	Dysgerminoma
+2110	Dysgraphia
+2111	Dyskinesia
+2112	Dyslexia
+2113	Dysmenorrhea
+2114	Dysmetria
+2115	Dysmetric saccades
+2116	Dysostosis multiplex
+2117	Dyspareunia
+2118	Dysphagia
+2119	Dysphasia
+2120	Dysphonia
+2121	Dysplastic aortic valve
+2122	Dysplastic corpus callosum
+2123	Dysplastic erythropoesis
+2124	Dysplastic pulmonary valve
+2125	Dyspnea
+2126	Dyssynergia
+2127	Dystonia
+2128	Dystrophic fingernails
+2129	Dystrophic toenail
+2130	Dysuria
+2131	EEG abnormality
+2132	EEG with abnormally slow frequencies
+2133	EEG with burst suppression
+2134	EEG with centrotemporal focal spike waves
+2135	EEG with continuous slow activity
+2136	EEG with focal sharp slow waves
+2137	EEG with generalized epileptiform discharges
+2138	EEG with generalized slow activity
+2139	EEG with irregular generalized spike and wave complexes
+2140	EEG with parietal focal spike waves
+2141	EEG with parietal sharp waves
+2142	EEG with persistent abnormal rhythmic activity
+2143	EEG with polyspike wave complexes
+2144	EEG with spike-wave complexes
+2145	EEG with spike-wave complexes (>3.5 Hz)
+2146	EMG abnormality
+2147	EMG: axonal abnormality
+2148	EMG: chronic denervation signs
+2149	EMG: decremental response of compound muscle action potential to repetitive nerve stimulation
+2150	EMG: impaired neuromuscular transmission
+2151	EMG: myokymic discharges
+2152	EMG: myopathic abnormalities
+2153	EMG: myotonic discharges
+2154	EMG: myotonic runs
+2155	EMG: neuropathic changes
+2156	EMG: positive sharp waves
+2157	EMG: repetitive nerve stimulation abnormality
+2158	Ear pain
+2159	Early balding
+2160	Early onset of sexual maturation
+2161	Early ossification of capital femoral epiphyses
+2162	Easy fatigability
+2163	Ebstein's anomaly of the tricuspid valve
+2164	Echolalia
+2165	Eclabion
+2166	Eclampsia
+2167	Ectodermal dysplasia
+2168	Ectopia lentis
+2169	Ectopia pupillae
+2170	Ectopic adrenal gland
+2171	Ectopic anterior pituitary gland
+2172	Ectopic anus
+2173	Ectopic calcification
+2174	Ectopic kidney
+2175	Ectopic ossification
+2176	Ectopic ossification in ligament tissue
+2177	Ectopic ossification in muscle tissue
+2178	Ectopic posterior pituitary
+2179	Ectopic scrotum
+2180	Ectopic thyroid
+2181	Ectrodactyly
+2182	Ectropion
+2183	Ectropion of lower eyelids
+2184	Eczema
+2185	Eczematoid dermatitis
+2186	Edema
+2187	Edema of the dorsum of feet
+2188	Edema of the dorsum of hands
+2189	Edema of the lower limbs
+2190	Elbow ankylosis
+2191	Elbow dislocation
+2192	Elbow flexion contracture
+2193	Elevated 7-dehydrocholesterol
+2194	Elevated C-reactive protein level
+2195	Elevated aldolase level
+2196	Elevated alkaline phosphatase
+2197	Elevated alkaline phosphatase of bone origin
+2198	Elevated alkaline phosphatase of hepatic origin
+2199	Elevated alpha-fetoprotein
+2200	Elevated amniotic fluid alpha-fetoprotein
+2201	Elevated brain choline level by MRS
+2202	Elevated calcitonin
+2203	Elevated carcinoembryonic antigen level
+2204	Elevated circulating parathyroid hormone level
+2205	Elevated creatine kinase after exercise
+2206	Elevated erythrocyte sedimentation rate
+2207	Elevated follicle stimulating hormone
+2208	Elevated gamma-glutamyltransferase activity
+2209	Elevated hemoglobin A1c
+2210	Elevated hepatic iron concentration
+2211	Elevated hepatic transaminases
+2212	Elevated jugular venous pressure
+2213	Elevated levels of phytanic acid
+2214	Elevated luteinizing hormone
+2215	Elevated maternal serum alpha-fetoprotein
+2216	Elevated plasma acylcarnitine levels
+2217	Elevated plasma branched chain amino acids
+2218	Elevated pulmonary artery pressure
+2219	Elevated serum 11-deoxycortisol
+2220	Elevated serum acid phosphatase
+2221	Elevated serum creatine phosphokinase
+2222	Elevated serum creatinine
+2223	Elevated tissue non-specific alkaline phosphatase
+2224	Elevated transferrin saturation
+2225	Elevated urinary catecholamines
+2226	Elevated urinary dopamine
+2227	Elevated urinary epinephrine
+2228	Elevated urinary norepinephrine
+2229	Elfin facies
+2230	Elliptocytosis
+2231	Elongated superior cerebellar peduncle
+2232	Emotional blunting
+2233	Emotional lability
+2234	Emphysema
+2235	Enanthema
+2236	Encephalitis
+2237	Encephalocele
+2238	Encephalomalacia
+2239	Encephalopathy
+2240	Enchondroma
+2241	Encopresis
+2242	Endocardial fibroelastosis
+2243	Endocarditis
+2244	Endometrial carcinoma
+2245	Enlarged cerebellum
+2246	Enlarged cisterna magna
+2247	Enlarged cochlear aqueduct
+2248	Enlarged epiphyses
+2249	Enlarged fetal cisterna magna
+2250	Enlarged interhemispheric fissure
+2251	Enlarged interphalangeal joints
+2252	Enlarged joints
+2253	Enlarged kidney
+2254	Enlarged labia minora
+2255	Enlarged lacrimal glands
+2256	Enlarged naris
+2257	Enlarged ovaries
+2258	Enlarged peripheral nerve
+2259	Enlarged pituitary gland
+2260	Enlarged polycystic ovaries
+2261	Enlarged thorax
+2262	Enlarged tonsils
+2263	Enlarged uterus
+2264	Enlarged vestibular aqueduct
+2265	Enlargement of parotid gland
+2266	Enlargement of the ankles
+2267	Enlargement of the distal femoral epiphysis
+2268	Enlargement of the wrists
+2269	Enterocolitis
+2270	Enthesitis
+2271	Entrapment neuropathy
+2272	Entropion
+2273	Enuresis
+2274	Enuresis nocturna
+2275	Eosinophilia
+2276	Epibulbar dermoid
+2277	Epicanthus
+2278	Epicanthus inversus
+2279	Epidermal acanthosis
+2280	Epidermal cyst
+2281	Epidermal hyperkeratosis
+2282	Epidermal nevus
+2283	Epidermal thickening
+2284	Epididymal cyst
+2285	Epigastric auras
+2286	Epigastric pain
+2287	Epileptic encephalopathy
+2288	Epileptic spasms
+2289	Epiphyseal dysplasia
+2290	Epiphyseal stippling
+2291	Epiretinal membrane
+2292	Episcleritis
+2293	Episodes of ventricular tachycardia
+2294	Episodic abdominal pain
+2295	Episodic ammonia intoxication
+2296	Episodic ataxia
+2297	Episodic fever
+2298	Episodic flaccid weakness
+2299	Episodic hemolytic anemia
+2300	Episodic hyperhidrosis
+2301	Episodic hypokalemia
+2302	Episodic ketoacidosis
+2303	Episodic paroxysmal anxiety
+2304	Episodic respiratory distress
+2305	Episodic tachypnea
+2306	Episodic vomiting
+2307	Epispadias
+2308	Epistaxis
+2309	Equinovarus deformity
+2310	Erectile abnormalities
+2311	Erratic myoclonus
+2312	Eruptive xanthomas
+2313	Erysipelas
+2314	Erythema
+2315	Erythema nodosum
+2316	Erythematous macule
+2317	Erythematous plaque
+2318	Erythroderma
+2319	Esophageal atresia
+2320	Esophageal carcinoma
+2321	Esophageal diverticulum
+2322	Esophageal neoplasm
+2323	Esophageal obstruction
+2324	Esophageal stenosis
+2325	Esophageal stricture
+2326	Esophageal ulceration
+2327	Esophageal varix
+2328	Esophageal web
+2329	Esophagitis
+2330	Esotropia
+2331	Eunuchoid habitus
+2332	Euryblepharon
+2333	Euthyroid goiter
+2334	Euthyroid hyperthyroxinemia
+2335	Eversion of lateral third of lower eyelids
+2336	Everted lower lip vermilion
+2337	Everted upper lip vermilion
+2338	Exaggerated cellular immune processes
+2339	Exaggerated cupid's bow
+2340	Exaggerated median tongue furrow
+2341	Exaggerated startle response
+2342	Excessive daytime sleepiness
+2343	Excessive daytime somnolence
+2344	Excessive salivation
+2345	Excessive skin wrinkling on dorsum of hands and fingers
+2346	Excessive wrinkled skin
+2347	Excessive wrinkling of palmar skin
+2348	Exencephaly
+2349	Exercise intolerance
+2350	Exercise-induced muscle fatigue
+2351	Exercise-induced myalgia
+2352	Exercise-induced myoglobinuria
+2353	Exercise-induced rhabdomyolysis
+2354	Exertional dyspnea
+2355	Exocrine pancreatic insufficiency
+2356	Exophoria
+2357	Exostoses
+2358	Exotropia
+2359	Expressive language delay
+2360	Extension of hair growth on temples to lateral eyebrow
+2361	External ear malformation
+2362	External genital hypoplasia
+2363	External ophthalmoplegia
+2364	Externally rotated hips
+2365	Extraadrenal pheochromocytoma
+2366	Extrahepatic biliary duct atresia
+2367	Extrahepatic cholestasis
+2368	Extramedullary hematopoiesis
+2369	Extrapyramidal dyskinesia
+2370	Extrapyramidal muscular rigidity
+2371	Eye of the tiger anomaly of globus pallidus
+2372	Eyelid apraxia
+2373	Eyelid myoclonias
+2374	Eyelid myokymia
+2375	Facial asymmetry
+2376	Facial capillary hemangioma
+2377	Facial cleft
+2378	Facial diplegia
+2379	Facial edema
+2380	Facial erythema
+2381	Facial grimacing
+2382	Facial hemangioma
+2383	Facial hirsutism
+2384	Facial hyperostosis
+2385	Facial hypotonia
+2386	Facial muscle hypertrophy
+2387	Facial myokymia
+2388	Facial neoplasm
+2389	Facial palsy
+2390	Facial paralysis
+2391	Facial shape deformation
+2392	Facial telangiectasia
+2393	Facial telangiectasia in butterfly midface distribution
+2394	Facial tics
+2395	Failure of eruption of permanent teeth
+2396	Failure to thrive
+2397	Failure to thrive in infancy
+2398	Fair hair
+2399	Falls
+2400	Fasciculations
+2401	Fasciitis
+2402	Fasting hyperinsulinemia
+2403	Fasting hypoglycemia
+2404	Fat malabsorption
+2405	Fatal liver failure in infancy
+2406	Fatigable weakness
+2407	Fatigable weakness of bulbar muscles
+2408	Fatigable weakness of distal limb muscles
+2409	Fatigable weakness of neck muscles
+2410	Fatigable weakness of respiratory muscles
+2411	Fatigable weakness of swallowing muscles
+2412	Fatiguable weakness of proximal limb muscles
+2413	Fatigue
+2414	Fatty replacement of skeletal muscle
+2415	Favorable response of weakness to acetylcholine esterase inhibitors
+2416	Febrile seizures
+2417	Feeding difficulties
+2418	Feeding difficulties in infancy
+2419	Female anorgasmia
+2420	Female external genitalia in individual with 46,XY karyotype
+2421	Female hypogonadism
+2422	Female infertility
+2423	Female pseudohermaphroditism
+2424	Female sexual dysfunction
+2425	Femoral bowing
+2426	Femoral hernia
+2427	Fetal akinesia sequence
+2428	Fetal fifth finger clinodactyly
+2429	Fetal megacystis
+2430	Fetal polyuria
+2431	Fetal pyelectasis
+2432	Fever
+2433	Fibroma
+2434	Fibroma of the breast
+2435	Fibrosarcoma
+2436	Fibrous dysplasia of the bones
+2437	Fibrous syngnathia
+2438	Fibular aplasia
+2439	Fibular bowing
+2440	Fibular duplication
+2441	Fibular hypoplasia
+2442	Fifth finger distal phalanx clinodactyly
+2443	Fifth metacarpal with ulnar notch
+2444	Fine hair
+2445	Finger agnosia
+2446	Finger clinodactyly
+2447	Finger joint hypermobility
+2448	Finger symphalangism
+2449	Finger syndactyly
+2450	Fingernail dysplasia
+2451	First degree atrioventricular block
+2452	First dorsal interossei muscle atrophy
+2453	First dorsal interossei muscle weakness
+2454	Fish odor
+2455	Fixed facial expression
+2456	Flared iliac wings
+2457	Flared metaphyses (elbow)
+2458	Flared metaphysis
+2459	Flared nostrils
+2460	Flared radial metaphysis
+2461	Flared, irregular rib ends
+2462	Flaring of lower rib cage
+2463	Flat acetabular roof
+2464	Flat capital femoral epiphysis
+2465	Flat cornea
+2466	Flat face
+2467	Flat forehead
+2468	Flat midface
+2469	Flat nasal alae
+2470	Flat occiput
+2471	Flattened epiphysis
+2472	Flattened femoral head
+2473	Flattened, squared-off epiphyses of tubular bones
+2474	Flexion contracture
+2475	Flexion contracture of finger
+2476	Flexion contracture of the 2nd toe
+2477	Flexion contracture of the 4th toe
+2478	Flexion contracture of toe
+2479	Fluctuations in consciousness
+2480	Flushing
+2481	Foam cells
+2482	Focal T2 hyperintense basal ganglia lesion
+2483	Focal T2 hyperintense brainstem lesion
+2484	Focal T2 hypointense basal ganglia lesion
+2485	Focal T2 hypointense brainstem lesion
+2486	Focal T2 hypointense thalamic lesion
+2487	Focal clonic seizures
+2488	Focal dystonia
+2489	Focal friction-related palmoplantar hyperkeratosis
+2490	Focal motor seizures
+2491	Focal myoclonic seizures
+2492	Focal segmental glomerulosclerosis
+2493	Focal seizures
+2494	Focal seizures with impairment of consciousness or awareness
+2495	Focal seizures, afebril
+2496	Focal tonic seizures
+2497	Focal white matter lesions
+2498	Folate-dependent fragile site at Xq28
+2499	Folate-unresponsive megaloblastic anemia
+2500	Follicular hyperkeratosis
+2501	Follicular hyperplasia
+2502	Follicular thyroid carcinoma
+2503	Food intolerance
+2504	Foot dorsiflexor weakness
+2505	Foot oligodactyly
+2506	Foot osteomyelitis
+2507	Foot polydactyly
+2508	Forearm reduction defects
+2509	Forearm undergrowth
+2510	Fourth cranial nerve palsy
+2511	Fractures of the long bones
+2512	Fragile nails
+2513	Fragile skin
+2514	Fragile teeth
+2515	Fragmented elastic fibers in the dermis
+2516	Freckles in sun-exposed areas
+2517	Freckling
+2518	Frequent falls
+2519	Frog-leg posture
+2520	Frontal balding
+2521	Frontal bossing
+2522	Frontal cortical atrophy
+2523	Frontal encephalocele
+2524	Frontal lobe dementia
+2525	Frontal release signs
+2526	Frontalis muscle weakness
+2527	Frontotemporal cerebral atrophy
+2528	Frontotemporal dementia
+2529	Full cheeks
+2530	Functional abnormality of male internal genitalia
+2531	Functional abnormality of the bladder
+2532	Functional abnormality of the gastrointestinal tract
+2533	Functional abnormality of the inner ear
+2534	Functional intestinal obstruction
+2535	Functional motor problems
+2536	Functional respiratory abnormality
+2537	Fundus atrophy
+2538	Furrowed tongue
+2539	Fused cervical vertebrae
+2540	Fused fourth and fifth metacarpals
+2541	Fused labia minora
+2542	Fused teeth
+2543	Fusion of gums
+2544	Fusion of the cerebellar hemispheres
+2545	Fusion of the left and right thalami
+2546	Gait ataxia
+2547	Gait disturbance
+2548	Gait imbalance
+2549	Galactorrhea
+2550	Galactosuria
+2551	Gallbladder dysfunction
+2552	Ganglioneuroblastoma
+2553	Ganglioneuroma
+2554	Gangrene
+2555	Gastric ulcer
+2556	Gastritis
+2557	Gastroesophageal reflux
+2558	Gastrointestinal angiodysplasia
+2559	Gastrointestinal atresia
+2560	Gastrointestinal carcinoma
+2561	Gastrointestinal duplication
+2562	Gastrointestinal dysmotility
+2563	Gastrointestinal hemorrhage
+2564	Gastrointestinal infarctions
+2565	Gastrointestinal inflammation
+2566	Gastrointestinal obstruction
+2567	Gastrointestinal stroma tumor
+2568	Gastroparesis
+2569	Gastroschisis
+2570	Gastrostomy tube feeding in infancy
+2571	Gaze-evoked horizontal nystagmus
+2572	Gaze-evoked nystagmus
+2573	Gelastic seizures
+2574	Generalized abnormality of skin
+2575	Generalized aminoaciduria
+2576	Generalized amyotrophy
+2577	Generalized bone demineralization
+2578	Generalized bronze hyperpigmentation
+2579	Generalized cerebral atrophy/hypoplasia
+2580	Generalized dystonia
+2581	Generalized edema
+2582	Generalized hirsutism
+2583	Generalized hyperkeratosis
+2584	Generalized hyperpigmentation
+2585	Generalized hyperreflexia
+2586	Generalized hypertrichosis
+2587	Generalized hypopigmentation
+2588	Generalized hypopigmentation of hair
+2589	Generalized hypotonia
+2590	Generalized joint laxity
+2591	Generalized keratosis follicularis
+2592	Generalized limb muscle atrophy
+2593	Generalized lipodystrophy
+2594	Generalized lymphadenopathy
+2595	Generalized muscle hypertrophy
+2596	Generalized muscle weakness
+2597	Generalized myoclonic seizures
+2598	Generalized neonatal hypotonia
+2599	Generalized osteoporosis
+2600	Generalized osteosclerosis
+2601	Generalized seizures
+2602	Generalized tonic seizures
+2603	Generalized tonic-clonic seizures
+2604	Generalized weakness of limb muscles
+2605	Genital hernia
+2606	Genital neoplasm
+2607	Genu recurvatum
+2608	Genu valgum
+2609	Genu varum
+2610	Geophagia
+2611	Giant cell tumor of bone
+2612	Giant melanosomes in melanocytes
+2613	Giant platelets
+2614	Gingival bleeding
+2615	Gingival cleft
+2616	Gingival fibromatosis
+2617	Gingival hyperkeratosis
+2618	Gingival overgrowth
+2619	Gingival recession
+2620	Gingivitis
+2621	Glabellar reflex
+2622	Glandular hypospadias
+2623	Glaucoma
+2624	Glenoid fossa hypoplasia
+2625	Glioblastoma
+2626	Glioma
+2627	Gliosis
+2628	Global brain atrophy
+2629	Global developmental delay
+2630	Globozoospermia
+2631	Glomerulopathy
+2632	Glomerulosclerosis
+2633	Glossitis
+2634	Glossoptosis
+2635	Glucagonoma
+2636	Glucocortocoid-insensitive primary hyperaldosteronism
+2637	Glucose intolerance
+2638	Glue ear
+2639	Glutathione synthetase deficiency
+2640	Glycosuria
+2641	Goiter
+2642	Gonadal calcification
+2643	Gonadal dysgenesis
+2644	Gonadal dysgenesis with female appearance, male
+2645	Gonadal dysgenesis, male
+2646	Gonadal neoplasm
+2647	Gonadal tissue inappropriate for external genitalia or chromosomal sex
+2648	Gonadoblastoma
+2649	Gonadotropin deficiency
+2650	Gout
+2651	Gowers sign
+2652	Grammar-specific speech disorder
+2653	Granular macular appearance
+2654	Granulomatosis
+2655	Graves disease
+2656	Grayish enamel
+2657	Ground-glass opacification on pulmonary HRCT
+2658	Growth delay
+2659	Growth hormone deficiency
+2660	Growth hormone excess
+2661	Gynecomastia
+2662	Hair-pulling
+2663	Halberd-shaped pelvis
+2664	Hallucinations
+2665	Hallux valgus
+2666	Hallux varus
+2667	Hamartoma
+2668	Hamartoma of the orbital region
+2669	Hamartoma of tongue
+2670	Hamartomatous polyposis
+2671	Hammertoe
+2672	Hamstring contractures
+2673	Hand clenching
+2674	Hand muscle atrophy
+2675	Hand muscle weakness
+2676	Hand polydactyly
+2677	Hand tremor
+2678	Handgrip myotonia
+2679	Happy demeanor
+2680	Hashimoto thyroiditis
+2681	Head tremor
+2682	Headache
+2683	Hearing abnormality
+2684	Hearing impairment
+2685	Heart block
+2686	Heart murmur
+2687	Heat intolerance
+2688	Hemangioblastoma
+2689	Hemangioma
+2690	Hemangiomatosis
+2691	Hematemesis
+2692	Hematochezia
+2693	Hematological neoplasm
+2694	Hematuria
+2695	Hemeralopia
+2696	Hemianopsia
+2697	Hemiatrophy
+2698	Hemiatrophy of lower limb
+2699	Hemiatrophy of upper limb
+2700	Hemiballismus
+2701	Hemifacial atrophy
+2702	Hemifacial seizures
+2703	Hemifacial spasm
+2704	Hemihypertrophy
+2705	Hemihypertrophy of lower limb
+2706	Hemihypertrophy of upper limb
+2707	Hemiparesis
+2708	Hemiplegia
+2709	Hemiplegia/hemiparesis
+2710	Hemivertebrae
+2711	Hemobilia
+2712	Hemoglobin H
+2713	Hemoglobinuria
+2714	Hemolytic anemia
+2715	Hemophagocytosis
+2716	Hemoptysis
+2717	Hemorrhagic ovarian cyst
+2718	Hemothorax
+2719	Hepatic calcification
+2720	Hepatic cysts
+2721	Hepatic encephalopathy
+2722	Hepatic failure
+2723	Hepatic fibrosis
+2724	Hepatic necrosis
+2725	Hepatic steatosis
+2726	Hepatitis
+2727	Hepatoblastoma
+2728	Hepatocellular adenoma
+2729	Hepatocellular carcinoma
+2730	Hepatocellular necrosis
+2731	Hepatomegaly
+2732	Hepatosplenomegaly
+2733	Hernia
+2734	Hernia of the abdominal wall
+2735	Herniation of intervertebral nuclei
+2736	Herpetiform corneal ulceration
+2737	Heterochromia iridis
+2738	Heteronymous hemianopia
+2739	Heterotaxy
+2740	Heterotopia
+2741	Hiatus hernia
+2742	Hidrotic ectodermal dysplasia
+2743	High anterior hairline
+2744	High forehead
+2745	High iliac wings
+2746	High intestinal obstruction
+2747	High maternal serum chorionic gonadotropin
+2748	High myoinositol in brain by MRS
+2749	High nonceruloplasmin-bound serum copper
+2750	High palate
+2751	High pitched voice
+2752	High urinary gonadotropins (primary hypogonadism)
+2753	High, narrow palate
+2754	High-frequency hearing impairment
+2755	High-frequency sensorineural hearing impairment
+2756	High-grade hypermetropia
+2757	High-output congestive heart failure
+2758	Highly arched eyebrow
+2759	Highly elevated creatine phosphokinase
+2760	Hip contracture
+2761	Hip dislocation
+2762	Hip dysplasia
+2763	Hip flexor weakness
+2764	Hip osteoarthritis
+2765	Hip pain
+2766	Hirsutism
+2767	Histidinuria
+2768	Histiocytoma
+2769	Histiocytosis
+2770	Hoarse cry
+2771	Hoarse voice
+2772	Hodgkin lymphoma
+2773	Holoprosencephaly
+2774	Honeycomb lung
+2775	Honeycomb palmoplantar keratoderma
+2776	Hooded eyelid
+2777	Horizontal eyebrow
+2778	Horizontal nystagmus
+2779	Horizontal ribs
+2780	Horizontal supranuclear gaze palsy
+2781	Horner syndrome
+2782	Horseshoe kidney
+2783	Humeroradial synostosis
+2784	Humerus varus
+2785	Hydranencephaly
+2786	Hydrocele testis
+2787	Hydrocephalus
+2788	Hydrocolpos
+2789	Hydrometrocolpos
+2790	Hydronephrosis
+2791	Hydrops fetalis
+2792	Hydroureter
+2793	Hyoplasia of the Leydig cells
+2794	Hyperactive deep tendon reflexes
+2795	Hyperactive patellar reflex
+2796	Hyperactivity
+2797	Hyperacusis
+2798	Hyperalaninemia
+2799	Hyperaldosteronism
+2800	Hyperalphalipoproteinemia
+2801	Hyperammonemia
+2802	Hyperbilirubinemia
+2803	Hypercalcemia
+2804	Hypercalciuria
+2805	Hypercapnia
+2806	Hyperchloremic metabolic acidosis
+2807	Hypercholesterolemia
+2808	Hyperchylomicronemia
+2809	Hypercoagulability
+2810	Hyperconvex fingernails
+2811	Hyperconvex nail
+2812	Hyperconvex thumb nails
+2813	Hyperconvex toenail
+2814	Hypercortisolism
+2815	Hyperechogenic kidneys
+2816	Hyperemesis gravidarum
+2817	Hyperesthesia
+2818	Hyperextensibility at elbow
+2819	Hyperextensibility at wrists
+2820	Hyperextensible skin
+2821	Hyperglutaminemia
+2822	Hyperglycemia
+2823	Hyperglycinemia
+2824	Hypergonadotropic hypogonadism
+2825	Hyperhidrosis
+2826	Hyperinsulinemia
+2827	Hyperinsulinemic hypoglycemia
+2828	Hyperintensity of MRI T2 signal of the spinal cord
+2829	Hyperintensity of cerebral white matter on MRI
+2830	Hyperisoleucinemia
+2831	Hyperkalemia
+2832	Hyperkalemic metabolic acidosis
+2833	Hyperkeratosis
+2834	Hyperkeratosis lenticularis perstans
+2835	Hyperkeratosis pilaris
+2836	Hyperkeratosis with erythema
+2837	Hyperkeratotic papule
+2838	Hyperkinesis
+2839	Hyperlipidemia
+2840	Hyperlipoproteinemia
+2841	Hyperlordosis
+2842	Hyperlysinemia
+2843	Hypermagnesemia
+2844	Hypermagnesiuria
+2845	Hypermelanotic macule
+2846	Hypermetric saccades
+2847	Hypermetropia
+2848	Hypermobility of toe joints
+2849	Hypermyelinated retinal nerve fibers
+2850	Hypernatremia
+2851	Hypernatremic dehydration
+2852	Hypernatriuria
+2853	Hyperorality
+2854	Hyperostosis
+2855	Hyperostosis frontalis interna
+2856	Hyperoxaluria
+2857	Hyperoxemia
+2858	Hyperparakeratosis
+2859	Hyperparathyroidism
+2860	Hyperphenylalaninemia
+2861	Hyperphosphatemia
+2862	Hyperphosphaturia
+2863	Hyperpigmentation of the skin
+2864	Hyperpigmented genitalia
+2865	Hyperpigmented nevi
+2866	Hyperpituitarism
+2867	Hyperplasia of the Leydig cells
+2868	Hyperplasia of the maxilla
+2869	Hyperprolinemia
+2870	Hyperprostaglandinuria
+2871	Hyperproteinemia
+2872	Hyperreflexia
+2873	Hyperreflexia in upper limbs
+2874	Hypersexuality
+2875	Hypersomnia
+2876	Hypersplenism
+2877	Hypertelorism
+2878	Hypertension
+2879	Hypertension associated with pheochromocytoma
+2880	Hypertensive crisis
+2881	Hypertensive retinopathy
+2882	Hyperthyroidism
+2883	Hypertonia
+2884	Hypertrichosis
+2885	Hypertriglyceridemia
+2886	Hypertrophic cardiomyopathy
+2887	Hypertrophic nerve changes
+2888	Hypertrophy of the lower limb
+2889	Hypertrophy of the upper limb
+2890	Hyperuricemia
+2891	Hyperuricosuria
+2892	Hyperventilation
+2893	Hypervolemia
+2894	Hyphema
+2895	Hypoactive bowel sounds
+2896	Hypoalbuminemia
+2897	Hypoaldosteronism
+2898	Hypoalphalipoproteinemia
+2899	Hypoammonemia
+2900	Hypoargininemia
+2901	Hypobetalipoproteinemia
+2902	Hypocalcemia
+2903	Hypocalcemic seizures
+2904	Hypocalcemic tetany
+2905	Hypocalcification of dental enamel
+2906	Hypocalciuria
+2907	Hypocholesterolemia
+2908	Hypochromic anemia
+2909	Hypochromic microcytic anemia
+2910	Hypocortisolemia
+2911	Hypocupremia
+2912	Hypodontia
+2913	Hypofibrinogenemia
+2914	Hypoglycemia
+2915	Hypoglycemic coma
+2916	Hypoglycemic encephalopathy
+2917	Hypoglycemic seizures
+2918	Hypoglycorrhachia
+2919	Hypoglycosylation of alpha-dystroglycan
+2920	Hypogonadism
+2921	Hypogonadotrophic hypogonadism
+2922	Hypohidrosis
+2923	Hypointensity of cerebral white matter on MRI
+2924	Hypokalemia
+2925	Hypokalemic metabolic alkalosis
+2926	Hypoketotic hypoglycemia
+2927	Hypokinesia
+2928	Hypomagnesemia
+2929	Hypomagnesiuria
+2930	Hypomelanotic macules
+2931	Hypometric horizontal saccades
+2932	Hypometric saccades
+2933	Hypomimic face
+2934	Hyponatremia
+2935	Hypoparathyroidism
+2936	Hypoperistalsis
+2937	Hypophosphatemia
+2938	Hypophosphatemic rickets
+2939	Hypopigmentation of hair
+2940	Hypopigmentation of the fundus
+2941	Hypopigmentation of the skin
+2942	Hypopigmented skin patches
+2943	Hypopigmented streaks
+2944	Hypopituitarism
+2945	Hypoplasia of dental enamel
+2946	Hypoplasia of lymphatic vessels
+2947	Hypoplasia of olfactory tract
+2948	Hypoplasia of penis
+2949	Hypoplasia of proximal radius
+2950	Hypoplasia of right ventricle
+2951	Hypoplasia of teeth
+2952	Hypoplasia of the abdominal wall musculature
+2953	Hypoplasia of the antihelix
+2954	Hypoplasia of the bladder
+2955	Hypoplasia of the brainstem
+2956	Hypoplasia of the capital femoral epiphysis
+2957	Hypoplasia of the cochlea
+2958	Hypoplasia of the corpus callosum
+2959	Hypoplasia of the ear cartilage
+2960	Hypoplasia of the fallopian tube
+2961	Hypoplasia of the fovea
+2962	Hypoplasia of the frontal lobes
+2963	Hypoplasia of the gallbladder
+2964	Hypoplasia of the iris
+2965	Hypoplasia of the maxilla
+2966	Hypoplasia of the musculature
+2967	Hypoplasia of the nasal bone
+2968	Hypoplasia of the odontoid process
+2969	Hypoplasia of the olfactory bulb
+2970	Hypoplasia of the ovary
+2971	Hypoplasia of the pharynx
+2972	Hypoplasia of the pons
+2973	Hypoplasia of the premaxilla
+2974	Hypoplasia of the radius
+2975	Hypoplasia of the semicircular canal
+2976	Hypoplasia of the thymus
+2977	Hypoplasia of the tooth germ
+2978	Hypoplasia of the ulna
+2979	Hypoplasia of the uterus
+2980	Hypoplasia of the vagina
+2981	Hypoplastic 5th lumbar vertebrae
+2982	Hypoplastic anemia
+2983	Hypoplastic aortic arch
+2984	Hypoplastic areola
+2985	Hypoplastic cervical vertebrae
+2986	Hypoplastic distal humeri
+2987	Hypoplastic facial bones
+2988	Hypoplastic female external genitalia
+2989	Hypoplastic fifth fingernail
+2990	Hypoplastic fifth toenail
+2991	Hypoplastic fingernail
+2992	Hypoplastic frontal sinuses
+2993	Hypoplastic hippocampus
+2994	Hypoplastic ilia
+2995	Hypoplastic iliac wing
+2996	Hypoplastic inferior ilia
+2997	Hypoplastic iris stroma
+2998	Hypoplastic ischia
+2999	Hypoplastic labia majora
+3000	Hypoplastic labia minora
+3001	Hypoplastic lacrimal duct
+3002	Hypoplastic left heart
+3003	Hypoplastic male external genitalia
+3004	Hypoplastic nasal bridge
+3005	Hypoplastic nasal septum
+3006	Hypoplastic nipples
+3007	Hypoplastic pelvis
+3008	Hypoplastic pubic bone
+3009	Hypoplastic pubic rami
+3010	Hypoplastic scapulae
+3011	Hypoplastic superior helix
+3012	Hypoplastic toenails
+3013	Hypoplastic tricuspid valve
+3014	Hypoplastic vertebral bodies
+3015	Hypoproteinemia
+3016	Hyporeflexia
+3017	Hyporeflexia of lower limbs
+3018	Hyporeflexia of upper limbs
+3019	Hyposegmentation of neutrophil nuclei
+3020	Hyposmia
+3021	Hypospadias
+3022	Hyposthenuria
+3023	Hypotelorism
+3024	Hypotension
+3025	Hypothalamic gonadotropin-releasing hormone (GNRH) deficiency
+3026	Hypothalamic hamartoma
+3027	Hypothalamic hypothyroidism
+3028	Hypothalamic luteinizing hormone-releasing hormone deficiency
+3029	Hypothermia
+3030	Hypothyroidism
+3031	Hypotrichosis
+3032	Hypotrichosis of the scalp
+3033	Hypotriglyceridemia
+3034	Hypoventilation
+3035	Hypovolemia
+3036	Hypoxemia
+3037	Hypsarrhythmia
+3038	Ichthyosis
+3039	IgA deficiency
+3040	IgG deficiency
+3041	IgM deficiency
+3042	Ileal adenocarcinoma
+3043	Ileus
+3044	Iliac crest serration
+3045	Iliac horns
+3046	Immune dysregulation
+3047	Immunodeficiency
+3048	Immunoglobulin IgG2 deficiency
+3049	Immunologic hypersensitivity
+3050	Impacted tooth
+3051	Impaired T cell function
+3052	Impaired continence
+3053	Impaired convergence
+3054	Impaired distal proprioception
+3055	Impaired distal tactile sensation
+3056	Impaired distal vibration sensation
+3057	Impaired histidine renal tubular absorption
+3058	Impaired horizontal smooth pursuit
+3059	Impaired myocardial contractility
+3060	Impaired ocular abduction
+3061	Impaired oropharyngeal swallow response
+3062	Impaired pain sensation
+3063	Impaired proprioception
+3064	Impaired smooth pursuit
+3065	Impaired social interactions
+3066	Impaired tactile sensation
+3067	Impaired temperature sensation
+3068	Impaired thermal sensitivity
+3069	Impaired use of nonverbal behaviors
+3070	Impaired vibration sensation at ankles
+3071	Impaired vibration sensation in the lower limbs
+3072	Impaired vibratory sensation
+3073	Impaired visually enhanced vestibulo-ocular reflex
+3074	Impaired visuospatial constructive cognition
+3075	Impairment in personality functioning
+3076	Impairment of galactose metabolism
+3077	Imperforate tricuspid valve
+3078	Impotence
+3079	Impulsivity
+3080	Inability to walk
+3081	Inappropriate antidiuretic hormone secretion
+3082	Inappropriate behavior
+3083	Inappropriate crying
+3084	Inappropriate laughter
+3085	Inappropriate sexual behavior
+3086	Incomplete cleft of the upper lip
+3087	Incomplete ossification of pubis
+3088	Incomprehensible speech
+3089	Incoordination
+3090	Increase in T cell count
+3091	Increased C-peptide level
+3092	Increased CSF lactate
+3093	Increased CSF protein
+3094	Increased IgA level
+3095	Increased IgE level
+3096	Increased IgG level
+3097	Increased IgM level
+3098	Increased QRS voltage
+3099	Increased adipose tissue
+3100	Increased adipose tissue around the neck
+3101	Increased anterioposterior diameter of thorax
+3102	Increased antibody level in blood
+3103	Increased arm span
+3104	Increased axial globe length
+3105	Increased blood urea nitrogen
+3106	Increased body weight
+3107	Increased bone density with cystic changes
+3108	Increased bone mineral density
+3109	Increased circulating ACTH level
+3110	Increased circulating androgen level
+3111	Increased circulating cortisol level
+3112	Increased circulating free fatty acid level
+3113	Increased circulating gonadotropin level
+3114	Increased circulating low-density lipoprotein levels
+3115	Increased circulating renin level
+3116	Increased connective tissue
+3117	Increased endomysial connective tissue
+3118	Increased facial adipose tissue
+3119	Increased female libido
+3120	Increased fibular diameter
+3121	Increased glucagon level
+3122	Increased hematocrit
+3123	Increased hepatic glycogen content
+3124	Increased hepatocellular lipid droplets
+3125	Increased inflammatory response
+3126	Increased intraabdominal fat
+3127	Increased intracranial pressure
+3128	Increased intramyocellular lipid droplets
+3129	Increased intraocular pressure
+3130	Increased jitter at single fibre EMG
+3131	Increased lacrimation
+3132	Increased lactate dehydrogenase activity
+3133	Increased laxity of fingers
+3134	Increased mean corpuscular volume
+3135	Increased megakaryocyte count
+3136	Increased mitochondrial number
+3137	Increased muscle fatiguability
+3138	Increased muscle glycogen content
+3139	Increased muscle lipid content
+3140	Increased nuchal translucency
+3141	Increased number of skin folds
+3142	Increased number of teeth
+3143	Increased pulmonary vascular resistance
+3144	Increased reactive oxygen species production
+3145	Increased resting energy expenditure
+3146	Increased sensitivity to ionizing radiation
+3147	Increased serum 1,25-dihydroxyvitamin D3
+3148	Increased serum Insulin-like growth factor 1
+3149	Increased serum androstenedione
+3150	Increased serum bile acid concentration
+3151	Increased serum estradiol
+3152	Increased serum ferritin
+3153	Increased serum iron
+3154	Increased serum lactate
+3155	Increased serum pyruvate
+3156	Increased serum serotonin
+3157	Increased serum testosterone level
+3158	Increased size of the clitoris
+3159	Increased skull ossification
+3160	Increased spinal bone density
+3161	Increased subcutaneous truncal adipose tissue
+3162	Increased susceptibility to fractures
+3163	Increased total bilirubin
+3164	Increased total iron binding capacity
+3165	Increased upper to lower segment ratio
+3166	Increased urinary O-linked sialopeptides
+3167	Increased urinary cortisol level
+3168	Increased urinary potassium
+3169	Increased urinary taurine
+3170	Increased urine alpha-ketoglutarate concentration
+3171	Increased variability in muscle fiber diameter
+3172	Increased vertebral height
+3173	Induced vaginal delivery
+3174	Inertia
+3175	Infantile axial hypotonia
+3176	Infantile hypercalcemia
+3177	Infantile muscular hypotonia
+3178	Infantile spasms
+3179	Inferior lens subluxation
+3180	Inferior vermis hypoplasia
+3181	Infertility
+3182	Inflammation of the large intestine
+3183	Inflammatory abnormality of the eye
+3184	Inflammatory abnormality of the skin
+3185	Inflammatory myopathy
+3186	Infra-orbital crease
+3187	Infra-orbital fold
+3188	Inguinal hernia
+3189	Insomnia
+3190	Inspiratory stridor
+3191	Insulin resistance
+3192	Insulin-resistant diabetes mellitus
+3193	Insulin-resistant diabetes mellitus at puberty
+3194	Insulinoma
+3195	Intellectual disability
+3196	Intellectual disability, borderline
+3197	Intellectual disability, mild
+3198	Intellectual disability, moderate
+3199	Intellectual disability, profound
+3200	Intellectual disability, progressive
+3201	Intellectual disability, severe
+3202	Intention tremor
+3203	Intercostal muscle weakness
+3204	Intermittent claudication
+3205	Intermittent diarrhea
+3206	Intermittent episodes of respiratory insufficiency due to muscle weakness
+3207	Intermittent generalized erythematous papular rash
+3208	Intermittent jaundice
+3209	Intermittent microsaccadic pursuits
+3210	Intermittent painful muscle spasms
+3211	Internal hemorrhage
+3212	Internal ophthalmoplegia
+3213	Internally nucleated skeletal muscle fibers
+3214	Interrupted aortic arch
+3215	Interstitial pneumonitis
+3216	Interstitial pulmonary abnormality
+3217	Intervertebral disc degeneration
+3218	Intervertebral disk calcification
+3219	Intervertebral space narrowing
+3220	Intestinal atresia
+3221	Intestinal bleeding
+3222	Intestinal carcinoid
+3223	Intestinal duplication
+3224	Intestinal edema
+3225	Intestinal fistula
+3226	Intestinal hypoplasia
+3227	Intestinal malrotation
+3228	Intestinal obstruction
+3229	Intestinal perforation
+3230	Intestinal polyp
+3231	Intestinal polyposis
+3232	Intestinal pseudo-obstruction
+3233	Intra-oral hyperpigmentation
+3234	Intracerebral periventricular calcifications
+3235	Intracranial cystic lesion
+3236	Intracranial hemorrhage
+3237	Intracranial meningioma
+3238	Intrahepatic biliary atresia
+3239	Intrahepatic cholestasis
+3240	Intrahepatic cholestasis with episodic jaundice
+3241	Intramuscular hematoma
+3242	Intrapulmonary hemorrhage
+3243	Intrauterine growth retardation
+3244	Intraventricular hemorrhage
+3245	Intrinsic hand muscle atrophy
+3246	Inverted nipples
+3247	Involuntary jerking movements
+3248	Involuntary movements
+3249	Iridocyclitis
+3250	Iridodonesis
+3251	Iridoretinal coloboma
+3252	Iris atrophy
+3253	Iris coloboma
+3254	Iris hypopigmentation
+3255	Iris melanoma
+3256	Iris neovascularization
+3257	Iris pigment dispersion
+3258	Iritis
+3259	Iron accumulation in brain
+3260	Iron accumulation in globus pallidus
+3261	Iron accumulation in substantia nigra
+3262	Iron deficiency anemia
+3263	Irregular acetabular roof
+3264	Irregular carpal bones
+3265	Irregular dentition
+3266	Irregular epiphyses
+3267	Irregular hyperpigmentation
+3268	Irregular hyperpigmentation of back
+3269	Irregular iliac crest
+3270	Irregular metacarpals
+3271	Irregular proximal tibial epiphyses
+3272	Irregular sclerotic endplates
+3273	Irregular vertebral endplates
+3274	Irregularity of vertebral bodies
+3275	Irregularly spaced teeth
+3276	Irritability
+3277	Ischemic stroke
+3278	Isometric tremor
+3279	Isosexual precocious puberty
+3280	J-shaped sella turcica
+3281	Jaundice
+3282	Jaw claudication
+3283	Jaw pain
+3284	Jejunal atresia
+3285	Jejunoileal ulceration
+3286	Jerky head movements
+3287	Jerky ocular pursuit movements
+3288	Joint contracture of the 3rd finger
+3289	Joint contracture of the 5th finger
+3290	Joint contracture of the hand
+3291	Joint dislocation
+3292	Joint hemorrhage
+3293	Joint hyperflexibility
+3294	Joint hypermobility
+3295	Joint laxity
+3296	Joint stiffness
+3297	Joint swelling
+3298	Junctional ectopic tachycardia
+3299	Juvenile cataract
+3300	Juvenile rheumatoid arthritis
+3301	Juxtaductal coarctation of the aorta
+3302	Kayser-Fleischer ring
+3303	Keloids
+3304	Keratitis
+3305	Keratoconjunctivitis
+3306	Keratoconjunctivitis sicca
+3307	Keratoconus
+3308	Keratocystic odontogenic tumor
+3309	Keratoglobus
+3310	Kernicterus
+3311	Ketoacidosis
+3312	Ketonuria
+3313	Ketosis
+3314	Ketotic hypoglycemia
+3315	Kinetic tremor
+3316	Knee dislocation
+3317	Knee flexion contracture
+3318	Knee pain
+3319	Kyphoscoliosis
+3320	Kyphosis
+3321	Labial hypertrophy
+3322	Labial hypoplasia
+3323	Lack of bowel sounds
+3324	Lack of facial subcutaneous fat
+3325	Lack of insight
+3326	Lack of skin elasticity
+3327	Lack of subcutaneous fatty tissue
+3328	Lacrimal duct aplasia
+3329	Lacrimal duct atresia
+3330	Lacrimal duct stenosis
+3331	Lacrimation abnormality
+3332	Lactic acidosis
+3333	Lafora bodies
+3334	Lagopthalmos
+3335	Lambdoidal craniosynostosis
+3336	Language impairment
+3337	Large artery calcification
+3338	Large beaked nose
+3339	Large carpal bones
+3340	Large central visual field defect
+3341	Large earlobe
+3342	Large eyes
+3343	Large face
+3344	Large fleshy ears
+3345	Large fontanelles
+3346	Large for gestational age
+3347	Large forehead
+3348	Large hands
+3349	Large iliac wings
+3350	Large intestinal polyposis
+3351	Large joint dislocations
+3352	Large knee
+3353	Large placenta
+3354	Large posterior fontanelle
+3355	Large tarsal bones
+3356	Large vessel vasculitis
+3357	Laryngeal carcinoma
+3358	Laryngeal cleft
+3359	Laryngeal dystonia
+3360	Laryngeal edema
+3361	Laryngeal hypoplasia
+3362	Laryngeal stenosis
+3363	Laryngeal stridor
+3364	Laryngeal web
+3365	Laryngomalacia
+3366	Laryngospasm
+3367	Laryngotracheal stenosis
+3368	Laryngotracheomalacia
+3369	Late-onset proximal muscle weakness
+3370	Lateral clavicle hook
+3371	Lateral humeral condyle aplasia
+3372	Leber optic atrophy
+3373	Left anterior fascicular block
+3374	Left aortic arch with right descending aorta and right ductus arteriosus
+3375	Left ventricular failure
+3376	Left ventricular hypertrophy
+3377	Left ventricular septal hypertrophy
+3378	Left ventricular systolic dysfunction
+3379	Left-to-right shunt
+3380	Leg muscle stiffness
+3381	Leiomyosarcoma
+3382	Lens coloboma
+3383	Lens luxation
+3384	Lens subluxation
+3385	Lentiglobus
+3386	Lethal short-limbed short stature
+3387	Lethal skeletal dysplasia
+3388	Lethargy
+3389	Leukemia
+3390	Leukocoria
+3391	Leukocytosis
+3392	Leukodystrophy
+3393	Leukoencephalopathy
+3394	Leukonychia
+3395	Leukopenia
+3396	Lewy bodies
+3397	Lichenification
+3398	Ligamentous laxity
+3399	Limb apraxia
+3400	Limb ataxia
+3401	Limb duplication
+3402	Limb dysmetria
+3403	Limb dystonia
+3404	Limb fasciculations
+3405	Limb hypertonia
+3406	Limb muscle weakness
+3407	Limb myoclonus
+3408	Limb pain
+3409	Limb undergrowth
+3410	Limb-girdle muscle atrophy
+3411	Limb-girdle muscle weakness
+3412	Limb-girdle muscular dystrophy
+3413	Limbal edema
+3414	Limitation of joint mobility
+3415	Limitation of movement at ankles
+3416	Limitation of neck motion
+3417	Limited elbow extension
+3418	Limited elbow flexion
+3419	Limited elbow movement
+3420	Limited extraocular movements
+3421	Limited hip movement
+3422	Limited knee extension
+3423	Limited knee flexion/extension
+3424	Limited neck flexion
+3425	Limited pronation/supination of forearm
+3426	Limited shoulder movement
+3427	Limited wrist extension
+3428	Limited wrist movement
+3429	Linear hyperpigmentation
+3430	Lingual dystonia
+3431	Lip hyperpigmentation
+3432	Lip pit
+3433	Lip telangiectasia
+3434	Lipemia retinalis
+3435	Lipoatrophy
+3436	Lipodystrophy
+3437	Lipoma
+3438	Lipoma of corpus callosum
+3439	Lipomas of upper eyelids
+3440	Liposarcoma
+3441	Lisch nodules
+3442	Lissencephaly
+3443	Liver abscess
+3444	Lobar holoprosencephaly
+3445	Lobulated tongue
+3446	Localized epidermolytic hyperkeratosis
+3447	Localized neuroblastoma
+3448	Localized skin lesion
+3449	Long clavicles
+3450	Long ear
+3451	Long eyelashes
+3452	Long eyelashes in irregular rows
+3453	Long face
+3454	Long fibula
+3455	Long fingers
+3456	Long foot
+3457	Long hallux
+3458	Long metacarpals
+3459	Long neck
+3460	Long nose
+3461	Long palm
+3462	Long palpebral fissure
+3463	Long penis
+3464	Long philtrum
+3465	Long thorax
+3466	Long toe
+3467	Long ulna
+3468	Long upper lip
+3469	Lop ear
+3470	Loss of Purkinje cells in the cerebellar vermis
+3471	Loss of ability to walk
+3472	Loss of ability to walk in early childhood
+3473	Loss of consciousness
+3474	Loss of eyelashes
+3475	Loss of facial adipose tissue
+3476	Loss of facial expression
+3477	Loss of gluteal subcutaneous adipose tissue
+3478	Loss of retinal pigment epithelium
+3479	Loss of speech
+3480	Loss of subcutaneous adipose tissue in limbs
+3481	Low 1-minute APGAR score
+3482	Low alkaline phosphatase
+3483	Low anterior hairline
+3484	Low back pain
+3485	Low frustration tolerance
+3486	Low gonadotropins (secondary hypogonadism)
+3487	Low hanging columella
+3488	Low maternal serum chorionic gonadotropin
+3489	Low maternal serum estriol
+3490	Low posterior hairline
+3491	Low serum calcitriol
+3492	Low urinary cyclic AMP response to PTH administration
+3493	Low-grade fever
+3494	Low-molecular-weight proteinuria
+3495	Low-output congestive heart failure
+3496	Low-set ears
+3497	Low-set nipples
+3498	Low-set, posteriorly rotated ears
+3499	Lower eyelid coloboma
+3500	Lower limb amyotrophy
+3501	Lower limb asymmetry
+3502	Lower limb hyperreflexia
+3503	Lower limb hypertonia
+3504	Lower limb muscle weakness
+3505	Lower limb pain
+3506	Lower limb spasticity
+3507	Lower limb undergrowth
+3508	Lower lip pit
+3509	Lumbar hyperlordosis
+3510	Lumbar kyphoscoliosis
+3511	Lung adenocarcinoma
+3512	Lung segmentation defects
+3513	Lupus anticoagulant
+3514	Lymphadenitis
+3515	Lymphadenopathy
+3516	Lymphangioma
+3517	Lymphedema
+3518	Lymphocytosis
+3519	Lymphoid leukemia
+3520	Lymphoma
+3521	Lymphopenia
+3522	Lymphoproliferative disorder
+3523	Macrocephaly
+3524	Macrocephaly at birth
+3525	Macrocytic anemia
+3526	Macrodactyly
+3527	Macrodontia
+3528	Macroglossia
+3529	Macrogyria
+3530	Macronodular adrenal hyperplasia
+3531	Macroorchidism
+3532	Macroorchidism, postpubertal
+3533	Macroscopic hematuria
+3534	Macrothrombocytopenia
+3535	Macrotia
+3536	Macrovesicular hepatic steatosis
+3537	Macular coloboma
+3538	Macular degeneration
+3539	Macular dystrophy
+3540	Macular edema
+3541	Macular hole
+3542	Macular hyperpigmentation
+3543	Macular hyperpigmented dermopathy
+3544	Macular hypopigmentation
+3545	Macular hypoplasia
+3546	Macular scarring
+3547	Macular telangiectasia
+3548	Macule
+3549	Maculopapular exanthema
+3550	Madelung deformity
+3551	Malabsorption
+3552	Malar anomaly
+3553	Malar flattening
+3554	Malar prominence
+3555	Malar rash
+3556	Male hypogonadism
+3557	Male infertility
+3558	Male pseudohermaphroditism
+3559	Male sexual dysfunction
+3560	Malformation of the heart and great vessels
+3561	Malformed lacrimal ducts
+3562	Malignant genitourinary tract tumor
+3563	Malignant hyperthermia
+3564	Malignant neoplasm of the central nervous system
+3565	Malnutrition
+3566	Malrotation of small bowel
+3567	Mandibular aplasia
+3568	Mandibular condyle hypoplasia
+3569	Mandibular osteomyelitis
+3570	Mandibular pain
+3571	Mandibular prognathia
+3572	Mania
+3573	Marked delay in bone age
+3574	Marked muscular hypertrophy
+3575	Mask-like facies
+3576	Massively thickened long bone cortices
+3577	Mastocytosis
+3578	Maternal diabetes
+3579	Maternal hypertension
+3580	Maternal teratogenic exposure
+3581	Maternal virilization in pregnancy
+3582	Maturity-onset diabetes of the young
+3583	Maxillary lateral incisor microdontia
+3584	Maxillozygomatic hypoplasia
+3585	Mechanical ileus
+3586	Meckel diverticulum
+3587	Medial calcification of large arteries
+3588	Medial flaring of the eyebrow
+3589	Median cleft lip
+3590	Median cleft lip and palate
+3591	Median cleft palate
+3592	Mediastinal lymphadenopathy
+3593	Medullary thyroid carcinoma
+3594	Medulloblastoma
+3595	Medulloepithelioma
+3596	Megacystis
+3597	Megalencephaly
+3598	Megaloblastic anemia
+3599	Megaloblastic bone marrow
+3600	Megalocornea
+3601	Melanocytic nevus
+3602	Melanoma
+3603	Melanonychia
+3604	Melena
+3605	Membranoproliferative glomerulonephritis
+3606	Membranous subvalvular aortic stenosis
+3607	Memory impairment
+3608	Meningioma
+3609	Meningitis
+3610	Meningocele
+3611	Menometrorrhagia
+3612	Menorrhagia
+3613	Menstrual irregularities
+3614	Mental deterioration
+3615	Merkel cell skin cancer
+3616	Mesangial abnormality
+3617	Mesenteric cyst
+3618	Mesiodens
+3619	Mesoaxial foot polydactyly
+3620	Mesoaxial hand polydactyly
+3621	Mesoaxial polydactyly
+3622	Mesomelia
+3623	Mesomelic arm shortening
+3624	Mesomelic leg shortening
+3625	Mesomelic short stature
+3626	Mesomelic/rhizomelic limb shortening
+3627	Metabolic acidosis
+3628	Metabolic alkalosis
+3629	Metabolic ketoacidosis
+3630	Metacarpal osteolysis
+3631	Metacarpal synostosis
+3632	Metacarpophalangeal joint contracture
+3633	Metacarpophalangeal synostosis
+3634	Metamorphopsia
+3635	Metaphyseal chondrodysplasia
+3636	Metaphyseal cupping
+3637	Metaphyseal cupping of metacarpals
+3638	Metaphyseal dysplasia
+3639	Metaphyseal enchondromatosis
+3640	Metaphyseal irregularity
+3641	Metaphyseal sclerosis
+3642	Metaphyseal widening
+3643	Metatarsal synostosis
+3644	Metatarsus adductus
+3645	Metatarsus valgus
+3646	Methylmalonic acidemia
+3647	Methylmalonic aciduria
+3648	Metopic depression
+3649	Metopic suture patent to nasal root
+3650	Metopic synostosis
+3651	Metrorrhagia
+3652	Microalbuminuria
+3653	Microangiopathic hemolytic anemia
+3654	Microcephaly
+3655	Microcolon
+3656	Microcornea
+3657	Microcytic anemia
+3658	Microdontia
+3659	Microgastria
+3660	Microglossia
+3661	Micrognathia
+3662	Micromelia
+3663	Micronodular cirrhosis
+3664	Micropenis
+3665	Microphakia
+3666	Microphthalmia
+3667	Microretrognathia
+3668	Microscopic hematuria
+3669	Microtia
+3670	Microtia, second degree
+3671	Microtia, third degree
+3672	Microvesicular hepatic steatosis
+3673	Midface capillary hemangioma
+3674	Midface prominence
+3675	Midface retrusion
+3676	Midgut malrotation
+3677	Midline brain calcifications
+3678	Midline central nervous system lipomas
+3679	Midline defect of the nose
+3680	Midline facial capillary hemangioma
+3681	Midline facial cleft
+3682	Midline nasal groove
+3683	Midline notch of upper alveolar ridge
+3684	Midnasal stenosis
+3685	Midshaft hypospadias
+3686	Migraine
+3687	Mild expressive language delay
+3688	Mild global developmental delay
+3689	Mild microcephaly
+3690	Mild neurosensory hearing impairment
+3691	Mild postnatal growth retardation
+3692	Mild short stature
+3693	Mildly elevated creatine phosphokinase
+3694	Mildly reduced visual acuity
+3695	Milia
+3696	Minicore myopathy
+3697	Minimal subcutaneous fat
+3698	Miosis
+3699	Mirror image polydactyly
+3700	Misalignment of teeth
+3701	Missing ribs
+3702	Mitochondrial myopathy
+3703	Mitochondrial respiratory chain defects
+3704	Mitral atresia
+3705	Mitral regurgitation
+3706	Mitral stenosis
+3707	Mitral valve calcification
+3708	Mitral valve prolapse
+3709	Mitten deformity
+3710	Mixed demyelinating and axonal polyneuropathy
+3711	Mixed hearing impairment
+3712	Moderate global developmental delay
+3713	Moderate intrauterine growth retardation
+3714	Moderate postnatal growth retardation
+3715	Moderate receptive language delay
+3716	Moderately short stature
+3717	Molar tooth sign on MRI
+3718	Monochromacy
+3719	Monocytopenia
+3720	Monodactyly (hands)
+3721	Mononeuropathy
+3722	Monorchism
+3723	Monotonic speech
+3724	Mood changes
+3725	Morning myoclonic jerks
+3726	Morphea
+3727	Morphological abnormality of the central nervous system
+3728	Morphological abnormality of the gastrointestinal tract
+3729	Morphological abnormality of the middle ear
+3730	Morphological abnormality of the pyramidal tract
+3731	Morphological abnormality of the semicircular canal
+3732	Motor aphasia
+3733	Motor axonal neuropathy
+3734	Motor conduction block
+3735	Motor delay
+3736	Motor deterioration
+3737	Motor neuron atrophy
+3738	Motor polyneuropathy
+3739	Mottled pigmentation
+3740	Mouth neoplasm
+3741	Movement abnormality of the tongue
+3742	Moyamoya phenomenon
+3743	Mucopolysacchariduria
+3744	Mucosal telangiectasiae
+3745	Multicystic kidney dysplasia
+3746	Multifocal cerebral white matter abnormalities
+3747	Multifocal epileptiform discharges
+3748	Multinodular goiter
+3749	Multiple bladder diverticula
+3750	Multiple cafe-au-lait spots
+3751	Multiple cutaneous leiomyomas
+3752	Multiple enchondromatosis
+3753	Multiple epiphyseal dysplasia
+3754	Multiple exostoses
+3755	Multiple gastric polyps
+3756	Multiple intestinal neurofibromatosis
+3757	Multiple joint contractures
+3758	Multiple lentigines
+3759	Multiple lipomas
+3760	Multiple long-bone exostoses
+3761	Multiple myeloma
+3762	Multiple palmar creases
+3763	Multiple plantar creases
+3764	Multiple prenatal fractures
+3765	Multiple pterygia
+3766	Multiple renal cysts
+3767	Multiple rib fractures
+3768	Multiple rows of eyelashes
+3769	Multiple skeletal anomalies
+3770	Multiple suture craniosynostosis
+3771	Multiple trichilemmomata
+3772	Multiple unerupted teeth
+3773	Muscle cramps
+3774	Muscle fiber atrophy
+3775	Muscle fiber hypertrophy
+3776	Muscle fiber inclusion bodies
+3777	Muscle fiber necrosis
+3778	Muscle fiber splitting
+3779	Muscle fiber tubular inclusions
+3780	Muscle fibrillation
+3781	Muscle flaccidity
+3782	Muscle hypertrophy of the lower extremities
+3783	Muscle mounding
+3784	Muscle specific kinase antibody positivity
+3785	Muscle stiffness
+3786	Muscle weakness
+3787	Muscular dystrophy
+3788	Muscular edema
+3789	Muscular hypotonia
+3790	Muscular hypotonia of the trunk
+3791	Mutism
+3792	Myalgia
+3793	Mydriasis
+3794	Myelitis
+3795	Myelodysplasia
+3796	Myelofibrosis
+3797	Myeloid leukemia
+3798	Myelomeningocele
+3799	Myelopathy
+3800	Myeloproliferative disorder
+3801	Myocardial fibrosis
+3802	Myocardial infarction
+3803	Myocardial steatosis
+3804	Myocarditis
+3805	Myoclonic atonic seizures
+3806	Myoclonic spasms
+3807	Myoclonus
+3808	Myofibrillar myopathy
+3809	Myoglobinuria
+3810	Myokymia
+3811	Myopathic facies
+3812	Myopathy
+3813	Myopia
+3814	Myositis
+3815	Myotonia
+3816	Myotonia of the face
+3817	Myotonia of the jaw
+3818	Myotonia of the upper limb
+3819	Naevus flammeus of the eyelid
+3820	Nail dysplasia
+3821	Nail dystrophy
+3822	Nail pits
+3823	Narcolepsy
+3824	Narrow chest
+3825	Narrow face
+3826	Narrow foot
+3827	Narrow foramen obturatorium
+3828	Narrow forehead
+3829	Narrow iliac wings
+3830	Narrow internal auditory canal
+3831	Narrow jaw
+3832	Narrow maxilla
+3833	Narrow mouth
+3834	Narrow naris
+3835	Narrow nasal base
+3836	Narrow nasal bridge
+3837	Narrow nasal ridge
+3838	Narrow nasal tip
+3839	Narrow nose
+3840	Narrow palate
+3841	Narrow palm
+3842	Narrow palpebral fissure
+3843	Narrow pelvis bone
+3844	Narrow philtrum
+3845	Narrow sacroiliac notch
+3846	Narrow vertebral interpedicular distance
+3847	Nasal obstruction
+3848	Nasal polyposis
+3849	Nasal regurgitation
+3850	Nasal speech
+3851	Nasal, dysarthic speech
+3852	Nasolacrimal duct obstruction
+3853	Natal tooth
+3854	Nausea
+3855	Nausea and vomiting
+3856	Nearly complete absence of metabolically active adipose tissue (subcutaneous, intraabdominal, intrathoracic)
+3857	Neck flexor weakness
+3858	Neck muscle weakness
+3859	Neck pain
+3860	Neck pterygia
+3861	Necrolytic migratory erythema
+3862	Necrotizing myopathy
+3863	Nemaline bodies
+3864	Neonatal asphyxia
+3865	Neonatal cholestatic liver disease
+3866	Neonatal death
+3867	Neonatal hyperbilirubinemia
+3868	Neonatal hypoglycemia
+3869	Neonatal hypotonia
+3870	Neonatal inspiratory stridor
+3871	Neonatal insulin-dependent diabetes mellitus
+3872	Neonatal respiratory distress
+3873	Neonatal sepsis
+3874	Neonatal short-limb short stature
+3875	Neonatal short-trunk short stature
+3876	Neoplasia of the pleura
+3877	Neoplasm
+3878	Neoplasm by anatomical site
+3879	Neoplasm of head and neck
+3880	Neoplasm of the adrenal cortex
+3881	Neoplasm of the adrenal gland
+3882	Neoplasm of the adrenal medulla
+3883	Neoplasm of the anterior pituitary
+3884	Neoplasm of the breast
+3885	Neoplasm of the central nervous system
+3886	Neoplasm of the colon
+3887	Neoplasm of the endocrine system
+3888	Neoplasm of the eye
+3889	Neoplasm of the gallbladder
+3890	Neoplasm of the gastrointestinal tract
+3891	Neoplasm of the genitourinary tract
+3892	Neoplasm of the heart
+3893	Neoplasm of the larynx
+3894	Neoplasm of the liver
+3895	Neoplasm of the lung
+3896	Neoplasm of the middle ear
+3897	Neoplasm of the nervous system
+3898	Neoplasm of the nose
+3899	Neoplasm of the oral cavity
+3900	Neoplasm of the outer ear
+3901	Neoplasm of the pancreas
+3902	Neoplasm of the parathyroid gland
+3903	Neoplasm of the posterior pituitary
+3904	Neoplasm of the rectum
+3905	Neoplasm of the respiratory system
+3906	Neoplasm of the skeletal system
+3907	Neoplasm of the skin
+3908	Neoplasm of the small intestine
+3909	Neoplasm of the stomach
+3910	Neoplasm of the thymus
+3911	Neoplasm of the thyroid gland
+3912	Neoplasm of the tongue
+3913	Neoplasm of the trachea
+3914	Neoplasm of the urethra
+3915	Nephritis
+3916	Nephroblastoma
+3917	Nephrocalcinosis
+3918	Nephrogenic diabetes insipidus
+3919	Nephrolithiasis
+3920	Nephronophthisis
+3921	Nephropathy
+3922	Nephrotic range proteinuria
+3923	Nephrotic syndrome
+3924	Neuroblastoma
+3925	Neurodegeneration
+3926	Neurodevelopmental abnormality
+3927	Neurodevelopmental delay
+3928	Neuroendocrine neoplasm
+3929	Neurofibrillary tangles
+3930	Neurofibromas
+3931	Neurofibrosarcoma
+3932	Neurogenic bladder
+3933	Neurological speech impairment
+3934	Neuroma
+3935	Neuromuscular dysphagia
+3936	Neuronal loss in basal ganglia
+3937	Neuronal loss in central nervous system
+3938	Neuronal loss in the cerebral cortex
+3939	Neutral hyperaminoaciduria
+3940	Neutropenia
+3941	Neutrophillia
+3942	Nevus
+3943	Nevus flammeus
+3944	Nevus flammeus of the forehead
+3945	Nevus sebaceous
+3946	Night sweats
+3947	No permanent dentition
+3948	No social interaction
+3949	Nocturia
+3950	Nocturnal hypoventilation
+3951	Nodular goiter
+3952	Nodular regenerative hyperplasia of liver
+3953	Non-Hodgkin lymphoma
+3954	Non-acidotic proximal tubulopathy
+3955	Non-caseating epithelioid cell granulomatosis
+3956	Non-midline cleft lip
+3957	Non-midline cleft palate
+3958	Non-obstructive azoospermia
+3959	Nonimmune hydrops fetalis
+3960	Noninflammatory macular atrophy
+3961	Nonketotic hyperglycinemia
+3962	Nonketotic hypoglycemia
+3963	Nonopposable triphalangeal thumb
+3964	Nonproductive cough
+3965	Nonprogressive cerebellar ataxia
+3966	Nonprogressive muscular atrophy
+3967	Normal interictal EEG
+3968	Normochromic anemia
+3969	Normocytic anemia
+3970	Nuclear cataract
+3971	Numerous congenital melanocytic nevi
+3972	Numerous nevi
+3973	Numerous pigmented freckles
+3974	Nyctalopia
+3975	Nystagmus
+3976	Nystagmus-induced head nodding
+3977	Obesity
+3978	Obsessive-compulsive behavior
+3979	Obsessive-compulsive trait
+3980	Obstruction of the superior vena cava
+3981	Obstructive azoospermia
+3982	Obstructive deficit on pulmonary function testing
+3983	Obstructive lung disease
+3984	Obstructive sleep apnea
+3985	Obtundation status
+3986	Obtuse angle of mandible
+3987	Occasional neurofibromas
+3988	Occipital encephalocele
+3989	Occipital myelomeningocele
+3990	Occlusive arterial disease
+3991	Occlusive vascular disease
+3992	Ocular albinism
+3993	Ocular pain
+3994	Oculogyric crisis
+3995	Oculomotor apraxia
+3996	Oculomotor nerve palsy
+3997	Odontogenic neoplasm
+3998	Odontoma
+3999	Old-aged sensorineural hearing impairment
+4000	Olfactory auras
+4001	Olfactory lobe agenesis
+4002	Oligodactyly
+4003	Oligodactyly (hands)
+4004	Oligodontia
+4005	Oligodontia of primary teeth
+4006	Oligohydramnios
+4007	Oligomenorrhea
+4008	Oligosacchariduria
+4009	Oligospermia
+4010	Oliguria
+4011	Olivopontocerebellar atrophy
+4012	Olivopontocerebellar hypoplasia
+4013	Omphalocele
+4014	Onion bulb formation
+4015	Onychauxis
+4016	Onychogryposis of fingernail
+4017	Onychogryposis of toenails
+4018	Onycholysis
+4019	Onychomycosis
+4020	Opacification of the corneal stroma
+4021	Open bite
+4022	Open mouth
+4023	Open operculum
+4024	Ophthalmoparesis
+4025	Ophthalmoplegia
+4026	Opisthotonus
+4027	Oppositional defiant disorder
+4028	Opsoclonus
+4029	Optic atrophy
+4030	Optic disc hypoplasia
+4031	Optic disc pallor
+4032	Optic nerve aplasia
+4033	Optic nerve coloboma
+4034	Optic nerve compression
+4035	Optic nerve dysplasia
+4036	Optic nerve hypoplasia
+4037	Optic neuritis
+4038	Optic neuropathy
+4039	Oral cavity bleeding
+4040	Oral cleft
+4041	Oral leukoplakia
+4042	Oral motor hypotonia
+4043	Oral mucosal blisters
+4044	Oral synechia
+4045	Oral ulcer
+4046	Oral-pharyngeal dysphagia
+4047	Orange discoloured tonsils
+4048	Orbital craniosynostosis
+4049	Orchitis
+4050	Organic aciduria
+4051	Orofacial dyskinesia
+4052	Oromandibular dystonia
+4053	Oromotor apraxia
+4054	Oropharyngeal squamous cell carcinoma
+4055	Orotic acid crystalluria
+4056	Oroticaciduria
+4057	Orthopnea
+4058	Orthostatic hypotension
+4059	Orthostatic hypotension due to autonomic dysfunction
+4060	Orthostatic syncope
+4061	Osteoarthritis
+4062	Osteoarthritis of the small joints of the hand
+4063	Osteochondroma
+4064	Osteochondrosis
+4065	Osteochondrosis dissecans
+4066	Osteolysis
+4067	Osteolysis of patellae
+4068	Osteolysis of scaphoids
+4069	Osteolysis of talus
+4070	Osteolytic defects of the distal phalanges of the hand
+4071	Osteolytic defects of the middle phalanx of the 4th toe
+4072	Osteolytic defects of the phalanges of the hand
+4073	Osteoma cutis
+4074	Osteomalacia
+4075	Osteomyelitis
+4076	Osteopathia striata
+4077	Osteopenia
+4078	Osteopetrosis
+4079	Osteopoikilosis
+4080	Osteoporosis
+4081	Osteoporosis of vertebrae
+4082	Osteosarcoma
+4083	Otitis media
+4084	Otitis media with effusion
+4085	Otosclerosis
+4086	Oval face
+4087	Ovarian carcinoma
+4088	Ovarian cyst
+4089	Ovarian fibroma
+4090	Ovarian gonadoblastoma
+4091	Ovarian neoplasm
+4092	Ovarian serous cystadenoma
+4093	Overbite
+4094	Overfolded helix
+4095	Overfolding of the superior helices
+4096	Overfriendliness
+4097	Overgrowth
+4098	Overhanging nasal tip
+4099	Overlapping fingers
+4100	Overlapping toe
+4101	Overriding aorta
+4102	Overtubulated long bones
+4103	Overweight
+4104	Ovoid thoracolumbar vertebrae
+4105	Ovoid vertebral bodies
+4106	Ovotestis
+4107	Oxycephaly
+4108	Pachygyria
+4109	Pain
+4110	Pain insensitivity
+4111	Painless fractures due to injury
+4112	Pallor
+4113	Palmar edema
+4114	Palmar hyperkeratosis
+4115	Palmar neurofibromas
+4116	Palmar pits
+4117	Palmar telangiectasia
+4118	Palmomental reflex
+4119	Palmoplantar cutis gyrata
+4120	Palmoplantar cutis laxa
+4121	Palmoplantar hyperhidrosis
+4122	Palmoplantar hyperkeratosis
+4123	Palmoplantar keratoderma
+4124	Palmoplantar keratosis with erythema and scale
+4125	Palmoplantar pustulosis
+4126	Palpebral edema
+4127	Palpitations
+4128	Pancreatic adenocarcinoma
+4129	Pancreatic aplasia
+4130	Pancreatic calcification
+4131	Pancreatic cysts
+4132	Pancreatic fibrosis
+4133	Pancreatic hypoplasia
+4134	Pancreatic islet cell adenoma
+4135	Pancreatic islet-cell hyperplasia
+4136	Pancreatic lymphangiectasis
+4137	Pancreatitis
+4138	Pancytopenia
+4139	Panhypogammaglobulinemia
+4140	Panhypopituitarism
+4141	Panic attack
+4142	Panniculitis
+4143	Papillary cystadenoma of the epididymis
+4144	Papillary renal cell carcinoma
+4145	Papillary renal cell carcinoma type 2
+4146	Papillary thyroid carcinoma
+4147	Papilledema
+4148	Papilloma
+4149	Papule
+4150	Paradoxical increased cortisol secretion on dexamethasone suppression test
+4151	Paradoxical myotonia
+4152	Paraganglioma
+4153	Paraganglioma of head and neck
+4154	Parakeratosis
+4155	Paralysis
+4156	Paranoia
+4157	Paraparesis
+4158	Paraplegia
+4159	Paraspinal muscle hypertrophy
+4160	Paraspinal neurofibromas
+4161	Parathormone-independent increased renal tubular calcium reabsorption
+4162	Parathyroid adenoma
+4163	Parathyroid agenesis
+4164	Parathyroid carcinoma
+4165	Parathyroid hyperplasia
+4166	Parathyroid hypoplasia
+4167	Paresis of extensor muscles of the big toe
+4168	Paresthesia
+4169	Parietal bossing
+4170	Parietal cortical atrophy
+4171	Parietal foramina
+4172	Parietal hypometabolism in FDG PET
+4173	Parkinsonism
+4174	Parkinsonism with favorable response to dopaminergic medication
+4175	Paronychia
+4176	Parotitis
+4177	Paroxysmal atrial fibrillation
+4178	Paroxysmal atrial tachycardia
+4179	Paroxysmal bursts of laughter
+4180	Paroxysmal choreoathetosis
+4181	Paroxysmal dyskinesia
+4182	Paroxysmal dyspnea
+4183	Paroxysmal dystonia
+4184	Paroxysmal involuntary eye movements
+4185	Paroxysmal vertigo
+4186	Partial absence of foot
+4187	Partial absence of toe
+4188	Partial agenesis of the corpus callosum
+4189	Partial albinism
+4190	Partial aniridia
+4191	Partial anosmia
+4192	Partial diaphragmatic absence of pericardium
+4193	Partial duplication of the distal phalanx of the hallux
+4194	Partial duplication of thumb phalanx
+4195	Partial vaginal septum
+4196	Patchy alopecia
+4197	Patchy distortion of vertebrae
+4198	Patchy hypo- and hyperpigmentation
+4199	Patchy hypopigmentation of hair
+4200	Patchy osteosclerosis
+4201	Patchy palmoplantar keratoderma
+4202	Patellar aplasia
+4203	Patellar dislocation
+4204	Patellar hypoplasia
+4205	Patent ductus arteriosus
+4206	Patent foramen ovale
+4207	Pathologic fracture
+4208	Pear-shaped nose
+4209	Pear-shaped vertebrae
+4210	Pectoralis amyotrophy
+4211	Pectus carinatum
+4212	Pectus excavatum
+4213	Pelvic bone exostoses
+4214	Pelvic girdle amyotrophy
+4215	Pelvic girdle muscle atrophy
+4216	Pelvic girdle muscle weakness
+4217	Pelvic kidney
+4218	Pendular nystagmus
+4219	Penoscrotal hypospadias
+4220	Penoscrotal transposition
+4221	Peptic ulcer
+4222	Percussion myotonia
+4223	Perianal abscess
+4224	Periarticular subcutaneous nodules
+4225	Periauricular skin pits
+4226	Pericardial effusion
+4227	Pericarditis
+4228	Perifollicular hyperkeratosis
+4229	Perimembranous ventricular septal defect
+4230	Perineal fistula
+4231	Perineal hypospadias
+4232	Periodic hyperkalemic paralysis
+4233	Periodic hypokalemic paresis
+4234	Periodic paralysis
+4235	Periodontitis
+4236	Perioral eczema
+4237	Perioral hyperpigmentation
+4238	Periorbital edema
+4239	Periorbital fullness
+4240	Periorbital wrinkles
+4241	Periosteal thickening of long tubular bones
+4242	Periostitis
+4243	Periostosis
+4244	Peripheral Schwannoma
+4245	Peripheral arterial disease
+4246	Peripheral arterial stenosis
+4247	Peripheral arteriovenous fistula
+4248	Peripheral axonal neuropathy
+4249	Peripheral demyelination
+4250	Peripheral dysmyelination
+4251	Peripheral edema
+4252	Peripheral nerve compression
+4253	Peripheral neuropathy
+4254	Peripheral pulmonary artery stenosis
+4255	Peripheral vascular insufficiency
+4256	Peripheral visual field loss
+4257	Peripheral vitreous opacities
+4258	Peritoneal abscess
+4259	Peritonitis
+4260	Perivascular spaces
+4261	Periventricular gray matter heterotopia
+4262	Periventricular leukomalacia
+4263	Periventricular white matter hyperdensities
+4264	Peroneal muscle atrophy
+4265	Perseveration
+4266	Persistence of hemoglobin F
+4267	Persistence of primary teeth
+4268	Persistent bleeding after trauma
+4269	Persistent cloaca
+4270	Persistent hyperplastic primary vitreous
+4271	Persistent left superior vena cava
+4272	Persistent open anterior fontanelle
+4273	Persistent pupillary membrane
+4274	Personality changes
+4275	Personality disorder
+4276	Pes cavus
+4277	Pes planus
+4278	Pes valgus
+4279	Petechiae
+4280	Peters anomaly
+4281	Phalangeal dislocation
+4282	Pharyngeal edema
+4283	Pharyngitis
+4284	Phenotypic abnormality
+4285	Pheochromocytoma
+4286	Phimosis
+4287	Phocomelia
+4288	Phonophobia
+4289	Photomyoclonic seizures
+4290	Photophobia
+4291	Photopsia
+4292	Photoreceptor layer loss on macular OCT
+4293	Photosensitive tonic-clonic seizures
+4294	Phthisis bulbi
+4295	Piebaldism
+4296	Pierre-Robin sequence
+4297	Pigment deposition in the trabecular meshwork
+4298	Pigment gallstones
+4299	Pigmentary retinal degeneration
+4300	Pigmentary retinal deposits
+4301	Pigmentary retinopathy
+4302	Pigmentation of the sclera
+4303	Pigmented micronodular adrenocortical disease
+4304	Pili canaliculi
+4305	Pili torti
+4306	Pilomatrixoma
+4307	Pinealoma
+4308	Pituicytoma
+4309	Pituitary adenoma
+4310	Pituitary carcinoma
+4311	Pituitary corticotropic cell adenoma
+4312	Pituitary dwarfism
+4313	Pituitary gonadotropic cell adenoma
+4314	Pituitary growth hormone cell adenoma
+4315	Pituitary hypothyroidism
+4316	Pituitary null cell adenoma
+4317	Pituitary prolactin cell adenoma
+4318	Pituitary resistance to thyroid hormone
+4319	Pituitary thyrotropic cell adenoma
+4320	Plagiocephaly
+4321	Plantar edema
+4322	Plantar flexion contractures
+4323	Plantar pits
+4324	Plantar telangiectasia
+4325	Plasmacytoma
+4326	Platybasia
+4327	Platyspondyly
+4328	Pleural effusion
+4329	Pleuritis
+4330	Pleuropulmonary blastoma
+4331	Plexiform neurofibroma
+4332	Pneumonia
+4333	Pneumothorax
+4334	Poikilocytosis
+4335	Poikiloderma
+4336	Pointed chin
+4337	Pointed helix
+4338	Poliosis
+4339	Pollakisuria
+4340	Polyarticular arthritis
+4341	Polyarticular chondrocalcinosis
+4342	Polyclonal elevation of IgM
+4343	Polycystic kidney dysplasia
+4344	Polycystic liver disease
+4345	Polycystic ovaries
+4346	Polycythemia
+4347	Polydactyly
+4348	Polydactyly affecting the 3rd finger
+4349	Polydactyly affecting the 4th finger
+4350	Polydipsia
+4351	Polyhydramnios
+4352	Polymicrogyria
+4353	Polyneuropathy
+4354	Polyphagia
+4355	Polysplenia
+4356	Pontocerebellar atrophy
+4357	Poor appetite
+4358	Poor coordination
+4359	Poor eye contact
+4360	Poor fine motor coordination
+4361	Poor gross motor coordination
+4362	Poor hand-eye coordination
+4363	Poor head control
+4364	Poor motor coordination
+4365	Poor speech
+4366	Poor suck
+4367	Poor visual behavior for age
+4368	Poor wound healing
+4369	Poorly ossified cervical vertebrae
+4370	Poorly ossified vertebrae
+4371	Popliteal pterygium
+4372	Porencephaly
+4373	Porokeratosis
+4374	Portal hypertension
+4375	Portal vein thrombosis
+4376	Positional foot deformity
+4377	Positive Romberg sign
+4378	Positive regitine blocking test
+4379	Post-partum hemorrhage
+4380	Postauricular pit
+4381	Postaxial foot polydactyly
+4382	Postaxial hand polydactyly
+4383	Postaxial oligodactyly
+4384	Postaxial polydactyly
+4385	Postaxial polydactyly type A
+4386	Posterior Y-sutural cataract
+4387	Posterior cortical cataract
+4388	Posterior embryotoxon
+4389	Posterior fusion of lumbosacral vertebrae
+4390	Posterior helix pit
+4391	Posterior lenticonus
+4392	Posterior pharyngeal cleft
+4393	Posterior pituitary hypoplasia
+4394	Posterior plagiocephaly
+4395	Posterior rib fusion
+4396	Posterior rib gap
+4397	Posterior scalloping of vertebral bodies
+4398	Posterior staphyloma
+4399	Posterior subcapsular cataract
+4400	Posterior uveitis
+4401	Posterior vertebral hypoplasia
+4402	Posterior wedging of vertebral bodies
+4403	Posteriorly rotated ears
+4404	Postnatal growth retardation
+4405	Postnatal macrocephaly
+4406	Postnatal microcephaly
+4407	Postprandial hyperglycemia
+4408	Postural hypotension with compensatory tachycardia
+4409	Postural instability
+4410	Postural tremor
+4411	Potter facies
+4412	Preauricular pit
+4413	Preauricular skin furrow
+4414	Preauricular skin tag
+4415	Preaxial foot polydactyly
+4416	Preaxial hand polydactyly
+4417	Preaxial polydactyly
+4418	Precocious atherosclerosis
+4419	Precocious menopause
+4420	Precocious puberty
+4421	Predominantly lower limb lymphedema
+4422	Preeclampsia
+4423	Prelingual sensorineural hearing impairment
+4424	Premature adrenarche
+4425	Premature arteriosclerosis
+4426	Premature birth
+4427	Premature closure of fontanelles
+4428	Premature coronary artery disease
+4429	Premature delivery because of cervical insufficiency or membrane fragility
+4430	Premature epimetaphyseal fusion
+4431	Premature eruption of permanent teeth
+4432	Premature graying of hair
+4433	Premature loss of primary teeth
+4434	Premature loss of teeth
+4435	Premature ovarian insufficiency
+4436	Premature peripheral vascular disease
+4437	Premature posterior fontanelle closure
+4438	Premature pubarche
+4439	Premature rupture of membranes
+4440	Premature skin wrinkling
+4441	Premature thelarche
+4442	Prematurely aged appearance
+4443	Premaxillary Prominence
+4444	Prenatal maternal abnormality
+4445	Prenatal movement abnormality
+4446	Pretibial blistering
+4447	Primary T-lymphocyte immune abnormalities
+4448	Primary adrenal insufficiency
+4449	Primary amenorrhea
+4450	Primary gonadal insufficiency
+4451	Primary hypercorticolism
+4452	Primary hyperparathyroidism
+4453	Primary hypothyroidism
+4454	Primary open angle glaucoma
+4455	Primary ovarian failure
+4456	Primary peritoneal carcinoma
+4457	Primary testicular failure
+4458	Primitive reflex
+4459	Profound global developmental delay
+4460	Profuse pigmented skin lesions
+4461	Progeroid facial appearance
+4462	Progressive alveolar ridge hypertropy
+4463	Progressive cerebellar ataxia
+4464	Progressive clavicular acroosteolysis
+4465	Progressive distal muscle weakness
+4466	Progressive distal muscular atrophy
+4467	Progressive encephalopathy
+4468	Progressive external ophthalmoplegia
+4469	Progressive extrapyramidal movement disorder
+4470	Progressive extrapyramidal muscular rigidity
+4471	Progressive flexion contractures
+4472	Progressive forgetfulness
+4473	Progressive gait ataxia
+4474	Progressive hearing impairment
+4475	Progressive intervertebral space narrowing
+4476	Progressive leg bowing
+4477	Progressive leukoencephalopathy
+4478	Progressive macrocephaly
+4479	Progressive microcephaly
+4480	Progressive muscle weakness
+4481	Progressive neurologic deterioration
+4482	Progressive night blindness
+4483	Progressive ophthalmoplegia
+4484	Progressive peripheral neuropathy
+4485	Progressive pes cavus
+4486	Progressive proximal muscle weakness
+4487	Progressive psychomotor deterioration
+4488	Progressive pulmonary function impairment
+4489	Progressive sensorineural hearing impairment
+4490	Progressive spastic paraparesis
+4491	Progressive spastic paraplegia
+4492	Progressive spastic quadriplegia
+4493	Progressive spasticity
+4494	Progressive visual field defects
+4495	Progressive visual loss
+4496	Prolactin deficiency
+4497	Prolactin excess
+4498	Prolinuria
+4499	Prolonged QT interval
+4500	Prolonged QTc interval
+4501	Prolonged bleeding after dental extraction
+4502	Prolonged bleeding after surgery
+4503	Prolonged bleeding time
+4504	Prolonged miniature endplate currents
+4505	Prolonged neonatal jaundice
+4506	Prolonged partial thromboplastin time
+4507	Prolonged prothrombin time
+4508	Prolonged somatosensory evoked potentials
+4509	Prominence of the zygomatic bone
+4510	Prominent calcaneus
+4511	Prominent coccyx
+4512	Prominent crus of helix
+4513	Prominent epicanthal folds
+4514	Prominent fingertip pads
+4515	Prominent floating ribs
+4516	Prominent forehead
+4517	Prominent glabella
+4518	Prominent metopic ridge
+4519	Prominent nasal bridge
+4520	Prominent nasal tip
+4521	Prominent nasolabial fold
+4522	Prominent nipples
+4523	Prominent nose
+4524	Prominent occiput
+4525	Prominent protruding coccyx
+4526	Prominent scalp veins
+4527	Prominent scrotal raphe
+4528	Prominent superficial blood vessels
+4529	Prominent superficial veins
+4530	Prominent supraorbital ridges
+4531	Prominent veins on trunk
+4532	Propionyl-CoA carboxylase deficiency
+4533	Proportionate short stature
+4534	Proportionate tall stature
+4535	Proptosis
+4536	Prostate cancer
+4537	Prostate neoplasm
+4538	Prostatitis
+4539	Protein-losing enteropathy
+4540	Proteinuria
+4541	Protracted diarrhea
+4542	Protruding ear
+4543	Protruding tongue
+4544	Protrusio acetabuli
+4545	Protuberant abdomen
+4546	Proximal amyotrophy
+4547	Proximal femoral metaphyseal irregularity
+4548	Proximal lower limb amyotrophy
+4549	Proximal muscle weakness
+4550	Proximal muscle weakness in lower limbs
+4551	Proximal muscle weakness in upper limbs
+4552	Proximal placement of thumb
+4553	Proximal radio-ulnar synostosis
+4554	Proximal renal tubular acidosis
+4555	Proximal symphalangism
+4556	Proximal tubulopathy
+4557	Proximal upper limb amyotrophy
+4558	Proximal upper limb muscle hypertrophy
+4559	Pruritus
+4560	Pschomotor retardation
+4561	Pseudo-fractures
+4562	Pseudobulbar behavioral symptoms
+4563	Pseudobulbar paralysis
+4564	Pseudobulbar signs
+4565	Pseudocoarctation of the aorta
+4566	Pseudoepiphyses of the 2nd finger
+4567	Pseudoepiphyses of the metacarpals
+4568	Pseudohypoparathyroidism
+4569	Pseudopapilledema
+4570	Psoriasiform dermatitis
+4571	Psychomotor deterioration
+4572	Psychosis
+4573	Psychotic episodes
+4574	Pterygium
+4575	Ptosis
+4576	Pulmonary arterial hypertension
+4577	Pulmonary artery aneurysm
+4578	Pulmonary artery atresia
+4579	Pulmonary artery dilatation
+4580	Pulmonary artery hypoplasia
+4581	Pulmonary artery stenosis
+4582	Pulmonary carcinoid tumor
+4583	Pulmonary edema
+4584	Pulmonary embolism
+4585	Pulmonary fibrosis
+4586	Pulmonary hypoplasia
+4587	Pulmonary infiltrates
+4588	Pulmonary insufficiency
+4589	Pulmonary lymphangiectasia
+4590	Pulmonary lymphangiomyomatosis
+4591	Pulmonary sequestration
+4592	Pulmonary valve atresia
+4593	Pulmonary valve defects
+4594	Pulmonic stenosis
+4595	Pulmonic valve myxoma
+4596	Pulp stones
+4597	Pulsatile tinnitus
+4598	Punctate keratitis
+4599	Punctate opacification of the cornea
+4600	Punctate periventricular T2 hyperintense foci
+4601	Punctate vertebral calcifications
+4602	Pure red cell aplasia
+4603	Purpura
+4604	Pursed lips
+4605	Pustule
+4606	Pyelonephritis
+4607	Pyloric stenosis
+4608	Pyridoxine-responsive sideroblastic anemia
+4609	Quadriceps muscle atrophy
+4610	Quadriceps muscle weakness
+4611	Rachitic rosary
+4612	Radial bowing
+4613	Radial club hand
+4614	Radial deviation of finger
+4615	Radial deviation of the 2nd finger
+4616	Radial head subluxation
+4617	Radioulnar dislocation
+4618	Radioulnar synostosis
+4619	Ragged-red muscle fibers
+4620	Rales
+4621	Rapid neurologic deterioration
+4622	Raynaud phenomenon
+4623	Reactive hypoglycemia
+4624	Rectal abscess
+4625	Rectal atresia
+4626	Rectal fistula
+4627	Rectal prolapse
+4628	Rectoperineal fistula
+4629	Rectovaginal fistula
+4630	Rectus femoris muscle atrophy
+4631	Recurrent Aspergillus infections
+4632	Recurrent abscess formation
+4633	Recurrent aphthous stomatitis
+4634	Recurrent aspiration pneumonia
+4635	Recurrent bacterial infections
+4636	Recurrent bacterial skin infections
+4637	Recurrent bronchiolitis
+4638	Recurrent bronchitis
+4639	Recurrent bronchopulmonary infections
+4640	Recurrent candida infections
+4641	Recurrent cerebral hemorrhage
+4642	Recurrent corneal erosions
+4643	Recurrent cutaneous abscess formation
+4644	Recurrent cystitis
+4645	Recurrent ear infections
+4646	Recurrent fractures
+4647	Recurrent fungal infections
+4648	Recurrent hypoglycemia
+4649	Recurrent infection of the gastrointestinal tract
+4650	Recurrent infections
+4651	Recurrent infections of the middle ear
+4652	Recurrent intrapulmonary hemorrhage
+4653	Recurrent lower respiratory tract infections
+4654	Recurrent mycobacterial infections
+4655	Recurrent opportunistic infections
+4656	Recurrent otitis media
+4657	Recurrent pancreatitis
+4658	Recurrent paroxysmal headache
+4659	Recurrent patellar dislocation
+4660	Recurrent pharyngitis
+4661	Recurrent pneumonia
+4662	Recurrent pyelonephritis
+4663	Recurrent respiratory infections
+4664	Recurrent singultus
+4665	Recurrent sinopulmonary infections
+4666	Recurrent sinusitis
+4667	Recurrent skin infections
+4668	Recurrent spontaneous abortion
+4669	Recurrent staphylococcal infections
+4670	Recurrent streptococcus pneumoniae infections
+4671	Recurrent systemic pyogenic infections
+4672	Recurrent upper and lower respiratory tract infections
+4673	Recurrent upper respiratory tract infections
+4674	Recurrent urinary tract infections
+4675	Recurrent viral infections
+4676	Red hair
+4677	Red-green dyschromatopsia
+4678	Reduced bone mineral density
+4679	Reduced brain N-acetyl aspartate level by MRS
+4680	Reduced consciousness/confusion
+4681	Reduced ejection fraction
+4682	Reduced euglobulin clot lysis time
+4683	Reduced factor IX activity
+4684	Reduced factor VIII activity
+4685	Reduced factor XI activity
+4686	Reduced intraabdominal adipose tissue
+4687	Reduced maximal inspiratory pressure
+4688	Reduced muscle fiber alpha dystroglycan
+4689	Reduced muscle fiber merosin
+4690	Reduced number of intrahepatic bile ducts
+4691	Reduced number of teeth
+4692	Reduced pancreatic beta cells
+4693	Reduced proximal interphalangeal joint space
+4694	Reduced ratio of renal calcium clearance to creatinine clearance
+4695	Reduced red cell pyruvate kinase activity
+4696	Reduced sperm motility
+4697	Reduced subcutaneous adipose tissue
+4698	Reduced systolic function
+4699	Reduced tendon reflexes
+4700	Reduced visual acuity
+4701	Reduced vital capacity
+4702	Redundant neck skin
+4703	Redundant skin
+4704	Refractory anemia
+4705	Refractory anemia with ringed sideroblasts
+4706	Regional abnormality of skin
+4707	Relative macrocephaly
+4708	Renal Fanconi syndrome
+4709	Renal agenesis
+4710	Renal amyloidosis
+4711	Renal angiomyolipoma
+4712	Renal artery stenosis
+4713	Renal calcium wasting
+4714	Renal cell carcinoma
+4715	Renal cortical adenoma
+4716	Renal cortical cysts
+4717	Renal cyst
+4718	Renal diverticulum
+4719	Renal duplication
+4720	Renal dysplasia
+4721	Renal hamartoma
+4722	Renal hypophosphatemia
+4723	Renal hypoplasia
+4724	Renal hypoplasia/aplasia
+4725	Renal insufficiency
+4726	Renal malrotation
+4727	Renal neoplasm
+4728	Renal oncocytoma
+4729	Renal phosphate wasting
+4730	Renal salt wasting
+4731	Renal steatosis
+4732	Renal tubular acidosis
+4733	Renal tubular dysfunction
+4734	Renotubular dysgenesis
+4735	Renovascular hypertension
+4736	Respiratory acidosis
+4737	Respiratory arrest
+4738	Respiratory difficulties
+4739	Respiratory distress
+4740	Respiratory failure
+4741	Respiratory failure requiring assisted ventilation
+4742	Respiratory infections in early life
+4743	Respiratory insufficiency
+4744	Respiratory insufficiency due to muscle weakness
+4745	Respiratory paralysis
+4746	Respiratory tract infection
+4747	Resting tremor
+4748	Restless legs
+4749	Restlessness
+4750	Restricted chest movement
+4751	Restrictive behavior
+4752	Restrictive cardiomyopathy
+4753	Restrictive deficit on pulmonary function testing
+4754	Restrictive ventilatory defect
+4755	Reticular hyperpigmentation
+4756	Reticular pattern on pulmonary HRCT
+4757	Reticulated skin pigmentation
+4758	Reticulocytopenia
+4759	Reticulocytosis
+4760	Retinal arteriolar tortuosity
+4761	Retinal atrophy
+4762	Retinal calcification
+4763	Retinal capillary hemangioma
+4764	Retinal cavernous angioma
+4765	Retinal coloboma
+4766	Retinal degeneration
+4767	Retinal detachment
+4768	Retinal dysplasia
+4769	Retinal dystrophy
+4770	Retinal exudate
+4771	Retinal flecks
+4772	Retinal hamartoma
+4773	Retinal hemorrhage
+4774	Retinal lesions
+4775	Retinal nonattachment
+4776	Retinal pigment epithelial mottling
+4777	Retinal telangiectasia
+4778	Retinal thinning
+4779	Retinal vascular malformation
+4780	Retinal vascular proliferation
+4781	Retinal vascular tortuosity
+4782	Retinal vein occlusion
+4783	Retinoblastoma
+4784	Retinopathy
+4785	Retinoschisis
+4786	Retractile testis
+4787	Retrobulbar optic neuritis
+4788	Retrocerebellar cyst
+4789	Retrognathia
+4790	Retroperitoneal fibrosis
+4791	Rhabdomyolysis
+4792	Rhabdomyosarcoma
+4793	Rheumatoid arthritis
+4794	Rheumatoid factor positive
+4795	Rhinitis
+4796	Rhinorrhea
+4797	Rhizo-meso-acromelic limb shortening
+4798	Rhizomelia
+4799	Rhizomelic arm shortening
+4800	Rhizomelic leg shortening
+4801	Rib exostoses
+4802	Rib fusion
+4803	Rib segmentation abnormalities
+4804	Rickets
+4805	Rickets of the lower limbs
+4806	Ridged fingernail
+4807	Ridged nail
+4808	Rieger anomaly
+4809	Right aortic arch
+4810	Right bundle branch block
+4811	Right ventricular dilatation
+4812	Right ventricular failure
+4813	Right ventricular hypertrophy
+4814	Rigidity
+4815	Rimmed vacuoles
+4816	Rocker bottom foot
+4817	Rod-cone dystrophy
+4818	Rootless teeth
+4819	Rough bone trabeculation
+4820	Round ear
+4821	Round face
+4822	Rounded middle phalanx of finger
+4823	Rudimentary fibula
+4824	Rudimentary to absent tibiae
+4825	ST segment elevation
+4826	Saccadic smooth pursuit
+4827	Sacral dimple
+4828	Sacral lipoma
+4829	Sacrococcygeal pilonidal abnormality
+4830	Sacrococcygeal teratoma
+4831	Sacroiliac arthritis
+4832	Sagittal craniosynostosis
+4833	Salivary gland neoplasm
+4834	Salt craving
+4835	Sandal gap
+4836	Sandwich appearance of vertebral bodies
+4837	Sarcoma
+4838	Scaling skin
+4839	Scalp hair loss
+4840	Scalp tenderness
+4841	Scanning speech
+4842	Scaphocephaly
+4843	Scapular muscle atrophy
+4844	Scapular winging
+4845	Scarring
+4846	Scarring alopecia of scalp
+4847	Schizencephaly
+4848	Schizophrenia
+4849	Schwannoma
+4850	Scintillating scotoma
+4851	Scissor gait
+4852	Scleral schwannoma
+4853	Scleritis
+4854	Sclerocornea
+4855	Sclerodactyly
+4856	Scleroderma
+4857	Sclerosis of foot bone
+4858	Sclerosis of hand bone
+4859	Sclerosis of skull base
+4860	Sclerotic vertebral endplates
+4861	Scoliosis
+4862	Scotoma
+4863	Scrotal hypoplasia
+4864	Scrotal pain
+4865	Sea-blue histiocytosis
+4866	Seborrheic dermatitis
+4867	Second degree atrioventricular block
+4868	Secondary amenorrhea
+4869	Secondary growth hormone deficiency
+4870	Secondary hypercorticolism
+4871	Secondary hyperparathyroidism
+4872	Secretory adrenocortical adenoma
+4873	Secretory diarrhea
+4874	Secundum atrial septal defect
+4875	Segmental myoclonic seizures
+4876	Segmental peripheral demyelination/remyelination
+4877	Seizures
+4878	Selective tooth agenesis
+4879	Self-biting
+4880	Self-injurious behavior
+4881	Self-mutilation
+4882	Semantic dementia
+4883	Senile plaques
+4884	Sensorimotor neuropathy
+4885	Sensorineural hearing impairment
+4886	Sensory ataxia
+4887	Sensory ataxic neuropathy
+4888	Sensory axonal neuropathy
+4889	Sensory impairment
+4890	Sensory neuropathy
+4891	Separation insecurity
+4892	Sepsis
+4893	Septate vagina
+4894	Septic arthritis
+4895	Septo-optic dysplasia
+4896	Serositis
+4897	Sertoli cell neoplasm
+4898	Severe B lymphocytopenia
+4899	Severe Myopia
+4900	Severe combined immunodeficiency
+4901	Severe conductive hearing impairment
+4902	Severe expressive language delay
+4903	Severe failure to thrive
+4904	Severe global developmental delay
+4905	Severe hearing impairment
+4906	Severe intrauterine growth retardation
+4907	Severe muscular hypotonia
+4908	Severe periodontitis
+4909	Severe postnatal growth retardation
+4910	Severe receptive language delay
+4911	Severe sensorineural hearing impairment
+4912	Severe short stature
+4913	Severe short-limb dwarfism
+4914	Severe viral infections
+4915	Severe visual impairment
+4916	Sex reversal
+4917	Shagreen patch
+4918	Shallow acetabular fossae
+4919	Shallow orbits
+4920	Shawl scrotum
+4921	Shield chest
+4922	Short 1st metacarpal
+4923	Short 2nd finger
+4924	Short 2nd metacarpal
+4925	Short 2nd toe
+4926	Short 3rd metacarpal
+4927	Short 3rd toe
+4928	Short 4th metacarpal
+4929	Short 4th toe
+4930	Short 5th finger
+4931	Short 5th metacarpal
+4932	Short 5th toe
+4933	Short attention span
+4934	Short chin
+4935	Short clavicles
+4936	Short columella
+4937	Short corpus callosum
+4938	Short digit
+4939	Short distal phalanx of finger
+4940	Short distal phalanx of hallux
+4941	Short distal phalanx of the thumb
+4942	Short distal phalanx of toe
+4943	Short ear
+4944	Short face
+4945	Short femoral neck
+4946	Short femur
+4947	Short fifth metatarsal
+4948	Short finger
+4949	Short first metatarsal
+4950	Short foot
+4951	Short fourth metatarsal
+4952	Short hallux
+4953	Short hard palate
+4954	Short humerus
+4955	Short iliac bones
+4956	Short lingual frenulum
+4957	Short long bone
+4958	Short lower limbs
+4959	Short mandibular rami
+4960	Short metacarpal
+4961	Short metatarsal
+4962	Short middle phalanx of finger
+4963	Short middle phalanx of the 2nd finger
+4964	Short middle phalanx of the 5th finger
+4965	Short nail
+4966	Short neck
+4967	Short nose
+4968	Short palm
+4969	Short palpebral fissure
+4970	Short phalanx of finger
+4971	Short phalanx of hallux
+4972	Short philtrum
+4973	Short proximal phalanx of hallux
+4974	Short ribs
+4975	Short sacroiliac notch
+4976	Short stature
+4977	Short stepped shuffling gait
+4978	Short sternum
+4979	Short thorax
+4980	Short thumb
+4981	Short tibia
+4982	Short toe
+4983	Short tubular bones of the hand
+4984	Short umbilical cord
+4985	Short upper lip
+4986	Shortened PR interval
+4987	Shortened QT interval
+4988	Shortening of all distal phalanges of the toes
+4989	Shortening of all middle phalanges of the fingers
+4990	Shortening of all middle phalanges of the toes
+4991	Shortening of all phalanges of fingers
+4992	Shoulder dimples
+4993	Shoulder dislocation
+4994	Shoulder flexion contracture
+4995	Shoulder girdle muscle atrophy
+4996	Shoulder girdle muscle weakness
+4997	Shoulder muscle hypoplasia
+4998	Shoulder pain
+4999	Shuffling gait
+5000	Shyness
+5001	Sick sinus syndrome
+5002	Silver-gray hair
+5003	Simultanapraxia
+5004	Single fiber EMG abnormality
+5005	Single median maxillary incisor
+5006	Single naris
+5007	Single transverse palmar crease
+5008	Single umbilical artery
+5009	Sinus bradycardia
+5010	Sinus of Valsalva aneurysm
+5011	Sinus tachycardia
+5012	Sinusitis
+5013	Sirenomelia
+5014	Situs inversus totalis
+5015	Six lumbar vertebrae
+5016	Skeletal dysplasia
+5017	Skeletal muscle atrophy
+5018	Skeletal muscle fibrosis
+5019	Skeletal muscle hypertrophy
+5020	Skeletal muscle steatosis
+5021	Skin dimple over apex of long bone angulation
+5022	Skin dimples
+5023	Skin erosion
+5024	Skin fissure
+5025	Skin nodule
+5026	Skin plaque
+5027	Skin rash
+5028	Skin tags
+5029	Skin ulcer
+5030	Skin vesicle
+5031	Skin-picking
+5032	Skull defect
+5033	Sleep apnea
+5034	Sleep disturbance
+5035	Sleep-wake cycle disturbance
+5036	Slender build
+5037	Slender finger
+5038	Slender long bone
+5039	Slender long bones with narrow diaphyses
+5040	Slender metacarpals
+5041	Slender toe
+5042	Sloping forehead
+5043	Slow decrease in visual acuity
+5044	Slow pupillary light response
+5045	Slow saccadic eye movements
+5046	Slow-growing hair
+5047	Slow-growing nails
+5048	Slowed horizontal saccades
+5049	Slowed slurred speech
+5050	Slurred speech
+5051	Small abnormally formed scapulae
+5052	Small anterior fontanelle
+5053	Small basal ganglia
+5054	Small cell lung carcinoma
+5055	Small cerebral cortex
+5056	Small cervical vertebral bodies
+5057	Small earlobe
+5058	Small epiphyses
+5059	Small face
+5060	Small for gestational age
+5061	Small hand
+5062	Small hypothenar eminence
+5063	Small intestinal dysmotility
+5064	Small intestine carcinoid
+5065	Small nail
+5066	Small pituitary gland
+5067	Small placenta
+5068	Small posterior fossa
+5069	Small thenar eminence
+5070	Small toe
+5071	Small vessel vasculitis
+5072	Small, conical teeth
+5073	Smooth philtrum
+5074	Smooth tongue
+5075	Soft skin
+5076	Soft tissue sarcoma
+5077	Soft, doughy skin
+5078	Sound sensitivity
+5079	Sparse anterior scalp hair
+5080	Sparse axillary hair
+5081	Sparse body hair
+5082	Sparse bone trabeculae
+5083	Sparse eyebrow
+5084	Sparse eyelashes
+5085	Sparse facial hair
+5086	Sparse hair
+5087	Sparse lateral eyebrow
+5088	Sparse lower eyelashes
+5089	Sparse or absent eyelashes
+5090	Sparse pubic hair
+5091	Sparse scalp hair
+5092	Spastic ataxia
+5093	Spastic diplegia
+5094	Spastic dysarthria
+5095	Spastic gait
+5096	Spastic hemiparesis
+5097	Spastic paraparesis
+5098	Spastic paraplegia
+5099	Spastic tetraparesis
+5100	Spastic tetraplegia
+5101	Spastic/hyperactive bladder
+5102	Spasticity
+5103	Specific learning disability
+5104	Speech apraxia
+5105	Speech articulation difficulties
+5106	Sperm head anomaly
+5107	Sperm tail anomaly
+5108	Spherocytosis
+5109	Spider hemangioma
+5110	Spina bifida
+5111	Spina bifida occulta
+5112	Spinal arteriovenous malformation
+5113	Spinal canal stenosis
+5114	Spinal cord compression
+5115	Spinal cord lesion
+5116	Spinal cord posterior columns myelin loss
+5117	Spinal cord tumor
+5118	Spinal deformities
+5119	Spinal dysraphism
+5120	Spinal hemangioblastoma
+5121	Spinal meningioma
+5122	Spinal myoclonus
+5123	Spinal neurofibromas
+5124	Spinal rigidity
+5125	Spinalarachnoid cyst
+5126	Spinocerebellar tract degeneration
+5127	Splanchnic vein thrombosis
+5128	Splayed toes
+5129	Splenic rupture
+5130	Splenomegaly
+5131	Split foot
+5132	Split hand
+5133	Spoken Word Recognition Deficit
+5134	Spondyloepimetaphyseal dysplasia
+5135	Spondyloepiphyseal dysplasia
+5136	Spondylolisthesis
+5137	Spondylometaphyseal dysplasia
+5138	Spontaneous abortion
+5139	Spontaneous esophageal perforation
+5140	Spontaneous hematomas
+5141	Spontaneous pain sensation
+5142	Spontaneous pneumothorax
+5143	Spontaneous rupture of the globe
+5144	Spontaneous, recurrent epistaxis
+5145	Spotty hyperpigmentation
+5146	Spotty hypopigmentation
+5147	Sprengel anomaly
+5148	Squamous cell carcinoma
+5149	Squamous cell carcinoma of the skin
+5150	Squamous cell carcinoma of the vulva
+5151	Square pelvis
+5152	Squared iliac bones
+5153	Stage 3 chronic kidney disease
+5154	Stage 5 chronic kidney disease
+5155	Stapes ankylosis
+5156	Staring gaze
+5157	Status epilepticus
+5158	Steatocystoma multiplex
+5159	Steatorrhea
+5160	Steep acetabular roof
+5161	Stenosis of the external auditory canal
+5162	Stenosis of the medullary cavity of the long bones
+5163	Steppage gait
+5164	Stercoral ulcer
+5165	Stereotypical body rocking
+5166	Stereotypy
+5167	Sternocleidomastoid amyotrophy
+5168	Stiff hip
+5169	Stiff neck
+5170	Stiff skin
+5171	Stillbirth
+5172	Stippling of the epiphysis of the distal phalanx of the thumb
+5173	Stomach cancer
+5174	Stomatitis
+5175	Stomatocytosis
+5176	Stooped posture
+5177	Strabismus
+5178	Streak ovary
+5179	Stress/infection-induced lactic acidosis
+5180	Striae distensae
+5181	Striatal T2 hyperintensity
+5182	Stridor
+5183	Stroke
+5184	Stroke-like episode
+5185	Structural foot deformity
+5186	Stuttering
+5187	Subaortic stenosis
+5188	Subarachnoid hemorrhage
+5189	Subcapsular cataract
+5190	Subchorionic septal cyst
+5191	Subconjunctival hemorrhage
+5192	Subcortical cerebral atrophy
+5193	Subcutaneous calcification
+5194	Subcutaneous hemorrhage
+5195	Subcutaneous lipoma
+5196	Subcutaneous neurofibromas
+5197	Subcutaneous nodule
+5198	Subdural hemorrhage
+5199	Subependymal giant-cell astrocytoma
+5200	Subependymal nodules
+5201	Subglottic stenosis
+5202	Submucous cleft hard palate
+5203	Submucous cleft lip
+5204	Submucous cleft of soft and hard palate
+5205	Submucous cleft soft palate
+5206	Subretinal deposits
+5207	Subretinal pigment epithelium hemorrhage
+5208	Substantia nigra gliosis
+5209	Subungual hyperkeratosis
+5210	Subungual hyperkeratotic fragments
+5211	Sudden cardiac death
+5212	Sudden death
+5213	Sudden episodic apnea
+5214	Sudden loss of visual acuity
+5215	Sunken cheeks
+5216	Supernumerary metacarpal bones
+5217	Supernumerary naris
+5218	Supernumerary nipple
+5219	Supernumerary ribs
+5220	Supraauricular pit
+5221	Supranuclear gaze palsy
+5222	Supranuclear ophthalmoplegia
+5223	Supravalvular aortic stenosis
+5224	Supraventricular arrhythmia
+5225	Supraventricular tachycardia
+5226	Susceptibility to herpesvirus
+5227	Symmetric spinal nerve root neurofibromas
+5228	Symphalangism affecting the phalanges of the hand
+5229	Symphalangism affecting the phalanges of the toes
+5230	Symphalangism of the 4th finger
+5231	Symphalangism of the 5th finger
+5232	Symphalangism of the thumb
+5233	Syncope
+5234	Syndactyly
+5235	Synophrys
+5236	Synostosis of carpal bones
+5237	Synostosis of joints
+5238	Synotia
+5239	Synovitis
+5240	Syringomyelia
+5241	Systemic lupus erythematosus
+5242	T-cell lymphoma
+5243	T-cell lymphoma/leukemia
+5244	T-wave inversion
+5245	T2 hypointense basal ganglia
+5246	Tachycardia
+5247	Tachypnea
+5248	Talipes
+5249	Talipes calcaneovalgus
+5250	Talipes calcaneovarus
+5251	Talipes cavus equinovarus
+5252	Talipes equinovalgus
+5253	Talipes equinovarus
+5254	Tall chin
+5255	Tall stature
+5256	Tapered finger
+5257	Tapering pointed ends of distal finger phalanges
+5258	Tapetoretinal degeneration
+5259	Tarsal synostosis
+5260	Taurodontia
+5261	Telangiectasia
+5262	Telangiectasia of the oral mucosa
+5263	Telangiectasia of the skin
+5264	Telecanthus
+5265	Temperature instability
+5266	Temporal cortical atrophy
+5267	Temporal hypotrichosis
+5268	Temporal optic disc pallor
+5269	Temporomandibular joint ankylosis
+5270	Tendon rupture
+5271	Tendon xanthomatosis
+5272	Tenesmus
+5273	Tented upper lip vermilion
+5274	Teratoma
+5275	Testicular atrophy
+5276	Testicular dysgenesis
+5277	Testicular gonadoblastoma
+5278	Testicular neoplasm
+5279	Testicular seminoma
+5280	Testicular teratoma
+5281	Testicular torsion
+5282	Tetany
+5283	Tethered cord
+5284	Tetraamelia
+5285	Tetralogy of Fallot
+5286	Tetralogy of Fallot with atrioventricular canal defect
+5287	Tetraparesis
+5288	Tetraplegia
+5289	Thenar muscle atrophy
+5290	Thenar muscle weakness
+5291	Thiamine-responsive megaloblastic anemia
+5292	Thick anterior alveolar ridges
+5293	Thick cerebral cortex
+5294	Thick eyebrow
+5295	Thick hair
+5296	Thick lower lip vermilion
+5297	Thick nail
+5298	Thick nasal alae
+5299	Thick upper lip vermilion
+5300	Thick vermilion border
+5301	Thickened Achilles tendon
+5302	Thickened calvaria
+5303	Thickened cortex of long bones
+5304	Thickened ears
+5305	Thickened helices
+5306	Thickened nuchal skin fold
+5307	Thickened skin
+5308	Thickening of the lateral border of the scapula
+5309	Thigh hypertrophy
+5310	Thin anteverted nares
+5311	Thin bony cortex
+5312	Thin calvarium
+5313	Thin clavicles
+5314	Thin eyebrow
+5315	Thin fingernail
+5316	Thin long bone diaphyses
+5317	Thin nail
+5318	Thin ribs
+5319	Thin skin
+5320	Thin toenail
+5321	Thin upper lip vermilion
+5322	Thin vermilion border
+5323	Thinning of Descemet membrane
+5324	Third degree atrioventricular block
+5325	Thoracic aorta calcification
+5326	Thoracic aortic aneurysm
+5327	Thoracic hemivertebrae
+5328	Thoracic hypoplasia
+5329	Thoracic kyphoscoliosis
+5330	Thoracic kyphosis
+5331	Thoracic scoliosis
+5332	Thoracolumbar kyphoscoliosis
+5333	Thoracolumbar scoliosis
+5334	Thrombocytopenia
+5335	Thrombocytosis
+5336	Thromboembolic stroke
+5337	Thromboembolism
+5338	Thrombophlebitis
+5339	Thunderclap headache
+5340	Thymoma
+5341	Thymus hyperplasia
+5342	Thyroid adenoma
+5343	Thyroid agenesis
+5344	Thyroid carcinoma
+5345	Thyroid crisis
+5346	Thyroid dysgenesis
+5347	Thyroid follicular hyperplasia
+5348	Thyroid hyperplasia
+5349	Thyroid hypoplasia
+5350	Thyroid-stimulating hormone excess
+5351	Thyroiditis
+5352	Thyrotoxicosis with diffuse goiter
+5353	Thyrotoxicosis with toxic multinodular goitre
+5354	Thyrotoxicosis with toxic single thyroid nodule
+5355	Tibial bowing
+5356	Tibial torsion
+5357	Tibialis atrophy
+5358	Tibialis muscle weakness
+5359	Tics
+5360	Tinnitus
+5361	Tip-toe gait
+5362	Titubation
+5363	Toe clinodactyly
+5364	Toe syndactyly
+5365	Toe walking
+5366	Toenail dysplasia
+5367	Tongue atrophy
+5368	Tongue edema
+5369	Tongue fasciculations
+5370	Tongue nodules
+5371	Tongue thrusting
+5372	Tonic pupil
+5373	Tooth abscess
+5374	Torsion dystonia
+5375	Torticollis
+5376	Tortuosity of conjunctival vessels
+5377	Torus palatinus
+5378	Total anosmia
+5379	Total ophthalmoplegia
+5380	Tracheal atresia
+5381	Tracheal stenosis
+5382	Tracheobronchmegaly
+5383	Tracheobronchomalacia
+5384	Tracheoesophageal fistula
+5385	Tracheomalacia
+5386	Tractional retinal detachment
+5387	Transient global amnesia
+5388	Transient hyperlipidemia
+5389	Transient hyperphenylalaninemia
+5390	Transient hypophosphatemia
+5391	Transient ischemic attack
+5392	Transient neonatal diabetes mellitus
+5393	Transitional cell carcinoma of the bladder
+5394	Transposition of the great arteries
+5395	Transudative pleural effusion
+5396	Tremor
+5397	Tremor by anatomical site
+5398	Triangular face
+5399	Triangular mouth
+5400	Triangular nasal tip
+5401	Triceps weakness
+5402	Trichiasis
+5403	Trichilemmoma
+5404	Trichodysplasia
+5405	Trichorrhexis nodosa
+5406	Tricuspid atresia
+5407	Tricuspid regurgitation
+5408	Tricuspid stenosis
+5409	Tricuspid valve prolapse
+5410	Trigeminal neuralgia
+5411	Trigonocephaly
+5412	Triphalangeal thumb
+5413	Trismus
+5414	Tritanomaly
+5415	True anophthalmia
+5416	True hermaphroditism
+5417	Truncal ataxia
+5418	Truncal obesity
+5419	Truncal titubation
+5420	Truncus arteriosus
+5421	Tubular atrophy
+5422	Tubulointerstitial abnormality
+5423	Tubulointerstitial fibrosis
+5424	Tubulointerstitial nephritis
+5425	Turricephaly
+5426	Twelfth rib hypoplasia
+5427	Type 1 muscle fiber atrophy
+5428	Type 1 muscle fiber predominance
+5429	Type 2 muscle fiber atrophy
+5430	Type A brachydactyly
+5431	Type A2 brachydactyly
+5432	Type B brachydactyly
+5433	Type C brachydactyly
+5434	Type E brachydactyly
+5435	Type I diabetes mellitus
+5436	Type I transferrin isoform profile
+5437	Type II diabetes mellitus
+5438	Type II lissencephaly
+5439	Type II transferrin isoform profile
+5440	U-Shaped upper lip vermilion
+5441	Ubiquitin-positive cerebral inclusion bodies
+5442	Ulcerative colitis
+5443	Ulnar bowing
+5444	Ulnar deviated club hands
+5445	Ulnar deviation of finger
+5446	Ulnar deviation of the wrist
+5447	Ulnar radial head dislocation
+5448	Umbilical hernia
+5449	Uncombable hair
+5450	Unconjugated hyperbilirubinemia
+5451	Underdeveloped antitragus
+5452	Underdeveloped nasal alae
+5453	Underdeveloped superior crus of antihelix
+5454	Underdeveloped supraorbital ridges
+5455	Underdeveloped tragus
+5456	Underfolded helix
+5457	Undulate ribs
+5458	Unfavorable response of muscle weakness to acetylcholine esterase inhibitors
+5459	Ungual fibroma
+5460	Unicameral bone cyst
+5461	Unilateral brachydactyly
+5462	Unilateral cleft lip
+5463	Unilateral cleft palate
+5464	Unilateral conductive hearing impairment
+5465	Unilateral cryptorchidism
+5466	Unilateral external ear deformity
+5467	Unilateral microphthalmos
+5468	Unilateral narrow palpebral fissure
+5469	Unilateral ptosis
+5470	Unilateral renal agenesis
+5471	Unilateral renal hypoplasia
+5472	Unsteady gait
+5473	Upgaze palsy
+5474	Uplifted earlobe
+5475	Upper airway obstruction
+5476	Upper eyelid coloboma
+5477	Upper eyelid edema
+5478	Upper limb amyotrophy
+5479	Upper limb asymmetry
+5480	Upper limb hypertonia
+5481	Upper limb muscle weakness
+5482	Upper limb pain
+5483	Upper limb peromelia
+5484	Upper limb phocomelia
+5485	Upper limb postural tremor
+5486	Upper limb spasticity
+5487	Upper limb undergrowth
+5488	Upper lip pit
+5489	Upper motor neuron dysfunction
+5490	Upslanted palpebral fissure
+5491	Ureteral atresia
+5492	Ureteral duplication
+5493	Ureteral obstruction
+5494	Ureteral stenosis
+5495	Ureterocele
+5496	Ureteropelvic junction obstruction
+5497	Ureterovesical stenosis
+5498	Urethral atresia
+5499	Urethral atresia, male
+5500	Urethral fistula
+5501	Urethral obstruction
+5502	Urethral stenosis
+5503	Urethral stricture
+5504	Urethral valve
+5505	Urethrovaginal fistula
+5506	Urinary bladder inflammation
+5507	Urinary bladder sphincter dysfunction
+5508	Urinary excretion of sialylated oligosaccharides
+5509	Urinary hesitancy
+5510	Urinary incontinence
+5511	Urinary retention
+5512	Urinary tract neoplasm
+5513	Urinary urgency
+5514	Urocanic aciduria
+5515	Urogenital fistula
+5516	Urogenital sinus anomaly
+5517	Urticaria
+5518	Uterine leiomyoma
+5519	Uterine leiomyosarcoma
+5520	Uterine neoplasm
+5521	Uterine prolapse
+5522	Uterine rupture
+5523	Uterus didelphys
+5524	Uveitis
+5525	Vacuolated lymphocytes
+5526	Vaginal atresia
+5527	Vaginal fistula
+5528	Vaginal hernia
+5529	Vaginal hydrocele
+5530	Vaginal lymphocele
+5531	Vaginal neoplasm
+5532	Vaginitis
+5533	Vanishing testis
+5534	Varicocele
+5535	Varicose veins
+5536	Vascular calcification
+5537	Vascular neoplasm
+5538	Vascular skin abnormality
+5539	Vasculitis
+5540	Vasculitis in the skin
+5541	Vegetative state
+5542	Velopharyngeal insufficiency
+5543	Venous abnormality
+5544	Venous insufficiency
+5545	Venous malformation
+5546	Venous thrombosis
+5547	Ventricular arrhythmia
+5548	Ventricular escape rhythm
+5549	Ventricular extrasystoles
+5550	Ventricular fibrillation
+5551	Ventricular hypertrophy
+5552	Ventricular preexcitation
+5553	Ventricular septal defect
+5554	Ventricular tachycardia
+5555	Ventriculomegaly
+5556	Verrucae
+5557	Verrucous papule
+5558	Vertebral arch anomaly
+5559	Vertebral body sclerosis
+5560	Vertebral clefting
+5561	Vertebral compression fractures
+5562	Vertebral fusion
+5563	Vertebral hypoplasia
+5564	Vertebral segmentation defect
+5565	Vertebral wedging
+5566	Vertical forehead creases
+5567	Vertical nystagmus
+5568	Vertical supranuclear gaze palsy
+5569	Vertigo
+5570	Very long chain fatty acid accumulation
+5571	Vesicoureteral reflux
+5572	Vestibular Schwannoma
+5573	Vestibular areflexia
+5574	Vestibular dysfunction
+5575	Vestibular hypofunction
+5576	Vestibular nystagmus
+5577	Villous atrophy
+5578	Violent behavior
+5579	Viral hepatitis
+5580	Visceral angiomatosis
+5581	Visceromegaly
+5582	Visual acuity test abnormality
+5583	Visual agnosia
+5584	Visual field defect
+5585	Visual fixation instability
+5586	Visual hallucinations
+5587	Visual impairment
+5588	Visual loss
+5589	Vitamin A deficiency
+5590	Vitamin B1 deficiency
+5591	Vitamin D deficiency
+5592	Vitamin E deficiency
+5593	Vitamin K deficiency
+5594	Vitelliform maculopathy
+5595	Vitiligo
+5596	Vitreoretinal degeneration
+5597	Vitreoretinopathy
+5598	Vitreous floaters
+5599	Vitreous hemorrhage
+5600	Vitritis
+5601	Vocal cord paralysis
+5602	Vocal cord paresis
+5603	Vocal tremor
+5604	Volvulus
+5605	Vomiting
+5606	Vulvodynia
+5607	Waddling gait
+5608	Waldenstrom macroglobulinemia
+5609	Warfarin-induced skin necrosis
+5610	Weak cry
+5611	Weak extraocular muscles
+5612	Weak voice
+5613	Weakness due to upper motor neuron dysfunction
+5614	Weakness of facial musculature
+5615	Weakness of long finger extensor muscles
+5616	Weakness of muscles of respiration
+5617	Weakness of the intrinsic hand muscles
+5618	Webbed neck
+5619	Weight loss
+5620	Wheezing
+5621	Whistling appearance
+5622	White eyebrow
+5623	White eyelashes
+5624	White forelock
+5625	White hair
+5626	White matter neuronal heterotopia
+5627	Wide anterior fontanel
+5628	Wide cranial sutures
+5629	Wide humerus
+5630	Wide intermamillary distance
+5631	Wide mouth
+5632	Wide nasal base
+5633	Wide nasal bridge
+5634	Wide nasal ridge
+5635	Wide nose
+5636	Wide penis
+5637	Wide proximal femoral metaphysis
+5638	Wide pubic symphysis
+5639	Widely patent fontanelles and sutures
+5640	Widely spaced teeth
+5641	Widened subarachnoid space
+5642	Widow's peak
+5643	Wolff-Parkinson-White syndrome
+5644	Woolly hair
+5645	Wormian bones
+5646	Wrist flexion contracture
+5647	Wrist swelling
+5648	Writer's cramp
+5649	Xanthelasma
+5650	Xanthomatosis
+5651	Xerostomia
+5652	Yellow nails
+5653	Yellow-brown discoloration of the teeth
+5654	Yellow/white lesions of the macula
+5655	Yellow/white lesions of the retina
+5656	Zollinger-Ellison syndrome
+5657	Zonular cataract
